@@ -1524,7 +1524,7 @@ document.addEventListener('click', function(e){
   else if(h.indexOf('#devis') > -1) gtag('event', 'devis_click', {transport_type:'beacon'});
 });
 var saved = 'ar'; try{ saved = localStorage.getItem('almmich-lang') || 'ar'; }catch(e){}
-if(saved !== 'ar') setLang(saved);
+setLang(saved);
 </script>
 </body>
 </html>
