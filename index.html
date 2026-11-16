@@ -1219,6 +1219,9 @@
   .cta-devis:hover{ background:var(--gold-light); }
   .cta-wa{ background:#1FA855; color:#fff; }
   .cta-wa svg{ width:21px; height:21px; fill:#fff; flex:none; }
+  .cta-call{ background:rgba(245,240,232,.08); color:var(--cream); border:1px solid rgba(201,162,39,.55); }
+  .cta-call:hover{ background:rgba(201,162,39,.18); }
+  @media (max-width:520px){ .cta-bar{ gap:.45rem; padding:.4rem; } .cta-bar a{ padding:.6rem .85rem; font-size:.9rem; } }
   body{ padding-bottom:86px; }
 
   /* ============ REVEAL ============ */
@@ -2152,6 +2155,7 @@
     <p class="reviews-count" data-i18n="rev_count">4 آراء على Google</p>
     <p class="reviews-note" data-i18n="rev_note">تقييم حقيقي من صفحة الشركة على Google — اضغط باش تشوف الصفحة وتقرا الآراء بنفسك.</p>
     <a class="btn-primary" href="https://www.google.com/search?q=Almmich+Group+Rabat" target="_blank" rel="noopener"><span data-i18n="rev_btn">شوفنا على Google</span></a>
+    <a class="btn-outline" href="https://g.page/r/CeOnyK4mnwneEBM/review" target="_blank" rel="noopener"><span data-i18n="rev_btn2">قيّم تجربتك معانا</span></a>
   </div>
 </section>
 
@@ -2393,6 +2397,7 @@
 <!-- ================= CTA BAR — اطلب دفي ================= -->
 <div class="cta-bar">
   <a href="#devis" class="cta-devis">📋 <span data-i18n="cta_quote">اطلب دفي</span></a>
+  <a href="tel:+212661841633" class="cta-call">📞 <span data-i18n="cta_call">اتصال</span></a>
   <a class="cta-wa wa-link" href="https://wa.me/212661841633" target="_blank" rel="noopener" aria-label="WhatsApp — Almmich Group">
   <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg><span data-i18n="cta_wa">واتساب</span></a>
 </div>
@@ -2491,7 +2496,7 @@ ar: {
   f_zones: "القنيطرة • الرباط • سلا • تمارة • الدار البيضاء — مشاريع في المغرب كامل",
   copy_txt: "© 2026 Almmich Group — جميع الحقوق محفوظة.",
   wa_greet: "السلام Almmich Group، بغيت نطلب دفي لمشروعي.",
-  cta_quote: "اطلب دفي", cta_wa: "واتساب",
+  cta_quote: "اطلب دفي", cta_wa: "واتساب", cta_call: "اتصال",
   m_intro: "السلام، كنبغي نطلب دفي من Almmich Group:",
   m_name: "الاسم", m_phone: "التيليفون", m_city: "المدينة", m_service: "نوع الخدمة", m_msg: "رسالتك", m_none: "غير محددة",
   nav_gallery: "قبل / بعد", nav_cities: "المدن", nav_mre: "الخارج والخليج", nav_faq: "الأسئلة الشائعة",
@@ -2512,7 +2517,7 @@ ar: {
   mre3_t: "شركة واحدة مسؤولة", mre3_p: "مخاطب واحد ومسؤولية واحدة من أول اتصال حتى التسليم: لا حاجة للتنسيق بين حرفيين متعددين عن بُعد.",
   mre_badge: "متابعة بالصور والفيديو — فين ما كنتي في العالم",
   rev_tag: "آراء Google", rev_title: "التقييم ديالنا على <strong>Google</strong>", rev_count: "4 آراء على Google",
-  rev_note: "تقييم حقيقي من صفحة الشركة على Google — اضغط باش تشوف الصفحة وتقرا الآراء بنفسك.", rev_btn: "شوفنا على Google",
+  rev_note: "تقييم حقيقي من صفحة الشركة على Google — اضغط باش تشوف الصفحة وتقرا الآراء بنفسك.", rev_btn: "شوفنا على Google", rev_btn2: "قيّم تجربتك معانا",
   faq_tag: "أسئلة شائعة", faq_title: "عندك سؤال؟ <strong>ها الجواب</strong>",
   q1: "كيفاش كنبداو؟", a1: "ببساطة: كتواصل معانا بواتساب ولا بالإستمارة، كنحددو زيارة للموقع باش نسمعو ليك وناخدو القياسات، كنصايبو ليك دفي مكتوب ومفصّل، وملي كتفقو عليه كنبداو الأشغال حتى التسليم.",
   q2: "واش الديفي مكتوب؟", a2: "إيه. الدفي عندنا مكتوب ومفصّل بند ببند، وكيتصايب من بعد زيارة الموقع — قبل ما تبدا حتى شي خدمة، كلشي واضح ومتفق عليه.",
@@ -2624,7 +2629,7 @@ fr: {
   f_zones: "Kénitra • Rabat • Salé • Témara • Casablanca — projets dans tout le Maroc",
   copy_txt: "© 2026 Almmich Group — Tous droits réservés.",
   wa_greet: "Bonjour Almmich Group, je souhaite demander un devis pour mon projet.",
-  cta_quote: "Demander un devis", cta_wa: "WhatsApp",
+  cta_quote: "Demander un devis", cta_wa: "WhatsApp", cta_call: "Appeler",
   m_intro: "Bonjour, je souhaite demander un devis à Almmich Group :",
   m_name: "Nom", m_phone: "Téléphone", m_city: "Ville", m_service: "Type de service", m_msg: "Message", m_none: "Non précisé",
   nav_gallery: "Avant / Après", nav_cities: "Villes", nav_mre: "MRE & Golfe", nav_faq: "FAQ",
@@ -2645,7 +2650,7 @@ fr: {
   mre3_t: "Une seule entreprise responsable", mre3_p: "Un seul interlocuteur et une seule responsabilité, du premier contact à la livraison : fini la coordination d'artisans à distance.",
   mre_badge: "Suivi en photos et vidéos — où que vous soyez dans le monde",
   rev_tag: "Avis Google", rev_title: "Notre note sur <strong>Google</strong>", rev_count: "4 avis Google",
-  rev_note: "Note réelle de la fiche Google de l'entreprise — cliquez pour ouvrir la fiche et lire les avis vous-même.", rev_btn: "Nous voir sur Google",
+  rev_note: "Note réelle de la fiche Google de l'entreprise — cliquez pour ouvrir la fiche et lire les avis vous-même.", rev_btn: "Nous voir sur Google", rev_btn2: "Évaluez votre expérience",
   faq_tag: "Questions fréquentes", faq_title: "Une question ? <strong>Voici la réponse</strong>",
   q1: "Comment commençons-nous ?", a1: "Simplement : vous nous contactez par WhatsApp ou via le formulaire, nous fixons une visite de votre site pour vous écouter et prendre les mesures, nous établissons un devis écrit et détaillé, et une fois convenu, les travaux commencent jusqu'à la livraison.",
   q2: "Le devis est-il écrit ?", a2: "Oui. Notre devis est écrit et détaillé poste par poste, établi après la visite de votre site — avant le début des travaux, tout est clair et convenu.",
@@ -2757,7 +2762,7 @@ en: {
   f_zones: "Kénitra • Rabat • Salé • Témara • Casablanca — projects across Morocco",
   copy_txt: "© 2026 Almmich Group — All rights reserved.",
   wa_greet: "Hello Almmich Group, I would like to request a quote for my project.",
-  cta_quote: "Request a quote", cta_wa: "WhatsApp",
+  cta_quote: "Request a quote", cta_wa: "WhatsApp", cta_call: "Call",
   m_intro: "Hello, I would like to request a quote from Almmich Group:",
   m_name: "Name", m_phone: "Phone", m_city: "City", m_service: "Type of service", m_msg: "Message", m_none: "Not specified",
   nav_gallery: "Before / After", nav_cities: "Cities", nav_mre: "Abroad & Gulf", nav_faq: "FAQ",
@@ -2778,7 +2783,7 @@ en: {
   mre3_t: "One accountable company", mre3_p: "One contact and one accountability, from the first call to handover: no coordinating tradesmen from a distance.",
   mre_badge: "Photo & video follow-up — wherever you are in the world",
   rev_tag: "Google reviews", rev_title: "Our rating on <strong>Google</strong>", rev_count: "4 Google reviews",
-  rev_note: "The real rating from the company's Google listing — click to open it and read the reviews yourself.", rev_btn: "See us on Google",
+  rev_note: "The real rating from the company's Google listing — click to open it and read the reviews yourself.", rev_btn: "See us on Google", rev_btn2: "Rate your experience",
   faq_tag: "FAQ", faq_title: "A question? <strong>Here's the answer</strong>",
   q1: "How do we start?", a1: "Simply: you contact us on WhatsApp or through the form, we arrange a site visit to listen to you and take measurements, we draw up a written, detailed quote, and once agreed, work starts through to handover.",
   q2: "Is the quote in writing?", a2: "Yes. Our quote is written and itemised, drawn up after visiting your site — before any work starts, everything is clear and agreed.",
@@ -3343,6 +3348,23 @@ setLang("ar");
 </script>
 <script>
 window.addEventListener('load',function(){var v=document.querySelector('video[data-src]');if(!v)return;var c=navigator.connection||{};if(c.saveData||/2g/.test(c.effectiveType||''))return;v.src=v.dataset.src;v.load();var p=v.play();if(p)p.catch(function(){});});
+</script>
+<script>
+/* GA4 — suivi des clics importants : WhatsApp, appel, devis */
+(function(){
+  function track(name){ if (typeof gtag === "function") { gtag("event", name, { transport_type: "beacon" }); } }
+  document.addEventListener("click", function(e){
+    var t = e.target;
+    var a = (t && t.closest) ? t.closest("a") : null;
+    if (!a) return;
+    var href = a.getAttribute("href") || "";
+    if (href.indexOf("wa.me") !== -1) track("whatsapp_click");
+    else if (href.indexOf("tel:") === 0) track("call_click");
+    else if (href === "#devis") track("devis_click");
+  }, true);
+  var f = document.getElementById("devisForm");
+  if (f) f.addEventListener("submit", function(){ track("devis_submit"); });
+})();
 </script>
 </body>
 </html>
