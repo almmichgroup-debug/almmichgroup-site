@@ -96,7 +96,7 @@
   nav{
     position:fixed; top:0; left:0; right:0; z-index:1000;
     padding:0 3.5rem; height:84px;
-    display:flex; align-items:center; justify-content:space-between; gap:1rem;
+    display:flex; align-items:center; justify-content:space-between; gap:1rem; flex-wrap:nowrap;
     transition:height .5s var(--ease), background .5s var(--ease), border-color .5s var(--ease);
     border-bottom:1px solid transparent;
   }
@@ -118,12 +118,15 @@
     font-family:var(--fc); font-size:.6rem; letter-spacing:.28em; text-transform:uppercase; color:var(--muted); display:block; margin-top:.15rem;
   }
   html[lang="ar"] .nav-brand-sub{ letter-spacing:.05em; font-size:.68rem; }
-  .nav-links{ display:flex; list-style:none; gap:1.55rem; align-items:center; }
+  .nav-links{ display:flex; list-style:none; gap:clamp(.6rem, 1.1vw, 1.55rem); align-items:center; flex-wrap:nowrap; min-width:0; }
   .nav-links a{
-    color:var(--cream); text-decoration:none;
+    color:var(--cream); text-decoration:none; white-space:nowrap;
     font-family:var(--fc); font-size:.85rem; letter-spacing:.14em; text-transform:uppercase;
     opacity:.85; transition:all .3s; position:relative; padding:.3rem 0;
   }
+  html[lang="fr"] .nav-links{ gap:clamp(.45rem, .85vw, 1.05rem); }
+  html[lang="fr"] .nav-links a{ font-size:.76rem; letter-spacing:.05em; }
+  html[lang="en"] .nav-links a{ font-size:.78rem; letter-spacing:.06em; }
   html[lang="ar"] .nav-links a{ letter-spacing:.02em; font-size:.95rem; font-weight:500; }
   .nav-links a::after{
     content:''; position:absolute; bottom:0; inset-inline-start:0;
@@ -134,7 +137,19 @@
   .nav-cta{
     background:var(--gold); color:var(--green-950) !important;
     padding:.55rem 1.35rem !important; opacity:1 !important; font-weight:700 !important;
-    border-radius:999px;
+    border-radius:999px; white-space:nowrap; flex-shrink:0; display:inline-block; line-height:1.25;
+  }
+  html[lang="fr"] .nav-cta{ padding:.5rem 1rem !important; }
+  .nav-tools{ flex-shrink:0; }
+  @media (max-width:1400px){
+    nav{ padding:0 1.5rem; }
+    .nav-brand-sub{ display:none; }
+    .nav-brand-name{ font-size:1.05rem; }
+  }
+  @media (max-width:1150px){
+    .nav-links a{ font-size:.76rem; letter-spacing:.06em; }
+    html[lang="ar"] .nav-links a{ font-size:.85rem; }
+    html[lang="fr"] .nav-links a{ font-size:.72rem; }
   }
   .nav-cta::after{ display:none !important; }
   .nav-cta:hover{ background:var(--gold-light) !important; }
@@ -1047,6 +1062,13 @@
     .dl-panel{ padding:2.6rem 1.4rem; }
     .dl-btn{ width:100%; justify-content:center; text-align:center; }
   }
+  .pfo-grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:1.1rem; max-width:1080px; margin:0 auto 2.6rem; }
+  .pfo-grid figure{ margin:0; border-radius:18px; overflow:hidden; border:1px solid var(--line); background:var(--panel-2); }
+  .pfo-grid img{ width:100%; height:230px; object-fit:cover; display:block; }
+  .pfo-grid figcaption{ padding:.75rem 1rem; font-size:.92rem; font-weight:700; color:var(--cream); line-height:1.6; text-align:start; display:flex; gap:.55rem; align-items:center; }
+  .pfo-grid figcaption .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); flex-shrink:0; }
+  @media (max-width:900px){ .pfo-grid{ grid-template-columns:repeat(2,1fr); } }
+  @media (max-width:560px){ .pfo-grid{ grid-template-columns:1fr; } .pfo-grid img{ height:210px; } }
 
   /* ============ GOOGLE REVIEWS ============ */
   #avis{ background:var(--green-900); }
@@ -2131,6 +2153,14 @@
     <div class="section-tag" data-i18n="pfo_tag">ملف الأعمال</div>
     <h2 class="section-title" data-i18n="pfo_title">أعمالنا، <strong>بالصور</strong></h2>
   </div>
+  <div class="pfo-grid reveal">
+    <figure><img src="assets/img-pf-01.webp" alt="قاعة الفهرية — وزارة السكنى، الرباط — عمل حقيقي منجز من Almmich Group" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c1">قاعة الفهرية — وزارة السكنى، الرباط • عمل حقيقي</span></figcaption></figure>
+    <figure><img src="assets/img-pf-02.webp" alt="قاعة الفهرية — تجهيز وإصلاح داخلي — عمل حقيقي" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c2">قاعة الفهرية — تجهيز وإصلاح داخلي • عمل حقيقي</span></figcaption></figure>
+    <figure><img src="assets/img-pf-03.webp" alt="قاعة الفهرية — قاعة اجتماعات منجزة — عمل حقيقي" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c3">قاعة الفهرية — قاعة اجتماعات منجزة • عمل حقيقي</span></figcaption></figure>
+    <figure><img src="assets/img-pf-04.webp" alt="صالون عصري — تأثيث وإصلاح — عمل حقيقي" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c4">صالون عصري — تأثيث وإصلاح • عمل حقيقي</span></figcaption></figure>
+    <figure><img src="assets/img-pf-05.webp" alt="صالون منجز — إضاءة وديكور — عمل حقيقي" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c5">صالون منجز — إضاءة وديكور • عمل حقيقي</span></figcaption></figure>
+    <figure><img src="assets/img-pf-06.webp" alt="صالون مفتوح — أثاث عصري — عمل حقيقي" loading="lazy" decoding="async"><figcaption><span class="dot"></span><span data-i18n="pfo_c6">صالون مفتوح — أثاث عصري • عمل حقيقي</span></figcaption></figure>
+  </div>
   <div class="dl-panel reveal">
     <div class="dl-lines">
       <p><svg viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"/></svg><span data-i18n="pfo_l1">صور حقيقية من أوراشنا: الهيكل والخرسانة المسلحة، القوالب والتسليح، العزل المائي والواجهات.</span></p>
@@ -2536,7 +2566,9 @@ ar: {
   pfo_l1: "صور حقيقية من أوراشنا: الهيكل والخرسانة المسلحة، القوالب والتسليح، العزل المائي والواجهات.",
   pfo_l2: "مدارس جبال الحوز — مؤسسات تعليمية تبنات ضمن البرنامج الوطني لإعادة التأهيل بعد الزلزال.",
   pfo_l3: "أعمال إصلاح داخلية بنماذج توضيحية موسومة بوضوح — بلا خلط مع الأعمال الحقيقية.",
-  pfo_btn: "📄 تحميل مجلة الأعمال (PDF)", pfo_note: "مجلة PDF — صور حقيقية من الأوراش + صور توضيحية موسومة."
+  pfo_btn: "📄 تحميل مجلة الأعمال (PDF)", pfo_note: "مجلة PDF — صور حقيقية من الأوراش + صور توضيحية موسومة.",
+  pfo_c1: "قاعة الفهرية — وزارة السكنى، الرباط • عمل حقيقي", pfo_c2: "قاعة الفهرية — تجهيز وإصلاح داخلي • عمل حقيقي", pfo_c3: "قاعة الفهرية — قاعة اجتماعات منجزة • عمل حقيقي",
+  pfo_c4: "صالون عصري — تأثيث وإصلاح • عمل حقيقي", pfo_c5: "صالون منجز — إضاءة وديكور • عمل حقيقي", pfo_c6: "صالون مفتوح — أثاث عصري • عمل حقيقي"
 },
 fr: {
   doc_title: "Almmich Group — Construction et rénovation de villas et maisons au Maroc | Casablanca, Rabat, Kénitra",
@@ -2669,7 +2701,9 @@ fr: {
   pfo_l1: "Des photos réelles de nos chantiers : structure et béton armé, coffrage et ferraillage, étanchéité et façades.",
   pfo_l2: "Les écoles du Haut Atlas — des établissements scolaires construits dans le programme national de réhabilitation après le séisme.",
   pfo_l3: "Des travaux de rénovation intérieure en images d'illustration, clairement signalés — jamais confondus avec nos travaux réels.",
-  pfo_btn: "📄 Télécharger le magazine des réalisations (PDF)", pfo_note: "Magazine PDF — photos réelles de chantiers et illustrations signalées."
+  pfo_btn: "📄 Télécharger le magazine des réalisations (PDF)", pfo_note: "Magazine PDF — photos réelles de chantiers et illustrations signalées.",
+  pfo_c1: "Salle Al Fahriya — Ministère de l'Habitat, Rabat • Travail réel", pfo_c2: "Salle Al Fahriya — Aménagement et rénovation intérieure • Travail réel", pfo_c3: "Salle Al Fahriya — Salle de réunion livrée • Travail réel",
+  pfo_c4: "Salon moderne — Ameublement et rénovation • Travail réel", pfo_c5: "Salon livré — Éclairage et décoration • Travail réel", pfo_c6: "Salon ouvert — Mobilier contemporain • Travail réel"
 },
 en: {
   doc_title: "Almmich Group — Villa & Home Construction and Renovation in Morocco | Casablanca, Rabat, Kénitra",
@@ -2802,7 +2836,9 @@ en: {
   pfo_l1: "Real photos from our sites: structural work and reinforced concrete, formwork and steel reinforcement, waterproofing and façades.",
   pfo_l2: "The High Atlas schools — school buildings built under the national post-earthquake rehabilitation programme.",
   pfo_l3: "Interior renovation shown through clearly labelled illustrative images — never passed off as real client work.",
-  pfo_btn: "📄 Download the magazine of our work (PDF)", pfo_note: "PDF magazine — real site photos plus labelled illustrations."
+  pfo_btn: "📄 Download the magazine of our work (PDF)", pfo_note: "PDF magazine — real site photos plus labelled illustrations.",
+  pfo_c1: "Al Fahriya Hall — Ministry of Housing, Rabat • Real work", pfo_c2: "Al Fahriya Hall — Interior fit-out and renovation • Real work", pfo_c3: "Al Fahriya Hall — Delivered meeting room • Real work",
+  pfo_c4: "Modern salon — Furnishing and renovation • Real work", pfo_c5: "Delivered salon — Lighting and décor • Real work", pfo_c6: "Open-plan salon — Contemporary furniture • Real work"
 }
 };
 
