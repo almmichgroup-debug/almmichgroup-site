@@ -2183,7 +2183,7 @@ setLang("ar");
 })();
 </script>
 <script>
-/* ============ PRELOADER — dismiss on load (CSS fallback hides it regardless) ============ */
+/* ============ PRELOADER — dismiss on DOM ready (fast first paint) ============ */
 (function(){
   var pre = document.getElementById("preloader");
   if (!pre) return;
@@ -2193,9 +2193,9 @@ setLang("ar");
     pre.classList.add("done");
     setTimeout(function(){ if (pre.parentNode) pre.parentNode.removeChild(pre); }, 800);
   }
-  if (document.readyState === "complete") setTimeout(hide, 350);
-  else window.addEventListener("load", function(){ setTimeout(hide, 350); });
-  setTimeout(hide, 2600);
+  if (document.readyState !== "loading") setTimeout(hide, 150);
+  else document.addEventListener("DOMContentLoaded", function(){ setTimeout(hide, 150); });
+  setTimeout(hide, 1500);
 })();
 </script>
 <script>
