@@ -2222,7 +2222,7 @@ setLang("ar");
 })();
 </script>
 <script>
-window.addEventListener('load',function(){setTimeout(function(){var v=document.querySelector('video[data-src]');if(!v)return;var c=navigator.connection||{};if(c.saveData||/2g/.test(c.effectiveType||''))return;v.src=v.dataset.src;v.load();var p=v.play();if(p)p.catch(function(){});},2500);});
+window.addEventListener('load',function(){var started=false;function start(){if(started)return;started=true;var v=document.querySelector('video[data-src]');if(!v)return;var c=navigator.connection||{};if(c.saveData||/2g/.test(c.effectiveType||''))return;v.src=v.dataset.src;v.load();var p=v.play();if(p)p.catch(function(){});}['scroll','touchstart','click','keydown'].forEach(function(e){window.addEventListener(e,start,{once:true,passive:true});});setTimeout(start,7000);});
 </script>
 <script>
 /* GA4 — suivi des clics importants : WhatsApp, appel, devis */
