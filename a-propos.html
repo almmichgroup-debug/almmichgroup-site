@@ -1287,4 +1287,45 @@ setLang(saved);
   var f = document.getElementById("devisForm");
   if (f) f.addEventListener("submit", function(){ track("devis_submit"); });
 })();
-</script></body></html>
+</script>
+<style>
+#ag-review-pop{position:fixed;inset:0;background:rgba(6,32,24,.55);display:none;align-items:center;justify-content:center;z-index:9999;padding:1rem}
+#ag-review-pop.open{display:flex}
+#ag-review-pop .box{background:#fff;border-radius:20px;max-width:420px;width:100%;padding:1.8rem 1.5rem;text-align:center;box-shadow:0 24px 60px rgba(0,0,0,.35);border-top:5px solid #C9A227}
+#ag-review-pop h3{margin:.2rem 0 .5rem;color:#0B3D2E;font-size:1.35rem}
+#ag-review-pop p{color:#55554c;margin:.3rem 0 1.1rem;line-height:1.7}
+#ag-review-pop .stars{font-size:1.7rem;color:#C9A227;letter-spacing:.25rem}
+#ag-review-pop a.btn{display:inline-block;background:#0B3D2E;color:#fff;padding:.8rem 1.6rem;border-radius:999px;font-weight:700;text-decoration:none}
+#ag-review-pop button.later{display:block;margin:.9rem auto 0;background:none;border:none;color:#8a8a7d;cursor:pointer;font-size:.95rem;text-decoration:underline}
+#ag-review-pop .x{position:absolute;top:.6rem;inset-inline-end:.9rem;background:none;border:none;font-size:1.3rem;color:#8a8a7d;cursor:pointer}
+</style>
+<div id="ag-review-pop" role="dialog" aria-modal="true"><div class="box" style="position:relative">
+<button class="x" id="ag-rp-x" aria-label="close">✕</button>
+<div class="stars">★★★★★</div>
+<h3 id="ag-rp-t"></h3>
+<p id="ag-rp-b"></p>
+<a class="btn" id="ag-rp-a" href="https://g.page/r/CeOnyK4mnwneEBM/review" target="_blank" rel="noopener"></a>
+<button class="later" id="ag-rp-l"></button>
+</div></div>
+<script>
+(function(){
+var T={ar:{t:"قيّم تجربتك معانا",b:"رأيك كيعاونّا نطوّرو خدمتنا وكيعاون زبناء آخرين يثيقو فينا. التقييم كياخد أقل من دقيقة.",a:"قيّم الآن في Google",l:"لاحقاً"},
+fr:{t:"Évaluez votre expérience",b:"Votre avis nous aide à nous améliorer et aide d'autres clients à nous faire confiance. Moins d'une minute.",a:"Évaluer sur Google",l:"Plus tard"},
+en:{t:"Rate your experience",b:"Your review helps us improve and helps other clients trust us. It takes under a minute.",a:"Review on Google",l:"Later"}};
+var KEY="ag_review_pop_ts";try{if(localStorage.getItem(KEY)&&Date.now()-+localStorage.getItem(KEY)<2592000000)return;}catch(e){}
+var pop=document.getElementById("ag-review-pop");if(!pop)return;
+function fill(){var l=(document.documentElement.lang||"ar").slice(0,2);var d=T[l]||T.ar;document.getElementById("ag-rp-t").textContent=d.t;document.getElementById("ag-rp-b").textContent=d.b;var a=document.getElementById("ag-rp-a");a.textContent=d.a;document.getElementById("ag-rp-l").textContent=d.l;}
+var shown=false;
+function show(){if(shown)return;shown=true;fill();pop.classList.add("open");try{localStorage.setItem(KEY,Date.now());}catch(e){} }
+function hide(){pop.classList.remove("open");}
+document.getElementById("ag-rp-x").addEventListener("click",hide);
+document.getElementById("ag-rp-l").addEventListener("click",hide);
+document.getElementById("ag-rp-a").addEventListener("click",function(){try{if(window.gtag)gtag("event","review_click",{link_location:"exit_popup",page_path:location.pathname});}catch(e){} hide();});
+pop.addEventListener("click",function(e){if(e.target===pop)hide();});
+document.addEventListener("mouseout",function(e){if(!e.relatedTarget&&e.clientY<=0)show();});
+var t0=Date.now();
+window.addEventListener("scroll",function(){if(Date.now()-t0>40000&&window.scrollY>document.body.scrollHeight*0.45)show();},{passive:true});
+setTimeout(function(){if(window.scrollY>600)show();},60000);
+})();
+</script>
+</body></html>
