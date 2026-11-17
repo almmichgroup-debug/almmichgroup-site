@@ -1390,8 +1390,8 @@ function estCalc(){
   var lang = document.documentElement.lang || 'ar';
   var cur = (lang === 'ar') ? ' درهم' : ' MAD';
   var low, high, b1, b2, b3;
-  var GO_RATE = {eco: 1700, moyen: 2000, haut: 2500};
-  var goLow = surf * GO_RATE[level] * 0.85, goHigh = surf * GO_RATE[level] * 1.15;
+  var GO_RATE = {eco: 1700, moy: 2000, haut: 2500};
+  var goLow = surf * GO_RATE[lvl] * 0.85, goHigh = surf * GO_RATE[lvl] * 1.15;
   if(mode === 'gros'){ low = goLow; high = goHigh; b1 = [low, high]; b2 = null; b3 = null; }
   else { low = tLow * 1.25; high = tHigh * 1.25; b1 = [goLow, goHigh]; b2 = [Math.max(0, tLow - goHigh), Math.max(0, tHigh - goLow)]; b3 = [tLow * 0.25, tHigh * 0.25]; }
   document.getElementById('estRange').textContent = estMoney(low) + ' – ' + estMoney(high) + cur;
