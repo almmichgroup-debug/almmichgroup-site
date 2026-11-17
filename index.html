@@ -2222,20 +2222,20 @@ setLang("ar");
 })();
 </script>
 <script>
-window.addEventListener('load',function(){var started=false;function start(){if(started)return;started=true;var v=document.querySelector('video[data-src]');if(!v)return;var c=navigator.connection||{};if(c.saveData||/2g/.test(c.effectiveType||''))return;v.src=v.dataset.src;v.load();var p=v.play();if(p)p.catch(function(){});}['scroll','touchstart','click','keydown'].forEach(function(e){window.addEventListener(e,start,{once:true,passive:true});});setTimeout(start,7000);});
+window.addEventListener('load',function(){var started=false;function start(){if(started)return;started=true;var v=document.querySelector('video[data-src]');if(!v)return;v.addEventListener('error',function(){if(v.parentNode)v.parentNode.removeChild(v);},true);var c=navigator.connection||{};if(c.saveData||/2g/.test(c.effectiveType||''))return;v.src=v.dataset.src;v.load();var p=v.play();if(p)p.catch(function(){});}['scroll','touchstart','click','keydown'].forEach(function(e){window.addEventListener(e,start,{once:true,passive:true});});setTimeout(start,7000);});
 </script>
 <script>
 /* GA4 — suivi des clics importants : WhatsApp, appel, devis */
 (function(){
-  function track(name){ if (typeof gtag === "function") { gtag("event", name, { transport_type: "beacon" }); } }
+  function track(name, a){ var loc = "page"; if (a) { var sec = a.closest ? a.closest("section[id], header, footer, .cta-bar") : null; if (sec) loc = sec.id || "cta-bar"; } if (typeof gtag === "function") { gtag("event", name, { transport_type: "beacon", link_location: loc, page_path: location.pathname }); } }
   document.addEventListener("click", function(e){
     var t = e.target;
     var a = (t && t.closest) ? t.closest("a") : null;
     if (!a) return;
     var href = a.getAttribute("href") || "";
-    if (href.indexOf("wa.me") !== -1) track("whatsapp_click");
-    else if (href.indexOf("tel:") === 0) track("call_click");
-    else if (href === "#devis") track("devis_click");
+    if (href.indexOf("wa.me") !== -1) track("whatsapp_click", a);
+    else if (href.indexOf("tel:") === 0) track("call_click", a);
+    else if (href === "#devis") track("devis_click", a);
   }, true);
   var f = document.getElementById("devisForm");
   if (f) f.addEventListener("submit", function(){ track("devis_submit"); });

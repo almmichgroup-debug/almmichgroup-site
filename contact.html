@@ -1272,4 +1272,20 @@ document.addEventListener('click', function(e){
 var saved = 'ar'; try{ saved = localStorage.getItem('almmich-lang') || 'ar'; }catch(e){}
 setLang(saved);
 </script>
-</body></html>
+<script>
+/* GA4 — suivi des clics importants : WhatsApp, appel, devis */
+(function(){
+  function track(name, a){ var loc = "page"; if (a) { var sec = a.closest ? a.closest("section[id], header, footer, .cta-bar") : null; if (sec) loc = sec.id || "cta-bar"; } if (typeof gtag === "function") { gtag("event", name, { transport_type: "beacon", link_location: loc, page_path: location.pathname }); } }
+  document.addEventListener("click", function(e){
+    var t = e.target;
+    var a = (t && t.closest) ? t.closest("a") : null;
+    if (!a) return;
+    var href = a.getAttribute("href") || "";
+    if (href.indexOf("wa.me") !== -1) track("whatsapp_click", a);
+    else if (href.indexOf("tel:") === 0) track("call_click", a);
+    else if (href === "#devis") track("devis_click", a);
+  }, true);
+  var f = document.getElementById("devisForm");
+  if (f) f.addEventListener("submit", function(){ track("devis_submit"); });
+})();
+</script></body></html>
