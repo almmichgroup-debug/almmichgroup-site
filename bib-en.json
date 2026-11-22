@@ -1,0 +1,1142 @@
+{
+ "_badge": "Rule ",
+ "_boiler": {
+  "pos": "We are not the only ones on the market, but we are the best — serious people the client can rely on, and once we start a job, we don't stop until it is finished.",
+  "wa": "📲 WhatsApp: 0661841633 — Kenitra • Rabat • Sale • Temara"
+ },
+ "2": {
+  "title": "A roof terrace most often leaks at the top of the waterproofing upstands. The correct rule (reference DTU 20.12): a sound, crack-free parapet (acrotère), a waterproofing upstand at the proper height — at least 10 cm above the finished roof level — and protection at the top (couvertine) so water never gets behind the waterproofing membrane. In Morocco, the waterproofing reference is standard NM 10.8.913.",
+  "body": "📲 WhatsApp: 0661841633 — Kenitra • Rabat • Sale — Source: Batirama (DTU 20.12)",
+  "category": "Renovation",
+  "theme": "Waterproofing",
+  "_noBoiler": true
+ },
+ "3": {
+  "title": "Most bids are eliminated from public tenders before their price is even opened. 📂",
+  "body": "Elimination is most often administrative, not technical: a missing document, an expired certificate, or a bid bond that does not match what the consultation rules require. The lesson: the consultation rules must be read in full, from start to finish, before any price is calculated — the site is also won in the office.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "4": {
+  "title": "Three acronyms decide the fate of any tender: CCAG – CCAP – CPS. 📜",
+  "body": "The CCAG is the set of general rules that applies to all works contracts; the CCAP adapts those rules precisely to your project (deadlines, penalties, deductions); and the CPS technically describes the works to be carried out. The price is only one line in the contract — these documents are the real contract.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "5": {
+  "title": "The Moroccan standard (NM) — what exactly is it, and who writes it? 📏",
+  "body": "Moroccan standards are coordinated by IMANOR with industry professionals. Originally, applying a standard is voluntary… until a regulatory text or a tender document (CPC/CPS) cites it — at that point it becomes mandatory for that project. A well-known example for us: NM 10.8.913, the reference for roof waterproofing in Morocco.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "6": {
+  "title": "The DTU in Morocco — mandatory law or professional rule? ⚖️",
+  "body": "The precise answer: the DTU is a French reference, it does not impose itself on its own in Morocco. But if it is cited in the tender documents (CPS/CCAP), it becomes a contractual obligation. The professional method: start with the Moroccan NM standard and the project documents, then apply the DTU as a rule of good practice — as we did with DTU 43.1 and DTU 20.12 in episodes 1 and 2.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "7": {
+  "title": "Foundations are not chosen from a catalogue — the ground decides. 🏗️",
+  "body": "Shallow foundation, raft slab (radier) or deeper solutions: the geotechnical study is what says what the ground can bear, and what suits the weight of the building. The wrong choice here is paid for later in the form of differential settlement… and cracks in the walls. Adapting the foundation to the ground is far cheaper than repairing an entire building.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "8": {
+  "title": "Paint peeling after a few months? The fault is most often not in the paint — it is underneath it. 🎨",
+  "body": "Trapped moisture, dust, or no bonding coat (primaire): paint only reveals the surface's disease. The rule: a sound, dry and clean surface before any coat, the first coat is not a smart saving, and drying times between coats are part of the system, not a delay.",
+  "category": "Renovation",
+  "theme": "Painting & coatings"
+ },
+ "9": {
+  "title": "In the electrical panel, every device has its job — and confusing them is dangerous. ⚡",
+  "body": "The circuit breaker (disjoncteur) protects circuits against overloads and short circuits; the residual-current device (différentiel) detects current leakage and protects people; and the earthing (prise de terre) completes the system. The three work together, and none replaces the other. Electrical safety is non-negotiable.",
+  "category": "Renovation",
+  "theme": "Electrical"
+ },
+ "10": {
+  "title": "A unit price does not fall from the sky — it is built. 🧮",
+  "body": "Behind every line in the price schedule there is a precise calculation: the real cost (labour, materials, equipment), plus site and company overheads, plus a margin that pays for risk and organisation. A price that does not have this structure is an arbitrary price — and it will be paid for later on site, in hard currency: delays and disputes.",
+  "category": "Construction",
+  "theme": "Pricing & quantities"
+ },
+ "11": {
+  "title": "A crack in a wall is not a disease — it is a message. 🧱",
+  "body": "A crack that runs in a 'staircase' pattern through masonry most often indicates differential settlement of the foundations: the ground has moved unevenly, and the wall is telling the story. The right answer is not to fill it with plaster — we treat the cause (the ground and the structure) before the symptom (the paint). Whoever only repairs the surface lets the problem grow in hiding.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "12": {
+  "title": "On a thermally insulated roof, the order of the layers matters as much as their quality. 🏠",
+  "body": "Without a vapour barrier (pare-vapeur) placed in the right position, indoor moisture condenses inside the insulation and ruins the system from within — and the signs appear later as blisters and peeling. And thermal insulation does not replace the slope: water must always find its way out (episode No. 1), and continuity at the waterproofing upstands and sensitive points is what decides real effectiveness (episode No. 2).",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "13": {
+  "title": "Scaffolding (échafaudage) is inspected like a structure — not like furniture. 🦺",
+  "body": "Before any team goes up: first, stability — the base, the bracing (contreventement) and the tying to the facade. Second, collective protection — guardrails and complete decking with no gaps. Third, safe access and respecting the load capacity of the decks — no improvised storage at height. Working at height is the number one risk in this trade, and inspection is its price.",
+  "category": "Construction",
+  "theme": "Safety & site"
+ },
+ "14": {
+  "title": "Handover with reservations (réserves) is not a failure — it is a work list. ✅",
+  "body": "What makes a handover drag on for months is the lack of method: a dated, signed reservations report classified by trade, each reservation with an owner and a deadline, correction by families of defects rather than at random, and the second visit prepared like the first — with a before/after photo file. A clean handover is built, not waited for.",
+  "category": "Construction",
+  "theme": "Handover & warranties"
+ },
+ "15": {
+  "title": "A damp patch on the ceiling is not a diagnosis — it is only a symptom. 🔬",
+  "body": "Three diseases with the same sign: a leak from water pipes (the patch follows the network and appears and disappears), a defect in the terrace waterproofing (the patch follows the rain — go back to episodes 1 and 2), or condensation in damp rooms lacking ventilation. And painting over a damp surface treats none of them. We start with the diagnosis, then we repair the cause, and finally we paint.",
+  "category": "Renovation",
+  "theme": "Diagnosis & prevention"
+ },
+ "16": {
+  "title": "The larger the tile, the less forgiving it is to install. 🔲",
+  "body": "Double-buttering installation — adhesive on the substrate and on the back of the tile — prevents voids that sound hollow and break later. The flatness of the substrate determines the result before installation even begins, and expansion joints absorb movement: a tiled floor is not a single solid block. Form follows technique, not the other way round.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling"
+ },
+ "17": {
+  "title": "Do you know the difference between the bid bond, the performance bond and the retention money? 💰",
+  "body": "Many companies confuse them and lose cash flow without understanding why: the bid bond guarantees the seriousness of the offer and is released once the project is awarded to its holder; the performance bond guarantees proper execution throughout the works; and the retention money is released at final handover and once reservations are lifted. Three mechanisms, three objectives — and whoever knows them manages their money without surprises.\n\n💡 Our offer: we support you in reading the tender documents and guarantees before you commit — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "18": {
+  "title": "The cheapest price is not always the winner of a tender. 📉",
+  "body": "The client has the right to request a detailed justification for an abnormally low offer — and if it is not convincing, the offer is rejected. And the reason is simple: a price below the real cost threatens the execution itself… and the company itself. Whoever calculates well and presents a defensible price breakdown wins trust before winning the tender.\n\n💡 Our offer: we calculate our prices on the basis of real cost and the technical study — clear proof you can defend before any committee.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "19": {
+  "title": "Work done without paperwork is work that may never be paid. 📝",
+  "body": "Any additional or modified work must go through a written service order from the client or the supervising engineer — and the real quantities are established by reports and joint inspections. And if there is a real emergency, we carry it out and then confirm in writing immediately. Spoken words on site evaporate; paper remains.\n\n💡 Our offer: all our additional works are covered by a written order before execution, and their quantities are established with you — with no surprises in the final invoice.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "20": {
+  "title": "Provisional handover is not final handover — and the difference changes everything. 🔑",
+  "body": "Provisional handover confirms that the works are finished and starts the defects liability period: during this period, the company lifts the reservations and repairs the defects that have appeared. Final handover closes this period and releases the retained guarantees. Whoever does not know this difference hands over their site without knowing what still remains their responsibility.\n\n💡 Our offer: we prepare the provisional handover with you with a clear list of reservations, and we stay with you until final handover — without leaving a single reservation outstanding.",
+  "category": "Construction",
+  "theme": "Handover & warranties"
+ },
+ "21": {
+  "title": "Do you know who decides how much steel and concrete a building needs? 🧮",
+  "body": "The Eurocodes are the European calculation rules for structures — they define how loads, resistance and stability are calculated. In Morocco they are not a law in themselves, but the design office relies on them as a recognised reference, and the project documents can invoke them. A well-calculated building is a building that stands with confidence.\n\n💡 Our offer: we execute the design office's plans with the precision they deserve — steel in its place, controlled concrete, and full compliance with the calculations.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "22": {
+  "title": "Concrete gains strength with water, not with sun. 💧",
+  "body": "After pouring, concrete must stay moist so the chemical reaction can complete — if it dries too quickly, it weakens and cracks. Regular watering and protection from wind and sun are not a luxury: it is a full operation in itself, which decides the building's strength in the long term.\n\n💡 Our offer: we cure your concrete the right way from day one — watering, protection and monitoring, until it reaches the strength it was designed for.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "23": {
+  "title": "Poorly vibrated concrete leaves voids — and over-vibrated concrete separates its components. 🌀",
+  "body": "Correct vibration drives out trapped air and lets the concrete fill every corner around the steel — without separating the aggregate from the paste (ségrégation). And adding water to the mix is not a solution: it weakens the concrete and increases cracking. Craftsmanship shows exactly at this moment.\n\n💡 Our offer: controlled pouring from the first truck to the last metre — correct vibration, no added water, and dense concrete just as it was designed.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "24": {
+  "title": "Striking formwork too early is loading a building that has not yet reached its strength. ⏳",
+  "body": "Concrete takes its time to gain strength — and whoever strikes the formwork early loads the slab while it is still weak, and causes deformations and cracks that appear later. The rule: patience is part of quality, and formwork striking is done according to the reference cited in the project documents, not according to urgency.\n\n💡 Our offer: we respect formwork striking times on every site — even under time pressure — because the safety of your building is non-negotiable.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "25": {
+  "title": "Steel showing through concrete is steel that rusts — and rust eats the building from the inside. 🛡️",
+  "body": "Concrete cover (enrobage) is the distance between the steel and the outer surface: it protects it from air, water and salinity. Spacers (cales) are what fix this distance before pouring — without spacers, the steel drops and sticks to the formwork. A small detail, and protection for decades.\n\n💡 Our offer: we check the cover and spacers before every pour — with photos and measurements — so your building's steel stays protected for decades.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "26": {
+  "body": "The lap length (recouvrement) is the length over which two bars overlap so that force passes from one to the other without interruption: if it is too short, the joint weakens; if it is done without order, the bars crowd together and the concrete no longer fills the gaps between them. The continuity of the steel is the continuity of the building.\n\n💡 Our offer: we review the reinforcement drawings with the design office before pouring, and we document the joints with photos — with no weak joint in your building.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "One steel bar is not enough for the full length of a building — and the joint between bars has its own rules. 🔗"
+ },
+ "27": {
+  "body": "Joints (joints) absorb movement and expansion, and concrete tie beams (chaînages) bind the walls together like a belt. Without joints, the building cracks; without tie beams, each wall works on its own. A strong building is a building whose members are tied together.\n\n💡 Our offer: construction done the right way — joints and tie beams according to the engineer's drawings — with photo monitoring at every stage.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "A wall is not just bricks on top of bricks — it is a system that breathes and moves. 🧱"
+ },
+ "28": {
+  "body": "The frame, whether timber or metal, must be calculated and firmly fixed, and the covering must be installed in a tight, ordered sequence: rainwater runs down the slope, and the wind finds nowhere to get in. And the details — junctions, chimneys, roof windows — are where leaks most often begin.\n\n💡 Our offer: roof repair and construction with special care for sensitive points — and a pre-winter check so your roof is ready for the rain.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "The roof is the house's hat — if it leaks, everything underneath suffers. 🏠"
+ },
+ "29": {
+  "body": "Successful carpentry respects this nature: dry wood, properly stored before installation, respected expansion gaps, and a finish that protects it from moisture and sun. A door that closes well in summer and sticks in winter is a door installed without allowing for how wood behaves.\n\n💡 Our offer: doors, windows and wardrobes in cedar wood — precise installation, refined finishing, and carefully selected wood made to last.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium",
+  "title": "Wood is a living material — it breathes, expands, and shrinks with the seasons. 🪵"
+ },
+ "30": {
+  "body": "Every piece is cut and laid by hand, and its beauty shows in its regularity: even joints, a single level, and colours that harmonise. And the invisible secret: a well-prepared surface and the right adhesive — without preparation, even the most beautiful zellige will eventually lift off.\n\n💡 Our offer: traditional zellige by craftsmen's hands — precise installation, regular joints, and a finish that turns your home into a Moroccan masterpiece.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling",
+  "title": "Moroccan zellige is not just tiles — it is a complete craft. ✨"
+ },
+ "31": {
+  "body": "Plaster moves with the building: if the joints between the boards or layers are done carelessly, cracks appear in the first year. And the metal frame that carries the ceiling must be stable and level — a good ceiling starts with a good frame. The beauty of a Moroccan ceiling is built from underneath.\n\n💡 Our offer: traditional and modern plaster ceilings — a stable frame, carefully finished joints, and a finish that lasts without cracks.",
+  "category": "Renovation",
+  "theme": "Plaster & ceilings",
+  "title": "Is your plaster ceiling cracking? The cause is usually in the joints and the frame. ✨"
+ },
+ "32": {
+  "body": "Thermal insulation preserves the home's heat: in winter it stops the cold from entering, and in summer it stops the heat from getting in. And what decides its effectiveness is continuity — without interruption in the walls and the roof — and the correct order of the layers (see episode No. 12). Insulation is an investment that pays for itself every month, in comfort and on the bill.\n\n💡 Our offer: thermal insulation for walls, roofs and terraces — a written study and installation without interruption, so your home stays comfortable all year round.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "A house that is cold in winter and hot in summer? The problem is not the heating — it is the insulation. 🌡️"
+ },
+ "33": {
+  "body": "Sound insulation is built into the walls, floors and ceiling: materials that absorb sound, layers that separate vibration, and sealed openings with no sound leakage. And what decides the result is the details — one small open point lets all the sound through. Quiet at home is not a luxury; it is everyday comfort.\n\n💡 Our offer: sound insulation for rooms and apartments — walls, floors and openings — so your home stays quiet, even in the heart of the city.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "Can you hear every step your neighbours take? Noise is not fate — it is the absence of sound insulation. 🔇"
+ },
+ "34": {
+  "body": "A small air conditioner runs non-stop and still does not cool properly; one that is too large cools quickly and switches off, without reducing humidity — the result is cold, damp air and a feeling of discomfort. The rule: size is determined by the room's area, the insulation, and sun exposure — not by “bigger is better”.\n\n💡 Our offer: air conditioner installation with a proper study — the right size, the right location, and a dedicated electrical circuit — so the comfort is real.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "An air conditioner that is too big or too small — both are a problem. ❄️"
+ },
+ "35": {
+  "body": "Mechanical ventilation (VMC) extracts damp air from the bathroom and kitchen and brings in fresh air: without ventilation, moisture stays trapped and brings mould and odours. And ventilation is not just a hole in the wall — it is a complete system: air intake and extraction are calculated together.\n\n💡 Our offer: installation and fitting of ventilation systems — bathrooms and kitchens that breathe well — so your home stays healthy, without damp and without odours.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "A house that does not breathe gets sick — and ventilation is the cure. 🌬️"
+ },
+ "36": {
+  "body": "A drain pipe without enough slope leaves water standing, deposits build up, and blockages come quickly; too much slope lets the water run away without carrying the dirt with it. Slope is set on site with a level, not by eye — and its details decide whether drainage will work for years or block every month.\n\n💡 Our offer: drainage networks with a precisely set slope, tested before they are covered — so water flows, and never comes back.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks",
+  "title": "Water flows downhill without you pushing it — provided the slope is right. 💧"
+ },
+ "37": {
+  "body": "The trap (siphon) holds a little water in the pipe — and that water is the barrier that stops sewer smells from rising into the house. If the trap dries out (a house left unoccupied for a while, or insufficient drain ventilation), the smell rises. And the solution is simple: the water must stay in the trap, and the drain ventilation must be sound.\n\n💡 Our offer: we check your drainage network — traps, ventilation, and slope — and we fix the source of the smell, not just the smell.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks",
+  "title": "A bad smell rising from the sink or the shower? The trap is usually the cause. 🚿"
+ },
+ "38": {
+  "body": "The waterproofing under the tiles is what protects the building: it is applied to the floor and carried up the walls, and corners and pipe points are treated with special care before the tiles are laid. And the test before tiling is the proof — not words. A bathroom without proper waterproofing is a time bomb.\n\n💡 Our offer: bathrooms with carefully applied waterproofing, tested before tiling — so your neighbours below stay at ease, and so do you.",
+  "category": "Renovation",
+  "theme": "Waterproofing",
+  "title": "A bathroom leak does not show in the bathroom — it shows on the ceiling of the neighbours below. 🚿"
+ },
+ "39": {
+  "body": "The air conditioner, the oven, and the electric water heater do not share the same circuit as the rest of the house: each has a dedicated circuit and its own breaker, and the cable is chosen according to the load it will carry. An undersized cable on a heavy load heats up — and heat inside walls is where danger begins.\n\n💡 Our offer: a properly designed electrical network — dedicated circuits for large appliances, and cables in the right size — so your home stays safe and comfortable.",
+  "category": "Renovation",
+  "theme": "Electrical",
+  "title": "Every large appliance needs its own circuit — and the cable must be the right size. ⚡"
+ },
+ "40": {
+  "body": "Every circuit needs a clear label: kitchen, bathroom, air conditioner, lighting — so that if a breaker trips, you know where the problem is without searching the whole house. And the board must be organised, understandable, and easy to reach. Organising the board is organising the safety of the home.\n\n💡 Our offer: organised electrical boards, labelled circuit by circuit — with a clear diagram that stays with you — so you know how your home works.",
+  "category": "Renovation",
+  "theme": "Electrical",
+  "title": "An electrical board without labels is a puzzle — and on the day a problem occurs, the puzzle becomes a danger. 🔌"
+ },
+ "41": {
+  "body": "The floor must be level before tiling (see episode No. 16), and the joints must absorb the building's movement: a tiled floor is not a single rigid mass. And the joints between tiles also protect against moisture and dirt — if they are regular and sealed, the floor stays beautiful for years.\n\n💡 Our offer: tile installation with precisely controlled level and regular joints — zellige, marble or porcelain — so your floor stays stable and beautiful.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling",
+  "title": "Tiles that sound hollow or crack later on — the problem is usually in the joints (joints) and the level. 🔲"
+ },
+ "42": {
+  "body": "Moroccan lime, prepared and polished with stone until it becomes smooth and water-resistant: in the bathroom, in the kitchen, and on walls — it gives a warm sheen that no other product gives. And the secret is the preparation: a clean surface, successive layers, and polishing with patience — tadelakt cannot be rushed.\n\n💡 Our offer: traditional tadelakt by craftsmen's hands — bathrooms, kitchens and walls — with a warm sheen and a finish that lasts.",
+  "category": "Renovation",
+  "theme": "Painting & coatings",
+  "title": "Tadelakt is not just paint — it is the skin of the Moroccan house. ✨"
+ },
+ "43": {
+  "body": "The short morning briefing names the day's risks precisely: what will we be doing today? What is its risk? And what must we wear and protect? Helmets, gloves and harnesses are checked before work starts, and lifting and circulation zones are defined before the machinery arrives. Five minutes every morning are worth a life.\n\n💡 Our offer: organised, safe sites — a safety briefing every morning, and protected equipment — because no deadline is worth a human life.",
+  "category": "Construction",
+  "theme": "Safety & site",
+  "title": "Safety does not begin with the first accident — it begins every morning, before the first tool. 🦺"
+ },
+ "44": {
+  "body": "Test specimens (éprouvettes) are taken during pouring, from the exact concrete that was placed — not afterwards. And the results come within set deadlines defined in the project documents, and each result is linked to a specific part of the building: that is traceability. Concrete without testing is concrete without proof.\n\n💡 Our offer: documented pouring — specimens taken on time, and laboratory results linked to each part — so your building's strength is proven, not assumed.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "Concrete can look good on the outside and be weak inside — only the laboratory tells the truth. 🔬"
+ },
+ "45": {
+  "body": "The quantities in the schedule of prices are the basis for payment: they are verified from the drawings and from the site together. And discrepancies are dealt with through joint site records during the works — not at the end. And repetitive work is checked on a sample before it is generalised. Accurate measurement is the first step to the right price.\n\n💡 Our offer: an accurate quantity study — drawings and site — and joint records with you at every stage, so there are no surprises on the invoice.",
+  "category": "Construction",
+  "theme": "Pricing & quantities",
+  "title": "A small measurement error, repeated across a whole building, becomes a big hole in the budget. 📏"
+ },
+ "46": {
+  "body": "The defects liability guarantee (garantie de parfait achèvement) covers the period after provisional handover: any defect that appears during this period, the company must repair it. The duration and procedures are set by the project documents (CCAG/CCAP) — and whoever knows their right claims it without hesitation.\n\n💡 Our offer: we stay with you after handover — observations are put right within the deadline — right through to final handover, leaving no defect hanging.",
+  "category": "Construction",
+  "theme": "Handover & warranties",
+  "title": "After provisional handover, the company remains responsible — and that is your right, not an extra service. ✅"
+ },
+ "47": {
+  "body": "The ten-year guarantee (garantie décennale) concerns defects that threaten the building's solidity or make it unfit for the use it was designed for — not every defect of appearance or maintenance. Its starting point is tied to handover, and its precise rules are set by the texts (DOC) and the project documents. And the difference between a fundamental defect and a cosmetic defect is what decides what is covered.\n\n💡 Our offer: buildings we build to last — a calculated structure, documented materials, and monitoring at every stage — because the real guarantee begins on site, not on paper.",
+  "category": "Construction",
+  "theme": "Handover & warranties",
+  "title": "Everyone talks about the “ten-year guarantee” — and few know exactly what it covers. 🏛️"
+ },
+ "48": {
+  "body": "Before the final price is calculated, inspection is required: targeted openings, moisture, rusted steel, and old networks. And an old house always hides surprises — it is best to set aside a contingency for them in the budget. And most importantly: we treat the cause (water, structure) before the finishes, otherwise the renovation ages within months.\n\n💡 Our offer: a diagnosis before renovation — a full inspection of your house before the final estimate — so you pay once, for work done properly.",
+  "category": "Renovation",
+  "theme": "Diagnosis & prevention",
+  "title": "The most dangerous estimate in renovation is the one that ignores what is hidden behind the finishes. 🔬"
+ },
+ "49": {
+  "body": "Underpinning (reprise en sous-œuvre) is the strengthening of the foundations and the structure before any change: you shore up the building, you strengthen the foundation, and only then do you alter it. Anyone who demolishes a load-bearing wall without a study and without shoring is playing with fire — the whole building depends on that wall.\n\n💡 Our offer: with us, any structural change begins with a design office study and calculated shoring — with no risk-taking, and no surprises.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "Do you want to open up a load-bearing wall or enlarge a space? Before you demolish, you must shore up. 🏗️"
+ },
+ "50": {
+  "title": "The water that stays near the foundations is what weakens them over time. 💧",
+  "body": "Peripheral drainage (drainage périphérique) collects the water that infiltrates the ground and moves it away from buried walls and foundations — before it reaches them. Without drainage, water presses against the walls, enters through the sensitive points, and damp comes from below. Protecting the foundations starts from the outside.\n\n💡 Our offer: protection of foundations and buried walls — peripheral drainage and waterproofing — so your home stays dry from below, for years.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "51": {
+  "title": "A concrete slab without joints is a slab that will crack — it's only a matter of time. 🧱",
+  "body": "Concrete shrinks as it dries (retrait): the joints (joints) are what allow this shrinkage to take place in calculated spots, without damaging the slab. And the joints are cut at the right time and at the correct depth — before cracking begins. A slab without joints is a promise of cracks.\n\n💡 Our offer: concrete slabs with carefully planned joints, cut on time — so your floor stays sound, without cracks.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "52": {
+  "title": "A roof you walk on every day is not a technical roof that only maintenance ever goes up to. 🏠",
+  "body": "A roof that is not walked on makes do with light protection; and a roof you live on — chairs, plants, and daily movement — needs heavy protection or a covering suitable for walking. Use is what decides the protection. And in both cases, the rule does not change: slope and double water drainage are the foundation (episode No. 1).\n\n💡 Our offer: terraces tailored to your use — suitable waterproofing and protection — whether it's a technical roof or a living space above the house.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "53": {
+  "title": "An old roof is leaking — do we cover it with a new layer, or remove everything and start from scratch? 🔍",
+  "body": "The answer depends on the condition of the old waterproofing, not on the budget: if it is sound, dry and well bonded, covering it may be possible depending on the system; if it is damp, peeling, or made of deteriorated layers stacked on top of each other, complete removal is the solution. And in all cases, the upstands and sensitive points are redone from scratch (episode No. 2: upstand of at least 10 cm).\n\n💡 Our offer: we diagnose your old roof before deciding — removal or covering — so you pay once for a solution that lasts.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "54": {
+  "title": "Not every crack in concrete is a structural defect — many are born in the first hours. 🧱",
+  "body": "Plastic shrinkage strikes fresh concrete exposed to wind and heat: the surface dries quickly and cracks before it gains strength. And the protection is simple: watering (curing) after pouring, and protection from wind and sun — and whoever ignores this stage pays for it later in repairs.\n\n💡 Our offer: pouring protected from the first hour — watering and protection from the wind — so your concrete starts its life without cracks.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "55": {
+  "title": "The quality of a building is decided even at the site gate — when the materials arrive. 📋",
+  "body": "Every structural material arrives with the supplier's conformity documents: we compare the delivery note, the product that arrived and the product that was ordered — and if a batch is non-conforming or without documents, we reject it before it is fully unloaded. The site gate is the first line of defence for quality.\n\n💡 Our offer: documented, compliant materials — conformity certificates are checked at every delivery — so your building is built with sound materials, not questionable ones.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "56": {
+  "title": "Roof waterproofing in Morocco has its own standard — NM 10.8.913. 📏",
+  "body": "Many sites swear only by French references, but Moroccan tender documents invoke the Moroccan standard NM 10.8.913 — the waterproofing reference in Morocco, and its corresponding French reference is DTU 43.1. Both state the same requirement: a watertight roof starts with slope and drainage (episode No. 1) and with upstands (episode No. 2).\n\n💡 Our offer: roof waterproofing to the Moroccan standard — slope, double drainage, and upstands of at least 10 cm — and water-tested for 24 hours before handover.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "57": {
+  "title": "The cheapest moment to discover a leak or a defect is before closing the chases — afterwards, every repair demolishes another repair. 🔧",
+  "body": "Water networks are pressure-tested before closing, drainage is tested by flow and watertightness, and ventilation is confirmed. And we photograph and pinpoint the networks before they are closed — this is the building's “memory map”. Whoever closes without testing is gambling with his walls.\n\n💡 Our offer: networks tested and photographed before closing — water, drainage and electricity — so there are no surprises after the renovation.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "58": {
+  "title": "The drainage makes a “gurgling” sound, smells are coming up, and the trap empties by itself? The problem isn't in the trap — the problem is in the air. 🌬️",
+  "body": "The drainage stack needs ventilation that balances the pressure: without ventilation, the traps empty and smells rise. And the drainage slope is set on site with a level (go back to episode No. 36). The strange sound is a message — and whoever hears it fixes the cause before the problem grows.\n\n💡 Our offer: we inspect your drainage network — stack ventilation, traps, and slope — and we fix the source of the sound and the smell, not just the symptoms.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "59": {
+  "title": "You finished the work, and you're still waiting for payment? Do you know you have the right to be paid on time? 💰",
+  "body": "In public contracts, late payment is not an unavoidable fate: the contractor who puts together a clear file, accurate invoices, and documented handover reports can claim his right without losing the relationship with the project owner. Whoever works without paperwork is left without a weapon.\n\n💡 Our offer: we support you in tracking your payment files and handover documents — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "60": {
+  "title": "Material prices went up in the middle of the site? Do you know how price revision is calculated? 📈",
+  "body": "Price revision is not a random increase: it is a mechanism written into the contract documents, based on official indices and applied under clear conditions. Whoever understands it protects his margin without wronging the project owner, and whoever is unaware of it loses out of his own pocket in silence.\n\n💡 Our offer: we explain the price revision mechanism in your contract documents before you commit — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "61": {
+  "title": "You want to change something in the contract while it's under way? The amendment is the right path — not a verbal agreement. 📝",
+  "body": "The amendment is a written document that modifies the contract: new works, additional quantities, or an adjusted deadline — everything is documented and signed by both parties before execution. Whoever changes without an amendment creates a guaranteed dispute; and whoever documents protects both himself and the project owner.\n\n💡 Our offer: we support you in drafting and documenting your contract amendments before any change — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "62": {
+  "title": "The site is delayed? Do you know how late penalties are calculated? ⏰",
+  "body": "Late penalties are not a random punishment: they are a mechanism written into the contract documents, applied to the delay the contractor is responsible for, and they stop when the project is handed over. Whoever reads his documents before signing knows what awaits him — and whoever signs without reading is in for a surprise afterwards.\n\n💡 Our offer: we explain the deadline and penalty clauses in your contract documents before you commit — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "63": {
+  "title": "The house starts underground — do you know that backfill and compaction are the foundation of everything? 🏗️",
+  "body": "Soil that has not been properly compacted settles later, and with it the flooring, the walls and all the work settle too. Compaction layer by layer, and clean, suitable soil, are the difference between a stable house and a house that cracks.\n\n💡 Our offer: our excavation, backfill and compaction work is done layer by layer with careful monitoring — a clear written study, and photo follow-up stage by stage.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "64": {
+  "title": "Does the strong sun steal the water from the concrete before it sets? ☀️",
+  "body": "In the heat, water evaporates quickly from fresh concrete: the surface cracks, and the strength drops. The solution? Pour early in the morning or in the evening, keep it moist, and protect the surface immediately after pouring.\n\n💡 Our offer: we schedule your concrete pouring at the right times + protection and photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "65": {
+  "title": "Columns and beams are the structure that carries the whole house — do you know what makes them solid? 🏗️",
+  "body": "The right steel in the right place, well-compacted concrete, and precise formwork: these three are what make a strong structure. A single weak column threatens the whole house — and the structure does not tolerate carelessness.\n\n💡 Our offer: our columns and beams are executed with controlled steel and concrete + monitoring and photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "66": {
+  "title": "The staircase is the most used element in the house — do you know what makes it solid and crack-free? 🪜",
+  "body": "A concrete staircase is built on formwork precise to the millimetre and carefully calculated steel: any error in the formwork shows in the step, and any shortfall in the steel shows over time. A good staircase is made once — and it lives as long as the house.\n\n💡 Our offer: our concrete staircases are executed with precise formwork and calculated steel + monitoring and photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "67": {
+  "title": "Do you have sloping land? The retaining wall is what holds back the soil and protects your home. 🧱",
+  "body": "A retaining wall is not just a wall: it is a structural element that resists the pressure of soil and water — it is built with a deep foundation, drainage behind it, and precise steel and concrete. A weak wall leans and falls, and a good wall protects the house for a lifetime.\n\n💡 Our offer: our retaining walls are executed with a deep foundation and water drainage + monitoring and photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "68": {
+  "title": "Is the false ceiling cracking? The problem isn't in the board — the problem is in the frame beneath it. 🏠",
+  "body": "A good false ceiling is built on a precise metal frame, well fixed to the original ceiling, with boards installed with correct joints. A loose frame lets the boards move — and then the cracks come.\n\n💡 Our offer: our false ceilings are executed with a precise metal frame and carefully installed boards + photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Renovation",
+  "theme": "Plaster & ceilings"
+ },
+ "69": {
+  "title": "Is the exterior paint peeling after a year? The problem isn't in the colour — the problem is in the preparation before the colour. 🎨",
+  "body": "A wall that has not been cleaned, repaired, or coated with a suitable primer will reject the paint, however expensive it is. Preparation is what makes the colour last for years — and paint without preparation is money thrown at the wall.\n\n💡 Our offer: our exterior painting is done with full preparation — cleaning, repair, and a primer coat — before the final colour, with photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Painting & coatings"
+ },
+ "70": {
+  "title": "Is the parquet creaking and separating? The problem is often in the installation — not in the wood. 🪵",
+  "body": "Good parquet is installed on a flat, dry floor, with expansion joints around the walls, and a carefully planned direction for the boards. An uneven floor makes the parquet move and creak — and damp makes it swell.\n\n💡 Our offer: our parquet is installed on a well-prepared floor + maintenance advice after installation — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "71": {
+  "title": "Is the cold coming in through the windows while they're closed? The problem is in the seals — not in the aluminium. 🪟",
+  "body": "Good aluminium joinery depends on sound, airtight seals: a single damaged seal lets cold air and dust in, and makes the heating work for nothing. Periodic inspection of the seals is the cheapest protection for your home.\n\n💡 Our offer: our aluminium window installation and repair is done with airtight seals and careful air insulation + photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "72": {
+  "title": "The balustrade protects your children before it decorates the house — do you know what makes it truly safe? 🛡️",
+  "body": "A safe balustrade is built on strong fixing to the floor or wall, a suitable height, and narrow gaps a child cannot pass through. Beauty comes afterwards — safety is non-negotiable.\n\n💡 Our offer: our balustrades — iron, stainless steel, and aluminium — are executed with strong fixing and a refined design + photo follow-up stage by stage — send us a message on WhatsApp and let's get started.",
+  "category": "Construction",
+  "theme": "Safety & site"
+ },
+ "73": {
+  "title": "Do you feel the cold near the wall even while the heating is on? ❄️",
+  "body": "That is a thermal bridge: a place in the building where heat escapes without being visible — corners, junctions between walls and ceilings, and around windows. The result? A cold wall, damp, and even mould over time. The solution is not to turn up the heating; the solution is continuous insulation without interruption and careful treatment of every junction point.\n\n💡 Our offer: a diagnosis of the thermal bridges in your home + a clear, written insulation study — so the house becomes warm without waste.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort"
+ },
+ "74": {
+  "body": "External insulation is your home's coat: a layer that covers the entire facade without interruption, keeps the heat in during winter and protects against the sun in summer, while leaving you all of your interior space. And there's more: the facade is renewed and protected from rain and cracks — one job, many benefits.\n\n💡 Our offer: an external insulation study for your home's facade + installation by organised teams, with photo follow-up at every stage.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "Do you want your home warm in winter and cool in summer, without losing any interior space? 🏠"
+ },
+ "75": {
+  "body": "A balcony without proper waterproofing becomes a source of problems: water seeps through below, damages your neighbour's ceiling, and creates disputes between neighbours. The rule is well known: slopes are formed in the concrete, double drainage in accordance with DTU 43.1, and upstands must be no less than 10 cm in accordance with DTU 20.12 — and the substrate must be clean and dry, with a 24-hour water test before renovation.\n\n💡 Our offer: a waterproofing diagnosis for your balcony or loggia + renovation in accordance with best practice, with photo follow-up.",
+  "category": "Renovation",
+  "theme": "Waterproofing",
+  "title": "Is water leaking from your balcony into your downstairs neighbour's home? 💧"
+ },
+ "76": {
+  "body": "A building moves: it expands with heat, contracts with cold, and settles over time. Expansion joints are made to absorb this movement — if they are sealed with rigid materials or neglected, cracks and leaks follow. A good joint stays flexible, watertight, and maintainable.\n\n💡 Our offer: an inspection of your building's expansion joints + renewal of their waterproofing in accordance with best practice.",
+  "category": "Renovation",
+  "theme": "Waterproofing",
+  "title": "Do you know why buildings have joints? 🧱"
+ },
+ "77": {
+  "body": "Earthing is the protection you cannot see: if an electrical appliance develops a fault, it is what drains the current into the ground instead of letting it pass through the human body. Without sound earthing, the simplest fault becomes a danger. And complete protection combines a residual-current circuit breaker with a sound earthing network — three elements working together.\n\n💡 Our offer: an inspection of your home's earthing and electrical protection + a written report with recommendations.",
+  "category": "Renovation",
+  "theme": "Electrical",
+  "title": "Is your home protected against electric shock? ⚡"
+ },
+ "78": {
+  "body": "The kitchen is the place in the home with the most powerful appliances — and every large appliance needs its own dedicated line. If they are all grouped on a single line, you get repeated trips, overheating wires, and even a fire risk. The rule: every large appliance has an independent line and its own protection, and the kitchen keeps running without interruption.\n\n💡 Our offer: an electrical study for your kitchen + installation of dedicated circuits in accordance with best practice.",
+  "category": "Renovation",
+  "theme": "Electrical",
+  "title": "The fridge, oven and microwave on the same line? ⚡"
+ },
+ "79": {
+  "body": "Unstable water pressure silently damages everything: over time, taps, the water heater and pipes all suffer. The pressure regulator is the guardian of the entire installation — it keeps pressure stable at the right level, protects appliances, and lets showers and taps work comfortably. A small detail, a big protection.\n\n💡 Our offer: a water pressure check for your home + installation of a pressure regulator if needed — written study and photo follow-up.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks",
+  "title": "Is your water pressure too high or too low? 🚿"
+ },
+ "80": {
+  "body": "Soil stacks are the silent heart of plumbing: they carry wastewater down from every floor, without noise and without smells. If the slopes are wrong, ventilation is lacking, or joints are not sealed, you get noises, smells, and blockages. Good plumbing is plumbing you neither hear nor smell.\n\n💡 Our offer: a diagnosis of your home's drainage network + renovation in accordance with best practice, with photo follow-up.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks",
+  "title": "Do you hear strange noises in your pipes? 🔇"
+ },
+ "81": {
+  "body": "Double-flow ventilation brings in fresh, clean air and extracts stale air — while recovering heat from the outgoing air to warm the incoming air. The result: a home that breathes, with no damp and no smells, and without losing winter warmth. Fresh air, and heat preserved.\n\n💡 Our offer: a ventilation study for your home + installation of a suitable system, with photo follow-up.",
+  "category": "Renovation",
+  "theme": "Insulation & comfort",
+  "title": "Do you want fresh air at home without losing heat? 🌬️"
+ },
+ "82": {
+  "body": "The right water heater is not the biggest one or the cheapest one — it is the one that matches your family size and your usage, installed in a safe, ventilated place, with protection against overpressure and correct discharge. A good choice + a good installation = hot water at all times, with no surprises and no danger.\n\n💡 Our offer: advice on choosing the right water heater for your home + safe installation in accordance with best practice.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks",
+  "title": "Does your hot water cut out in winter? 🚿"
+ },
+ "83": {
+  "body": "The detailed quantity estimate is the project's map in numbers: every item has its quantity and its unit price, and the total is built line by line. Anyone who knows how to read it can see whether the quantities are correct, whether an item is missing, and whether the total makes sense — before signing any document.\n\n💡 Our offer: we help you read your project's quantity estimate line by line — a clear written study before you commit.",
+  "category": "Construction",
+  "theme": "Pricing & quantities",
+  "title": "Have you read a DQE and understood nothing? 📋"
+ },
+ "84": {
+  "body": "Attachments are the proof of work actually carried out on site, and progress statements are billing according to progress — without a written, signed record, there is no basis for payment. Anyone who documents every stage and has the record signed by the project owner gets paid for exactly what they have done — with no dispute and no delay.\n\n💡 Our offer: support with works follow-up and stage documentation — a written study and transparent follow-up, from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts",
+  "title": "You did the work and were not paid? It is the paperwork that gets you paid. 📑"
+ },
+ "85": {
+  "body": "Behind every project there are costs you cannot see in the materials: site setup, scaffolding, security, transport, rubble removal, and site water and electricity. These costs are real — and anyone who does not count them in the estimate pays for them out of their own pocket afterwards. A correct estimate shows everything, with no surprises.\n\n💡 Our offer: a written, detailed estimate, line by line, with all site costs shown clearly — you can compare it yourself with any other offer.",
+  "category": "Construction",
+  "theme": "Pricing & quantities",
+  "title": "Why does a site price include more than materials and labour? 🏗️"
+ },
+ "86": {
+  "body": "The quality assurance plan is the document that states — before the site even starts — what will be checked, how, and who is responsible. Without a written plan, inspection becomes random and defects only show up at the end. With a clear plan, on the other hand, every stage has its check, and every check leaves a written trace.\n\n💡 Our offer: a documented quality methodology for your project — written checks at every stage and photo follow-up through to delivery.",
+  "category": "Construction",
+  "theme": "Standards & references",
+  "title": "Quality is not imposed at the end… it is written from the start. ✅"
+ },
+ "87": {
+  "body": "Pour traceability is the record of every concrete: where it came from, when it was poured, under what conditions, and what the test results were. Without this record, if a defect appears later, you do not know where it came from or who is responsible. With traceability, on the other hand, every pour has its sheet — and quality can be proven.\n\n💡 Our offer: documented traceability for every pour on your project — a written record and photos of every stage through to delivery.",
+  "category": "Construction",
+  "theme": "Structural work",
+  "title": "Every concrete pour has its story… do you have the proof? 🏗️"
+ },
+ "88": {
+  "body": "The helmet, gloves, goggles, reinforced boots, harness — these are not decoration, they are the worker's first line of defence. Anyone who works without equipment puts themselves at risk and exposes the whole project to a shutdown. Safety is not a cost, it is an investment in people and in the smooth running of the site.\n\n💡 Our offer: our teams always work with the protective equipment suited to each task — worker safety is the first condition before we start any job.",
+  "category": "Construction",
+  "theme": "Safety & site",
+  "title": "Do you know that every task on site has its own protective equipment? 🦺"
+ },
+ "89": {
+  "body": "A load suspended overhead, an area that must stay clear, clear signals between the operator and the workers — any small mistake can cost dearly. A successful lift is built on planning before execution, and on a team where everyone knows their role.\n\n💡 Our offer: our lifting operations are carried out with a protected zone, clear signals and a trained team — everyone's safety before any load.",
+  "category": "Construction",
+  "theme": "Safety & site",
+  "title": "Do you know that crane lifting is one of the most dangerous moments on site? 🏗️"
+ },
+ "90": {
+  "body": "A scaffold without protection, an opening without a cover, a harness left unused — three mistakes that keep repeating and cost lives. Prevention is not a choice: guardrails, nets, harnesses, and site organisation that leaves no dangerous gap. The worker who goes home safe is the first success of any project.\n\n💡 Our offer: our sites work with complete fall protection — guardrails, harnesses and strict organisation — because the team's safety comes before any other consideration.",
+  "category": "Construction",
+  "theme": "Safety & site",
+  "title": "Do you know that falling from height is the number one danger in construction? ⚠️"
+ },
+ "91": {
+  "body": "The handover report is the document that records the state of the project on the day of delivery: the observations, the defects, and the deadlines for fixing them. Anyone who signs without reading accepts everything — and anyone who reads and writes down their observations protects their rights. Handover is not a formality, it is the moment of truth.\n\n💡 Our offer: we help you read the handover report line by line before signing — and we fix every recorded observation before final delivery.",
+  "category": "Construction",
+  "theme": "Handover & warranties",
+  "title": "About to sign the handover report? Stop and read it carefully before you pick up the pen. 📋"
+ },
+ "92": {
+  "body": "Besides the ten-year guarantee, other guarantees protect you: the guarantee of proper completion, the repairs guarantee, and the contractor's written commitments in the contract. Anyone who knows all their rights can claim them — and anyone who does not know them loses them without realising. A correct contract sets out every guarantee clearly.\n\n💡 Our offer: our contracts clearly state all your guarantees in writing — proper completion and repairs — so you know all your rights before we start.",
+  "category": "Construction",
+  "theme": "Handover & warranties",
+  "title": "Do you know that the ten-year guarantee is not your only guarantee? 🛡️"
+ },
+ "93": {
+  "body": "Ten-year insurance protects the project owner against major defects that appear after delivery — and whoever signs the contract must ensure the insurance is in place before the site starts. Without insurance, the homeowner is left unprotected in the face of a major problem. Ask about the insurance before you sign, not afterwards.\n\n💡 Our offer: we clarify the ten-year insurance position for you in writing before any project starts — your protection begins with the very first page.",
+  "category": "Construction",
+  "theme": "Handover & warranties",
+  "title": "Do you know who must insure the ten-year guarantee, and why? 🛡️"
+ },
+ "94": {
+  "body": "Small cracks, damp patches, peeling paint, zellige tiles falling off — every sign has a meaning, and every meaning has a cause. Anyone who paints over the problem without understanding it loses their money twice. A correct diagnosis before restoration is what determines the correct solution.\n\n💡 Our offer: we study your home's facade and read the signs before any restoration — a written diagnosis and a solution sized to the cause, not the symptom.",
+  "category": "Renovation",
+  "theme": "Diagnosis & prevention",
+  "title": "Your home's facade is speaking to you — are you listening? 🏠"
+ },
+ "95": {
+  "body": "Moisture and salt work their way into the concrete and attack the steel: the steel swells, the concrete cracks and falls away, and the structure weakens silently. The solution is not to cover it over — the solution is to treat it at the root: clean the steel, protect it, and repair the concrete with suitable materials.\n\n💡 Our offer: we diagnose steel corrosion in your building and treat it at the root — cleaning, protection and repair — so the structure becomes strong and safe again.",
+  "category": "Renovation",
+  "theme": "Diagnosis & prevention",
+  "title": "The steel inside the concrete is rusting from within — and you see nothing until it is too late. 🔩"
+ },
+ "96": {
+  "body": "Cracks have causes: ground settlement, thermal expansion, damp, or weakness in the structure. Anyone who fills the crack with filler without understanding the cause will see it return. A correct repair starts with diagnosis: what type of crack, what caused it, and what solution will prevent it from coming back.\n\n💡 Our offer: we diagnose your home's cracks and repair the cause before the symptom — a written, guaranteed repair, so the crack does not come back.",
+  "category": "Renovation",
+  "theme": "Diagnosis & prevention",
+  "title": "Did the crack in the wall come back after you repaired it? It was not repaired — it was just hidden. 🧱"
+ },
+ "97": {
+  "body": "A wall without insulation lets heat escape, and a roof without insulation lets the cold in — the result is high bills and reduced comfort. Correct insulation of walls, roof and windows keeps the home warm in winter and cool in summer, and saves you money every year.\n\n💡 Our offer: we study your home's insulation — walls, roof and windows — and propose the solution that brings you comfort and saves you money in the long term.",
+  "category": "Renovation",
+  "theme": "Renovation & repair",
+  "title": "Is your home cold in winter and hot in summer? The problem is not the heating — the problem is the insulation. 🌡️"
+ },
+ "98": {
+  "title": "Do you have wasted space under the roof? It's a whole room waiting for you. 🏠",
+  "body": "A sloped roof is not a void — it's an opportunity: a bedroom, an office, or a guest room. What matters is the study before you start: height, insulation, natural light, and ventilation. Whoever converts an attic without a study creates a room you can't live in; whoever studies it properly gains space without building.\n\n💡 Our offer: we study your home's roof and turn it into a living room — insulation, light and high-end repairs — send us a message and let's get started.",
+  "category": "Renovation",
+  "theme": "Renovation & repair"
+ },
+ "99": {
+  "title": "A riad is not an ordinary house — it is the soul of the old medina, and restoring it is a responsibility. 🏛️",
+  "body": "The courtyard, zellige, carved wood, plaster — every detail has a history. Whoever restores a riad with modern materials without respecting the original erases its soul. Proper restoration preserves the original, strengthens the structure and adds modern comfort without changing its identity.\n\n💡 Our offer: we restore riads with respect for the original — zellige, wood and plaster in the traditional way, with structural strengthening and modern comfort.",
+  "category": "Renovation",
+  "theme": "Renovation & repair"
+ },
+ "100": {
+  "title": "A project too big for one company? The solution is a consortium — but with clear conditions. 🤝",
+  "body": "A consortium of companies pools strengths: each company brings its speciality, and the consortium as a whole can take on larger projects. But success requires a clear contract: who is responsible, who does what, and how responsibilities are shared. A consortium without clarity becomes a source of problems.\n\n💡 Our offer: we work in consortia with trusted partners for large projects — clear roles and written responsibility — so your large project succeeds.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "101": {
+  "title": "Looking for public tenders and don't know where to start? The market is there, you just need to know where it's published. 🔍",
+  "body": "Public tenders are published on the official portal marchespublics.gov.ma and in the Official Gazette: each notice states the participation conditions, the deadline, and the documents in the file. Whoever follows the notices every day finds opportunities before others, and whoever waits until they hear the news finds the deadline has already passed.\n\n💡 Our offer: we support you in reading tender notices and their files before you take part — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "102": {
+  "title": "Is the cheapest bid the one that wins the tender? No — the project owner chooses the best bid, not the cheapest. ⚖️",
+  "body": "Award criteria combine price and quality: the company's experience, the quality of the technical bid, and the timelines. A cheap bid with no experience and no warranties loses to a balanced bid. Whoever understands the criteria builds their bid around them, instead of trying to be the cheapest at any cost.\n\n💡 Our offer: we help you read the award criteria for your tender and build a strong, balanced bid — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "103": {
+  "title": "Pricing a project without seeing the site? A price built on paper without a visit changes on site. 🏗️",
+  "body": "Visiting the site before pricing is not a luxury — it is what reveals reality: the condition of the land, access to the site, and the existing networks. Whoever visits knows what awaits them, and whoever skips the visit pays the difference out of their own pocket.\n\n📸 Photos:\n\nA — An engineer inspecting the site before the start.\n\nB — Measuring the land and levels on site.\n\nC — Inspecting the networks and site access.\n\nD — A written visit report before pricing.\n\n💡 Our offer: before any pricing, we visit the site and inspect everything — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "104": {
+  "title": "You submitted a bid, and months passed with no reply — is your price still valid? ⏳",
+  "body": "Every bid has a validity period written in the tender documents: after it, the contractor is no longer bound by their price, and the project owner can no longer demand it. Whoever knows the validity period knows until when they can demand an answer, and whoever doesn't remains hanging without protection.\n\n💡 Our offer: we read your tender documents with you before you commit, and explain the bid validity period and its conditions — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "105": {
+  "title": "About to sign a contract without reading the CCAP? That document is what sets your project's deadlines and penalties exactly. 📄",
+  "body": "The CCAP is the project's particular administrative specifications book: it takes the general rules and adapts them to your project — deadlines, penalties, retention percentages, and payment terms. Whoever signs without reading it discovers the conditions mid-site, and whoever reads it beforehand knows what awaits them and calculates their price on that basis.\n\n💡 Our offer: we read your contract's CCAP with you, line by line, before you sign — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "106": {
+  "title": "What exactly is the price calculated on? The answer is in the CPS — the description of the works you will carry out. 📐",
+  "body": "The special specifications book describes each item of work in detail: the materials required, the execution method, and the quality criteria. Whoever reads the CPS knows what they must do and what they will be paid for, and whoever ignores it works on guesswork and discovers surprises at handover.\n\n💡 Our offer: we read your project's CPS with you and explain each item before you commit — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "107": {
+  "title": "One document says one thing, another says the opposite — which one governs? ⚖️",
+  "body": "In a contract, the documents are ranked: if they contradict each other, one document prevails over the other according to an order written in the general specifications book. Whoever knows this order knows what to follow if a dispute arises, and whoever doesn't wastes time arguing with no reference.\n\n📸 Photos:\n\nA — The documents stacked on top of each other: the contract, the specifications book, and the plans.\n\nB — Two contradictory clauses: one prevails over the other.\n\nC — Signing the correct document after reading the order of priority.\n\n💡 Our offer: we explain the order of your contract documents to you before you start — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "108": {
+  "title": "When did the site deadline start? At signing, or at the start order? And how do you request an extension? 📅",
+  "body": "The execution period does not start at signing — it starts at the start order, and it is counted in the days written in the contract. And an extension is not a verbal request: it is requested in writing, for a justified reason, before the deadline expires. Whoever calculates their deadline correctly protects themselves from penalties, and whoever mixes it up pays for the delay.\n\n💡 Our offer: we help you calculate your project's deadline and request an extension on time and in the correct way — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "109": {
+  "title": "Looking for the Moroccan standard that applies to a specific material? The answer is in the IMANOR catalogue. 📚",
+  "body": "The Moroccan Institute for Standardization publishes the catalogue of Moroccan standards by sector: materials, products, and test methods. Whoever knows how to search the catalogue knows whether their material complies with the standard before buying it, and whoever buys with no reference relies only on the seller's word.\n\n💡 Our offer: we help you verify that your project's materials comply with Moroccan standards before purchase — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "110": {
+  "title": "Not all concrete is the same — did you know that each part of the house needs its own concrete? 🏗️",
+  "body": "Foundations in contact with soil and moisture, the slab that carries the weight, and elements exposed to water — each one needs concrete chosen to suit it. Weak concrete in a demanding place cracks and worsens over time, and excessive concrete in a simple place wastes money with no benefit. The right choice is made with the engineer, based on the element and the conditions it will live in.\n\n💡 Our offer: before building a villa in Casablanca or renovating a villa in Rabat, we review with you the concrete chosen for each part — a clear written study, and photo follow-up stage by stage.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "111": {
+  "title": "Is the Moroccan standard mandatory or optional? The answer: it becomes mandatory when a text or a specifications book mentions it. 📜",
+  "body": "The NM standard is in principle voluntary in application — but when a law, or the tender specifications book, mentions it, it becomes binding for that project. In other words, the same material can be optional in one project and mandatory in another, depending on the documents. Whoever reads the documents knows whether they are bound and what they must apply.\n\n💡 Our offer: we read your project documents with you and identify the binding standards for you before you start — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "112": {
+  "title": "What does a product bearing the NF mark mean? It means it has passed tests and meets recognised specifications. ✅",
+  "body": "NF standards cover products and test methods: a compliant product has been tested and its characteristics are guaranteed — strength, durability, and safety. In Morocco, it is a recognised good-practice reference, and it becomes binding when the project specifications book mentions it.\n\n💡 Our offer: we help you choose standards-compliant products for your project, with their documents — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "113": {
+  "title": "Façade render falling off after a year? The problem is often not the render — it's the preparation of the wall beforehand. 🧱",
+  "body": "Successful render starts with the wall: clean, slightly damp, and dust-free — so the render bonds well and lasts. An unprepared wall makes the render peel and crack, even with the finest material on the market.\n\n💡 Our offer: we prepare your façades the right way before rendering — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Painting & coatings"
+ },
+ "114": {
+  "title": "Water coming in at the side of the window every winter? The problem isn't the window — it's its installation and sealing. 🪟",
+  "body": "A successful window is installed the right way: firm fixing, careful sealing between the frame and the wall, and drainage of water to the outside. An excellent window installed badly leaks, and an ordinary window installed correctly protects the house for years.\n\n💡 Our offer: we install your windows and aluminium the right way, with solid sealing — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "115": {
+  "title": "Did you know that a one-centimetre error in setting out can ruin an entire villa? 📐",
+  "body": "Before excavation begins, the exact location of the house must be set out: boundaries, corners, and levels. Wrong setting out means leaning walls, doors that don't close, and wasted spaces. Whoever starts without precise setting out pays a high price later.\n\n💡 Our offer: we support you from setting out to handover — a clear written study, and photo follow-up stage by stage, so your villa construction project in Casablanca or villa renovation in Rabat starts right from day one.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "116": {
+  "title": "A thin layer of concrete under the foundations… is it worth it? The answer: it's what protects the steel from soil and moisture. 🧱",
+  "body": "Blinding concrete insulates the foundations from the ground, and provides a clean, level surface so the steel is placed in its correct position and is not contaminated by soil. Whoever skips it starts building on a dirty base — and dirt costs dearly later.\n\n💡 Our offer: in villa construction projects in Kenitra and Rabat, we respect every layer, even the one you can't see — a written study, and photo follow-up stage by stage.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "117": {
+  "title": "Couldn't finish pouring the concrete in one day? The problem isn't stopping — it's where you stop. 🛑",
+  "body": "If you stop in the wrong place, you create a weak point in the concrete: a joint that lets water in and weakens the structure. The correct stop is in a studied location, with a prepared surface, so the new concrete bonds to the old as it should.\n\n💡 Our offer: in villa construction projects in Casablanca, we plan the pour before it starts — a written study, and photo follow-up stage by stage, so no weak joint remains in your home.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "118": {
+  "title": "A small crack above the window? Most often the cause is a weak lintel or no lintel at all. 🪟",
+  "body": "The lintel above the door and window carries the weight of the wall above it, and the sill under the window protects against water ingress. If they are weak or done hastily, cracks appear, water gets in, and the paint and plaster inside are damaged.\n\n💡 Our offer: in villa renovation projects in Kenitra, we give every detail its due — a written study, and photo follow-up stage by stage, so your home's windows stay sound for years.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "119": {
+  "title": "A wall built in a hurry can be seen from afar: slanted joints, uneven blocks, and weak corners. 🧱",
+  "body": "Correct blockwork is built on three things: regular, full joints, rows levelled with line and spirit level, and bonding of the corners (toothing) so the wall becomes a single mass. A wall built without these rules cracks from the first summer.\n\n💡 Our offer: in villa construction projects in Sale and Temara, we build walls as they should be built — a written study, and photo follow-up stage by stage.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "120": {
+  "title": "The slab is poured in a day, but the work before it decides whether it will stand. 🏗️",
+  "body": "Props are not extra wood: they are what carry the weight of the concrete until it sets. A missing prop or one removed too early — and the result is a slanted ceiling or a collapse. Five photos explain the stages:\n\n📷 1 — Props before pouring: regular distribution.\n\n📷 2 — Formwork over the props: level boards.\n\n📷 3 — Steel over the formwork: reinforcement in place.\n\n📷 4 — During pouring: continuous monitoring.\n\n📷 5 — After pouring: props remain until it sets.\n\n💡 Our offer: in villa construction in Casablanca, we respect every stage — a written study, and photo follow-up.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "121": {
+  "title": "Forgot an opening for the stairs or a passage for pipes before pouring? Drilling afterwards weakens the slab and costs a lot. 🔧",
+  "body": "Every opening in the slab — stairs, pipes, ventilation — must be planned before pouring, with steel reinforcement around it. Whoever drills afterwards cuts the steel, and creates a weak point at the heart of the structure.\n\n💡 Our offer: in villa construction projects in Rabat, we draw all openings and passages before pouring — a written study, and photo follow-up stage by stage, so nothing is drilled afterwards.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "122": {
+  "title": "Your window without a roller shutter? You lose three things at once: comfort, safety, and insulation. 🪟",
+  "body": "A roller shutter is not just decoration: during the day it blocks the sun and noise, at night it protects the home and gives privacy, and in winter and summer it helps the window's thermal insulation. And what matters is not just the shutter — it is the installation: a well-integrated box, straight tracks, and a sound motor if it is electric. A shutter fitted in a hurry breaks down, lets in air and water, and becomes a daily nuisance.\n\n💡 Our offer: in our villa renovation projects in Temara and Casablanca, we fit shutters made to measure for your windows — a written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "123": {
+  "title": "The floor is finished, but the bottom of the wall is still bare? The skirting board is the final touch that makes the difference between clean work and incomplete work. ✨",
+  "body": "The skirting board protects the bottom of the wall from water and knocks, and hides the joint between the floor and the wall. A skirting board fitted without care — visible joints and uneven corners — ruins the look of an entire expensive floor.\n\n💡 Our offer: in our renovation projects in Rabat, we fit skirting boards with the care of a final touch — a written study, and photo follow-up stage by stage, so your home's floor looks complete.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "124": {
+  "title": "A small leak by the bathtub or the window? Most often it is a single silicone joint that has failed. 💧",
+  "body": "Mastic and silicone are the last line of defence against water: around the bathtub, by the windows, and between the tiling and the basin. A joint made in a hurry, on a dirty or wet surface, does not stick — and water enters silently and damages from the inside.\n\n💡 Our offer: in our bathroom renovation projects in Casablanca, we give small joints great care — a written study, and photo follow-up stage by stage, so water does not enter your home.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "125": {
+  "title": "Wallpaper peeled off after a month? The problem is not the paper — it is the wall underneath it. 🖼️",
+  "body": "Any wall covering — paper, fabric, or panels — lives or dies according to the wall: a clean, dry, and level wall gives a result that lasts for years. A wall with dust or damp makes the covering fall off from the first season.\n\n💡 Our offer: in our high-end renovation projects in Rabat, we prepare the wall before any covering — a written study, and photo follow-up stage by stage, so your home's walls stay beautiful for years.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling"
+ },
+ "126": {
+  "title": "A wooden staircase that creaks with every step? The problem is not the wood — it is the installation and fixing. 🪵",
+  "body": "A successful wooden staircase is built on three things: level and stable treads, a regular height from one step to the next, and a sturdy handrail. A staircase made in a hurry creaks, moves, and becomes a danger for old and young alike.\n\n💡 Our offer: in our villa renovation projects in Sale, we install wooden staircases with craftsmanship — a written study, and photo follow-up stage by stage, so your home's staircase stays stable and silent for years.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "127": {
+  "title": "A dripping tap? Or accessories that rust after a month? A bathroom is judged by the small details you use every day. 🚿",
+  "body": "Taps and accessories are not just decoration: they are what you use every morning and every night. Cheap material rusts, drips, and damages the tiling underneath. And correct installation — with tight joints — is what makes them last.\n\n💡 Our offer: in our bathroom renovation projects in Kenitra, we choose taps and accessories with you to your taste, and install them with craftsmanship — a written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "128": {
+  "title": "The works are finished, but the home still has dust and stains? Handover without cleaning is not handover. ✨",
+  "body": "End-of-works cleaning is the last stage of the job: removing dust from every corner, cleaning the glass and tiling, and removing paint and silicone residues. A home handed over clean says more about the company than any words.\n\n💡 Our offer: in all our projects — a villa renovation in Rabat or a villa construction in Casablanca — we hand over a clean home, ready to live in. A written study, and photo follow-up stage by stage, right to the final touch.",
+  "category": "Construction",
+  "theme": "Safety & site"
+ },
+ "129": {
+  "title": "Your terrace in Rabat is bulging from underneath? Bubbles under the waterproofing mean vapour is trapped inside. 💧",
+  "body": "On a waterproofed terrace, the order of the layers matters as much as their quality: without a vapour barrier in the right place, the home's moisture condenses inside the insulation and destroys the whole system. And waterproofing does not replace the slope — water must always drain away (DTU 43.1: slope and dual drainage).\n\n💡 Our offer: we review your terrace build-up layer by layer before any repair — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "130": {
+  "title": "Do leaks always start in the same places? Corners, around the drain, and openings that pass through the terrace — these are the sensitive points. 🔍",
+  "body": "The large surface of the terrace is rarely the problem: water enters at the special points — upstands, corners, and pipe outlets. Whoever masters these points protects the whole terrace; whoever neglects them repeats the repair every winter.\n\n💡 Our offer: we inspect all the sensitive points of your terrace in Rabat or Casablanca before winter — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "131": {
+  "title": "Do you want a small garden on the terrace? Plants need water — your terrace does not. 🌱",
+  "body": "A rooftop garden is a beautiful project, but dangerous if not well prepared: permanently damp soil, roots searching for cracks, and a blocked drain turn the garden into a pond above your head. The solution? Waterproofing designed for planting, guaranteed drainage, and protection of the waterproof layer before you plant the first plant.\n\n💡 Our offer: we prepare your terrace in Sale or Temara to receive plants with no risk to the waterproofing — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "132": {
+  "title": "Did you know the residual-current breaker is not the ordinary breaker? One protects the wires, the other protects people. ⚡",
+  "body": "The ordinary breaker protects circuits against overload and short circuit, while the residual-current breaker detects current leakage and cuts it before it reaches a person. And earthing completes the system — all three work together. Without this protection, any small contact can become a real danger.\n\n💡 Our offer: we review your home's electrical panel in Kenitra or Rabat and explain what it is missing — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Electrical"
+ },
+ "133": {
+  "title": "A leak rarely comes from the pipe — it comes from the joint. A small point today, a stain on the wall tomorrow. 🔧",
+  "body": "Every joint between two pipes is a potential weak point: a surface not cleaned, tightening too strong or too weak, and a seal that ages over time. The signs appear before disaster: white or green traces, a damp smell, and pressure dropping for no reason. And a joint hidden behind the wall must be inspected before it is closed in — after tiling, repair becomes demolition.\n\n💡 Our offer: we inspect all the plumbing joints in your home in Sale or Temara before the wall is closed over them — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "134": {
+  "title": "Do you want light in the garden? Outdoor electricity is not like indoor electricity — water and dust work against it. 💡",
+  "body": "Outdoor sockets and garden lighting need special protection: sealed boxes, cables buried at the right depth, and breakers that protect against leakage. A makeshift outdoor installation can become a real danger with the first winter.\n\n💡 Our offer: we set up your garden and terrace electrics in Kenitra or Rabat in complete safety — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Electrical"
+ },
+ "135": {
+  "title": "The detailed estimate has a breakdown behind every line — have you ever asked what lies behind the price? 📐",
+  "body": "A unit price is not a number that falls from the sky: behind it is a “sous-détail” — a breakdown showing what it contains: how much material, how many hours, and what equipment. Without this breakdown, the price is a promise without proof; with it, you can compare and understand.\n\n🖼️ Image 1 — The line breakdown: materials by quantity and quality.\n\n🖼️ Image 2 — Labour and time: how many hours, how many workers.\n\n🖼️ Image 3 — The estimate that can be compared: line by line, with no ambiguity.\n\n💡 Our offer: we prepare a detailed written study for your project in Casablanca or Rabat, every line with its breakdown.",
+  "category": "Construction",
+  "theme": "Pricing & quantities"
+ },
+ "136": {
+  "title": "Do you have two estimates for the same work? The right comparison is not in the final figure — it is line by line. 🔍",
+  "body": "A cheaper estimate may be missing work, use cheaper materials, or include no warranties — and the final figure alone says nothing. The right comparison: the same work, the same materials, the same warranties — line by line, and that is how the real difference shows.\n\n💡 Our offer: we prepare a detailed written study for your villa renovation in Casablanca or Rabat, on the same basis — so you can compare offers line by line and choose with your eyes open.",
+  "category": "Construction",
+  "theme": "Pricing & quantities"
+ },
+ "137": {
+  "title": "Before workers climb the scaffold, have you checked it is stable? Falling from height is the most serious accident in construction. 🪜",
+  "body": "A scaffold is inspected like a structure, not like furniture: stability first — the base, the bracing, and the fixing to the facade; collective protection second — guardrails and complete platforms; and safe access third — with no makeshift storage at height. Three checks, and zero risk-taking.\n\n💡 Our offer: our scaffolds are inspected before every use — worker safety is the first condition before we start any work in your villa in Rabat or Sale.",
+  "category": "Construction",
+  "theme": "Safety & site"
+ },
+ "138": {
+  "title": "Who said what, when, and why? If it is not written down, it is forgotten — and if it is forgotten, a dispute is created. 📓",
+  "body": "The site logbook is the project's memory: every visit, every decision, every change, every handover — written, dated, and signed. It protects the contractor and the client together, and lets each one know where they stand. A site without a logbook is a site without a memory.\n\n💡 Our offer: every site of ours has a written follow-up logbook — decisions, progress, and photos — and we share it with you stage by stage on WhatsApp.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "139": {
+  "title": "You took handover of the home with observations, and then what? The second visit is what confirms everything was really fixed. 🔑",
+  "body": "Handover with observations is not the end of the project — it is a work list. And the follow-up visit is prepared like the first visit: a before-and-after photo file, and each observation checked one by one. Whoever follows this method receives their home clean; whoever neglects it stays with the observations for months.\n\n💡 Our offer: we accompany you through handover and the follow-up visit for your villa in Rabat or Casablanca — a before-and-after photo file, and transparent follow-up to the last observation.",
+  "category": "Construction",
+  "theme": "Handover & warranties"
+ },
+ "140": {
+  "title": "The water heater or air conditioner broke down after handover? Not every fault is “misuse” — some equipment has its own warranty. 🔧",
+  "body": "The warranty for proper functioning of equipment covers appliances built into the building — heating, cooling, plumbing, and electrical — if the fault comes from the installation or from the appliance itself. What matters is an accurate handover report that records the condition of each item of equipment on handover day, so the right is not lost.\n\n💡 Our offer: we document the condition of each item of equipment in the handover report for your home in Kenitra or Sale — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Construction",
+  "theme": "Handover & warranties"
+ },
+ "141": {
+  "title": "An old bathroom is renovated in order, not at random — a step in the wrong place costs you redoing the work. 🚿",
+  "body": "The correct order: first diagnosis and demolition; second, the new networks — plumbing and electrical before any wall is closed; third, waterproofing — on a clean, dry support, with a 24-hour water test; fourth, tiling; fifth, sanitary fittings; and finally the touch-ups. Whoever tiles before waterproofing redoes everything, and whoever fits the equipment before tiling damages it with their own hands.\n\n💡 Our offer: we renovate your old bathroom in Rabat or Kenitra in the correct order — a clear written study, and photo follow-up stage by stage, so you do not redo a single step.",
+  "category": "Renovation",
+  "theme": "Renovation & repair"
+ },
+ "142": {
+  "title": "You live in the home and want to renovate it? Renovating while living there is an art that is possible — if it is well organised. 🏠",
+  "body": "The secret is gradual progress: room by room, an area protected from dust, and a bathroom and kitchen that keep working for as long as possible. And a written programme that tells you each day what will happen, so life does not stop — it just changes a little.\n\n💡 Our offer: we renovate your apartment in Rabat or Sale while you live in it — a written programme room by room, dust protection, and photo follow-up at each stage on WhatsApp.",
+  "category": "Renovation",
+  "theme": "Renovation & repair"
+ },
+ "143": {
+  "title": "The slope of the terrace is formed in the concrete, not afterwards.",
+  "body": "Does your terrace in Rabat collect water after every winter? The problem is not the waterproofing — it is the slope. 💧\n\nAccording to DTU 43.1, the slope is made in the structural work so water flows by itself towards the drainage — if you wait until the end, you will add layers and fix the mistake at the cost of the mistake.\n\n💡 Our offer: before starting terrace waterproofing in Rabat, we check its slope and explain what needs to be fixed — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "144": {
+  "title": "According to DTU 43.1, the terrace must have dual drainage — a main outlet + a backup outlet (trop-plein).",
+  "body": "Did you know the terrace must have a second outlet for water if the first one gets blocked? This is the rule that saves your home. 🌧️\n\nIf the first outlet gets blocked with leaves or dust, the water exits through the second and does not rise above the wall. A terrace without a second outlet is a terrace waiting for a flood.\n\n💡 Our offer: we check your terrace drainage in Kenitra and add the backup outlet if it is missing — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "145": {
+  "title": "Waterproofing does not stick to dust and damp.",
+  "body": "Do you want terrace waterproofing in Temara that lasts? Before the waterproofing is laid, the surface must be clean and dry — that is the rule. 🧹\n\nThe surface must be thoroughly cleaned and completely dry before work begins — otherwise the waterproofing will peel off from the start. The craftsman who starts without cleaning the surface is building on sand.\n\n💡 Our offer: before any terrace waterproofing in Temara, we prepare the surface well — cleaning, drying, and inspection — a clear written study, and transparent follow-up from the start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "146": {
+  "title": "When redoing waterproofing, the upstands (les relevés) are rebuilt from scratch on the wall — at least 10 cm according to DTU 20.12 — because that is the point where water gets in.",
+  "body": "Redoing the waterproofing of an old terrace in Sale? The new waterproofing is not complete unless the upstands are rebuilt from scratch. 🛠️\n\nNew waterproofing over old, worn upstands is incomplete waterproofing from the start.\n\n💡 Our offer: for redoing the waterproofing of your terrace in Sale, we rebuild the upstands from scratch and check every sensitive point — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "147": {
+  "title": "Water that stays standing after rain is telling you that the slope does not carry the water to the drain — and that weakens the waterproofing over time.",
+  "body": "After the rain, does water stay standing on your terrace? That is not an ordinary puddle — it is a message from your terrace. 💧\n\nAccording to DTU 43.1, the slope is formed in the concrete so the water flows on its own: if you see a puddle that remains, you should have it inspected before the problem grows.\n\n💡 Our offer: we inspect your terrace in Rabat after the rain and pinpoint where the water stands — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "148": {
+  "title": "NM 10.8.913 is the Moroccan waterproofing standard cited in specifications in Morocco — and DTU 43.1 is the corresponding French reference.",
+  "body": "Does your quote include a reference for the waterproofing? If it does not mention NM 10.8.913, ask about it — that is the Moroccan waterproofing standard. 📋\n\nA waterproofing quote that cites the reference makes clear what will be carried out, while a quote with no reference at all leaves everything open to interpretation.\n\n💡 Our offer: for any terrace waterproofing in Kenitra, our quote cites the reference, the materials and the stages — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "149": {
+  "title": "Waterproofing requires a dry surface and suitable weather — in summer and autumn the surface dries well and the materials bond properly.",
+  "body": "Do you want terrace waterproofing in Temara? The best time is before winter — not in the middle of it. ☀️\n\nIf you start waterproofing in the middle of winter, moisture makes the work incomplete from the start, and you will redo it later at your own expense.\n\n💡 Our offer: if you want terrace waterproofing in Temara, send us a message now and we will schedule the work at the right time — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "150": {
+  "title": "A well-waterproofed terrace is a complete system — four rules: the slope in the concrete so water flows (DTU 43.1), double drainage with a backup outlet, upstands of at least 10 cm (DTU 20.12), and a 24-hour water test before covering.",
+  "body": "Is your terrace leaking? The problem is not in a single layer — it is in the whole system. 🏗️\n\nIf just one is missing, the whole system weakens.\n\n📸 The photos:\n\nA — The slope: the water flows on its own towards the drain.\n\nB — Double drainage: the main one and the backup.\n\nC — The upstands: at least 10 cm.\n\nD — The water test: the proof before covering.\n\n💡 Our offer: we inspect your terrace system in Rabat — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "151": {
+  "title": "Does your roof leak every winter? The problem is 4 steps that were not done properly. 💧",
+  "body": "Roof waterproofing is built on 4 rules: a slope in the concrete so water runs off, double drainage so water finds its way, raising the waterproofing up the edges by at least 10 cm, and a 24-hour water test before handover. One missing step, and the whole roof is at risk.\n\n📸 The photos:\n\nA — The slope: water runs towards the drain.\n\nB — Double drainage: drain + overflow for emergencies.\n\nC — Raising the waterproofing up the edge: at least 10 cm.\n\nD — The water test before handover.\n\n💡 Our offer: we inspect your roof and repair the waterproofing according to these four rules — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "152": {
+  "title": "Do you want to waterproof your roof? The first step is not the product — the first step is the roof itself: clean and dry. 🧹",
+  "body": "Waterproofing does not stick to dust or to moisture: a dirty or wet surface makes the layer peel off after a few months, even if the product is good. Full cleaning and drying before application is not a detail — it is the foundation of everything.\n\n💡 Our offer: before any waterproofing, we clean the surface and make sure it is completely dry — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "153": {
+  "title": "One blocked drain = a roof drowned in water. The solution? A second path for the water. 🌧️",
+  "body": "If the single drain gets blocked with leaves and dirt, the water stays on the roof and looks for its way — most often inside the house. Double drainage (drain + overflow) gives the water a second outlet if the first gets blocked: the roof does not stay drowned, and the house stays protected.\n\n💡 Our offer: we review your roof drainage and add a second outlet if one is missing — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "154": {
+  "title": "Water that stays standing on the roof finds its way inside — the slope is what stops it. 💧",
+  "body": "The slope of the roof is not made with the waterproofing — it is made in the concrete itself, before the waterproofing. If the slab is completely flat, water stands in puddles and presses on the waterproofing until it leaks. A correct roof lets water run towards the drain from the first drop of rain.\n\n💡 Our offer: we inspect your roof's slope and fix its drainage at the root — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "155": {
+  "title": "After the rain, do you find puddles of water standing on your roof? That is not normal — it is a message from your roof. 💧",
+  "body": "Puddles that remain standing mean the slope does not carry the water to the drain: with sun and time, the waterproofing wears out in exactly those places, and the leak starts there. A correct roof dries completely after rain, with no puddles.\n\n💡 Our offer: we inspect your roof after the rain and pinpoint where the water stands — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "156": {
+  "title": "If your roof drain gets blocked in the middle of a storm, where will the water go? The answer: the overflow. 🛟",
+  "body": "The overflow is a second outlet placed slightly higher than the drain: if the water rises above the limit, it exits through the overflow before entering the house. Without an overflow, the roof turns into a pond — and with a little time, the water finds its way through the ceiling.\n\n💡 Our offer: we make sure your roof has a working overflow, and we add one if it is missing — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "157": {
+  "title": "The waterproofing was done well, and then someone came and walked on it in site boots? That is where the leak begins. 👷",
+  "body": "The waterproofing layer stays sensitive until it is covered: walking on it with heavy tools, storing materials on it, and piercing it carelessly — all of these wound it without showing. Protecting the waterproofing during the work is not a luxury, it is part of the work itself.\n\n💡 Our offer: we protect your waterproofing during the work and monitor every stage — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "158": {
+  "title": "The first winter rains? That is the best moment to see whether your waterproofing is working or not. 🔍",
+  "body": "After the first heavy rain, go up to the roof and look: is the water running towards the drain? Are there standing puddles? And inside, is there a trace of damp in the ceiling? Inspection after the first rain reveals the problem while it is small — before it grows and becomes expensive.\n\n💡 Our offer: we inspect your roof after the first rain and repair what needs repairing — a clear written study, and photo follow-up stage by stage.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "159": {
+  "title": "Does your terrace keep water standing on it after rain? The problem is not the waterproofing — it is the slopes. 💧",
+  "body": "If you are looking for terrace waterproofing in Casablanca, know this rule: the terrace slopes are formed in the concrete, before the waterproofing is laid — that is the DTU 43.1 rule. Water must go to the drain without collecting. A terrace with no slopes, even with good waterproofing, keeps water standing, and it looks for the weakest point to get in.\n\n💡 Our offer: before waterproofing your terrace, we inspect the slopes and fix them before the waterproofing — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "160": {
+  "title": "Your terrace downpipe got blocked with a leaf or dirt — will the water stay standing over your head? No, if you have a second outlet. 🌧️",
+  "body": "If you are looking for terrace waterproofing in Kenitra, know this rule: DTU 43.1 requires double drainage — two outlets for the water, or a downpipe plus an overflow. If one gets blocked, the second works. A terrace with a single outlet is a terrace waiting for the first blockage to flood.\n\n💡 Our offer: we inspect your terrace water outlets and add the second outlet if it is missing — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "161": {
+  "title": "Did you know you can measure waterproofing quality with a ruler? The waterproofing that rises up the wall must be at least 10 cm. 📏",
+  "body": "If you are looking for terrace waterproofing in Marrakech, know this rule: DTU 20.12 requires the waterproofing to rise at least 10 cm above the terrace, on the roof wall. Less than that, and water gets in from the side. Measure with your own eyes before you pay.\n\n📸 The photos:\n\nA — The waterproofing rising up the roof wall.\n\nB — Measuring with the ruler: at least 10 cm.\n\nC — The angle and the junction between the wall and the terrace.\n\nD — The waterproofing protected and completed.\n\n💡 Our offer: we inspect your terrace waterproofing with you, ruler in hand, and fix it if it falls short — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "162": {
+  "title": "Waterproofing does not stick to dust or to a wet surface — it sticks to a clean, dry surface. 🧹",
+  "body": "If you are looking for terrace waterproofing in Agadir, know this rule: before waterproofing, the surface must be cleaned of dust and dirt, and be completely dry. Waterproofing laid on a wet surface peels off later, and the problem shows after the first rain. Cleaning and drying are not a waste of time — they are half the job.\n\n💡 Our offer: preparing your surface before waterproofing — cleaning, drying and inspection — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "163": {
+  "title": "How do you know the waterproofing is good before covering it with protection? With water — 24 hours of testing. 💧",
+  "body": "If you are looking for terrace waterproofing in Temara, know this rule: we fill the terrace with water, leave it for 24 hours, and monitor from below. If no leak appears, only then do we cover the waterproofing with protection. Whoever covers without testing buries the problem — and whoever tests gives you the proof before you pay.\n\n💡 Our offer: a 24-hour water test before we cover your waterproofing — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "164": {
+  "title": "The terrace is not a single layer — it is an order: the slopes, the waterproofing, and the protection. If you reverse the order, you will redo the work. 🏗️",
+  "body": "If you are looking for terrace renovation in Casablanca, know this rule: first the slopes so water flows, then the waterproofing according to the Moroccan standard NM 10.8.913, then the protection that shields the waterproofing from the sun and from foot traffic. Each layer has its role — and the layer that comes before protects the one after it.\n\n💡 Our offer: we build your terrace layer by layer, in the correct order — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "165": {
+  "title": "Traditional plaster or plasterboard? The answer is not in fashion — it is in the room. ✨",
+  "body": "If you are looking for living-room renovation in Rabat, know this rule: traditional Moroccan plaster is the signature of beauty — for living rooms, dry rooms and decoration. Plasterboard is speed and precision — for straight ceilings and short deadlines. And wet rooms have another choice. In both cases, the quality of the substrate and the structure determines the ceiling's lifespan.\n\n💡 Our offer: we help you choose the right plaster for each room in your home — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Plaster & ceilings"
+ },
+ "166": {
+  "title": "A successful slab does not start with the truck — it starts before it, and finishes after it. 🏗️",
+  "body": "If you are looking to build a villa in Kenitra, know this rule: before pouring, we check the steel and the formwork according to the design office's plans. During pouring, correct vibration without adding water to the mix. And after pouring, curing with water and removing the formwork at the right time. A slab prepared this way lasts — and one poured haphazardly, you pay for later.\n\n💡 Our offer: pouring your slabs with checks before, during and after — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "167": {
+  "title": "You prepared your complete bid, and you arrived one minute late? In public tenders, being late eliminates you before the envelope is even opened. ⏰",
+  "body": "If you are looking for public tenders in Rabat, know this rule: the bid must be submitted within the deadline set in the notice, in the required form — no incomplete envelope, no late submission. Whoever prepares their bid at the last minute is gambling on luck — and whoever prepares it early enters the competition calmly.\n\n💡 Our offer: we support you in studying public tender files — a full reading of the file before you calculate the price — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "168": {
+  "title": "Something unexpected happened on site? Act now — but write everything down immediately afterwards. ✍️",
+  "body": "If you are looking for additional work in Marrakech, know this rule: additional work requires a written order from the project owner. And in a real emergency, we carry out the work to protect the site, then confirm in writing immediately — with photos and measurements. Whoever works on a verbal basis risks never being paid.\n\n💡 Our offer: every change on your site is documented in writing and with photos before it is carried out — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "169": {
+  "title": "Did you know the right product comes with its paperwork? The certificate and the marking are the proof before it is installed. 📄",
+  "body": "If you are looking to build a villa in Kenitra, know this rule: every material that arrives on site must have a certificate of conformity and clear marking — cement, steel, and waterproofing. We compare the paperwork with the goods before unloading. A material with no paperwork does not enter the site.\n\n📸 The photos:\n\nA — The certificates and documents on the site table.\n\nB — The marking on the product.\n\nC — The delivery note against the goods.\n\n💡 Our offer: we check your site materials with you — by certificates and marking — a clear written study, and transparent follow-up.",
+  "category": "Construction",
+  "theme": "Standards & references"
+ },
+ "170": {
+  "title": "Before the concrete truck arrives, who checked the reinforcement? Steel that isn't checked gets covered in concrete — and the mistake stays inside. 🏗️",
+  "body": "If you're looking to build a villa in Tangier, know this rule: before pouring, we compare the reinforcement against the design office plans — diameter, number, and spacing. Checking before pouring is cheap; correcting after pouring is expensive.\n\n💡 Our offer: we check your slab reinforcement with you before pouring — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "171": {
+  "title": "Paint peeling after a few months? The problem isn't the colour — it's the primer coat that was never applied. 🎨",
+  "body": "If you're looking for villa painting in Fes, know this rule: before the colour, you need the primer coat — it seals the pores of the wall and lets the paint adhere properly. Skipping this coat to save money means repainting everything later.\n\n💡 Our offer: painting your villa from primer to final colour — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Painting & coatings"
+ },
+ "172": {
+  "title": "Your villa's boundary wall is leaning, or cracking from the bottom? A boundary wall isn't just a wall — it's a structure like the house, and it needs foundations. 🧱",
+  "body": "If you're looking to build a villa boundary wall in Casablanca, know this rule: a wall without foundations leans over time, and the crack shows from the bottom. A proper wall is built on foundations, in stone and concrete, with joints that let it breathe — not just bricks on the ground. One built properly protects the house for years; one built in a hurry becomes a danger to anyone passing by.\n\n💡 Our offer: building and renovating your villa boundary wall on the right foundations — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "173": {
+  "title": "You closed the wall over the pipes and cables without photographing them? Later, if you want to drill for a screw, you'll be playing the lottery. 📸",
+  "body": "If you're looking for bathroom renovation in Temara, know this rule: before closing up, we photograph the entire network — water, electricity, and drainage — and give you the photos with the plan. This is the house's memory: years later, you'll know exactly where every pipe runs.\n\n💡 Our offer: photographic documentation of your home's networks before closing — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "174": {
+  "title": "A small measuring error repeats on every floor and in every room — and in the end, it becomes a big error. 📏",
+  "body": "If you're looking to build a villa in Agadir, know this rule: the quantities in the quote must be checked against the plans and against reality on site — before starting, and at every stage. A small difference not caught at the start grows with every repetition — and correcting it at the end is expensive.\n\n💡 Our offer: we review your project's quantities with you before starting — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Pricing & quantities"
+ },
+ "175": {
+  "title": "Do you maintain your terrace once a year, or leave it until it starts leaking? Waterproofing doesn't survive without inspection. 🔍",
+  "body": "If you're looking for terrace waterproofing in Casablanca, know this rule: once a year, the terrace needs a full visit — water outlets clear, waterproofing upstands on the wall sound, and corners protected. A small problem is easy to fix today; left alone, it grows until it becomes a leak.\n\n📸 Photos:\n\nA — Inspecting the water outlets.\n\nB — Cleaning the terrace before winter.\n\nC — Checking the waterproofing on the wall.\n\nD — Checking after the first winter.\n\n💡 Our offer: annual visit for your terrace — inspection of outlets, waterproofing and corners — a clear written study, and transparent follow-up.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "176": {
+  "title": "Is your bathroom leaking into the neighbours below? The problem isn't the tiling — it's the waterproofing that must be done before the tiling. 🚿",
+  "body": "If you're looking for bathroom renovation in Marrakech, know this rule: before the tiling is laid, the bathroom needs complete waterproofing — the floor and the shower walls. Tiling is not a waterproofing layer; it's only a decorative finish over the waterproofing. Laying tiles without waterproofing hides the problem — and the water comes out underneath.\n\n💡 Our offer: waterproofing your bathroom before the tiling — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "177": {
+  "title": "The steel bars sticking out of the slab waiting for the next floor — have you left them to rust? Steel that rusts today weakens tomorrow's building. 🔩",
+  "body": "If you're looking to build a villa in Kenitra, know this rule: protruding starter bars (les aciers en attente) must be protected from water and air until building resumes — covered and preserved. Steel that rusts loses its strength; steel that is protected stays ready for the next stage.\n\n💡 Our offer: protecting your project's steel before we continue building — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "178": {
+  "title": "Does your front door close properly? Does cold, dust and noise get through? A door isn't just wood — it's the house's first barrier. 🚪",
+  "body": "If you're looking for villa renovation in Casablanca, know this rule: the front door must be fitted to measure, with no gaps, strong hinges and a good lock. A badly fitted door lets cold in during winter and noise in every day — a well-fitted door protects the house and raises its value.\n\n💡 Our offer: a made-to-measure front door — precise fitting and high-end finishes — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Carpentry & aluminium"
+ },
+ "179": {
+  "title": "A site where rubble and dirt are everywhere — is that the company's image? A clean site is a safe site. 🧹",
+  "body": "If you're looking for villa renovation in Temara, know this rule: rubble must be gathered in its place, materials must be stored tidily, and walkways must stay clear. An organised site protects workers, protects materials, and lets the work move fast — a dirty site hides mistakes and causes accidents.\n\n💡 Our offer: an organised, clean site from start to delivery — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Safety & site"
+ },
+ "180": {
+  "title": "A pipe is leaking, and you can't find a way to reach it? The problem isn't the pipe — it's that it was sealed in the wall with no maintenance access. 🔧",
+  "body": "If you're looking for villa renovation in Agadir, know this rule: pipes and cables running inside the wall must be placed in a technical duct (gaine) with a maintenance hatch — so that if a problem occurs, we can repair it without breaking the wall. Sealing everything in with no access point makes you pay twice: once for building, once for breaking open.\n\n💡 Our offer: technical ducts with maintenance hatches in your project — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Plumbing & networks"
+ },
+ "181": {
+  "title": "A stone wall gives a house an authentic character — but only if it's built properly. 🪨",
+  "body": "If you're looking to build a villa in Marrakech, know this rule: exposed stone must be built stone by stone, with the right mortar and regular joints — not just decoration on top of a wall. A wall built properly lasts for generations; a wall built in a hurry cracks and crumbles.\n\n💡 Our offer: stone walls using the traditional method — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "182": {
+  "title": "Does your tiling sound hollow under your feet? The problem isn't the tiling — it's the floor beneath it. 🟫",
+  "body": "If you're looking for villa renovation in Kenitra, know this rule: before tiling, the screed (la chape) must be level, dry and sound. Tiles laid on a sloped or hollow screed sound hollow and crack over time. A level screed is half the tiling job.\n\n💡 Our offer: preparing your screed before tiling — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling"
+ },
+ "183": {
+  "title": "You submitted your file for a public tender, and your price wasn't even opened? The problem isn't the price — it's a missing document. 📋",
+  "body": "If you're looking into public tenders in Kenitra, know this rule: most files are rejected for administrative reasons, not technical ones — an incomplete file never gets its price opened. Before calculating the price, read the full specifications, gather the required documents, and make sure the bid bond matches the required form and amount. Only a complete file reaches the pricing stage.\n\n💡 Our offer: if you're a contractor looking for a works partner, we work with you with clear files and well-organised documents — a written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Tenders & contracts"
+ },
+ "184": {
+  "title": "Are your house foundations chosen from a catalogue? No — the ground chooses. 🏗️",
+  "body": "If you're looking to build a villa in Casablanca, know this rule: the type of foundations is decided by the nature of the ground and the load of the building, after a geotechnical study. The wrong foundations are paid for dearly: differential settlement and cracks in the walls. The right foundations cost less than repairing the house afterwards.\n\n💡 Our offer: before building, we examine the ground and build the foundations that suit it — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Construction",
+  "theme": "Structural work"
+ },
+ "185": {
+  "title": "Your basement is taking in water, and you painted the wall? Paint won't stop anything — treat the source. 💧",
+  "body": "If you're looking for basement damp treatment in Casablanca, know this rule: water comes from three directions — rising from the ground, seeping in from the side, or condensation — and each cause has its treatment: watertight internal tanking, drainage that relieves pressure, and sensitive points first.\n\n📸 Photos:\n\nA — Diagnosis: measuring the damp.\n\nB — Internal waterproofing that stops the water.\n\nC — Drainage: water moves away from the house.\n\nD — Sensitive points treated first.\n\n💡 Our offer: basement diagnosis before repair + treating the source — a clear written study, and transparent follow-up.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "186": {
+  "title": "Found an offer much cheaper than the rest? Ask yourself: where will they make up the difference? 💸",
+  "body": "If you're looking for villa renovation in Marrakech, know this rule: a price below the real cost doesn't become profitable later — the difference shows up on site: cheaper materials, incomplete work, or extra works that weren't in the calculation. Slashing prices to win the contract just shifts the problem to cash flow, quality, or a dispute. Better to lose a contract than win a loss-making site.\n\n💡 Our offer: our quote is detailed and clear — each item states what it includes, with no surprises — send us a WhatsApp message and we'll explain everything before you start.",
+  "category": "Construction",
+  "theme": "Pricing & quantities"
+ },
+ "187": {
+  "title": "A terrace above a bedroom? Here, waterproofing has no room for error — not a single drop is allowed. 💧",
+  "body": "If you're looking for terrace waterproofing in Casablanca, know this rule: if there's a lived-in room under the terrace, the waterproofing must be complete — slopes so water drains away, per DTU 43.1, waterproofing per Moroccan standard NM 10.8.913, and protection that shields it from sun and foot traffic. A terrace over a garage is not a terrace over your bedroom — here, every layer must be right.\n\n💡 Our offer: we examine your terrace above lived-in rooms and repair it layer by layer — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "188": {
+  "title": "Your terrace is leaking? Before you sign for the repair, ask these 3 questions — the answers will show you whether the contractor knows what he's doing. 🔍",
+  "body": "If you're looking for terrace leak repair in Kenitra, ask: first — are the slopes correct, and does the water flow to the drain? Per DTU 43.1, slopes are formed in the concrete. Second — does the waterproofing rise at least 10 cm up the wall? Per DTU 20.12. Third — will you do a 24-hour water test before covering up? If he has no clear answer to all three, don't sign with him.\n\n💡 Our offer: diagnosis of your leak using the three questions + a clear written study — send us a WhatsApp message and let's start.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ },
+ "189": {
+  "title": "Tiling on a waterproofed terrace isn't just decoration — it's the protection you walk on every day. 🏗️",
+  "body": "If you're looking for terrace tiling in Tangier, know this rule: a terrace is built layer by layer — slopes so water drains away, waterproofing per Moroccan standard NM 10.8.913, then protection that shields the waterproofing from sun and foot traffic. Tiling laid with no protection, stuck directly onto the waterproofing, exposes it to damage over time. Protection isn't optional — it's what makes the waterproofing last.\n\n💡 Our offer: we build your terrace layer by layer, in the right order — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Zellige & tiling"
+ },
+ "190": {
+  "title": "Rain has fallen, the roof is wet — should we waterproof now or wait? Wait. 💧",
+  "body": "If you're looking for terrace waterproofing in Rabat in winter, know this rule: waterproofing doesn't stick to a wet surface — it sticks to a clean, dry surface. Waterproofing applied to a wet surface peels off later, and the problem shows after the first winter. In winter, drying time isn't wasted time — it's half the job. Rushing in winter means redoing the work in spring.\n\n💡 Our offer: preparing your surface before waterproofing — cleaning, drying and inspection — a clear written study, and transparent follow-up from start to handover.",
+  "category": "Renovation",
+  "theme": "Waterproofing"
+ }
+}

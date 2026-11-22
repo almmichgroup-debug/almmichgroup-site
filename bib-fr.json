@@ -1,0 +1,1142 @@
+{
+ "_badge": "Règle ",
+ "_boiler": {
+  "pos": "Nous ne sommes pas les seuls sur le marché, mais nous sommes les meilleurs — des gens sérieux, sur lesquels le client peut compter, et quand nous commençons un travail, nous ne nous arrêtons pas avant de l'avoir terminé.",
+  "wa": "📲 WhatsApp : 0661841633 — Kénitra • Rabat • Salé • Témara"
+ },
+ "2": {
+  "title": "La terrasse fuit le plus souvent au niveau des points hauts des relevés d'étanchéité. La règle correcte (référence DTU 20.12) : un acrotère sain et sans fissures, un relevé d'étanchéité à la hauteur adaptée — 10 cm au minimum au-dessus du niveau fini de la terrasse — et une protection en tête (couvertine) pour que l'eau ne s'infiltre jamais derrière la membrane d'étanchéité. Au Maroc, la référence en étanchéité est la norme NM 10.8.913.",
+  "body": "📲 WhatsApp : 0661841633 — Kénitra • Rabat • Salé — Source : Batirama (DTU 20.12)",
+  "category": "Rénovation",
+  "theme": "Étanchéité",
+  "_noBoiler": true
+ },
+ "3": {
+  "title": "La plupart des dossiers sont éliminés des marchés publics avant même que leur prix ne soit ouvert. 📂",
+  "body": "L'élimination est le plus souvent administrative, pas technique : un document manquant, une attestation expirée, ou une caution provisoire non conforme à ce qu'exige le règlement de consultation. La leçon : le règlement de consultation se lit en entier, du début à la fin, avant de calculer le moindre prix — le chantier se gagne aussi au bureau.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "4": {
+  "title": "Trois sigles décident du sort de tout marché : CCAG – CCAP – CPS. 📜",
+  "body": "Le CCAG, ce sont les règles générales qui s'appliquent à tous les marchés de travaux ; le CCAP adapte ces règles précisément à votre projet (délais, pénalités, retenues) ; et le CPS décrit techniquement les travaux à réaliser. Le prix n'est qu'une ligne du contrat — ces documents sont le vrai contrat.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "5": {
+  "title": "La norme marocaine (NM) — qu'est-ce que c'est exactement, et qui la rédige ? 📏",
+  "body": "Les normes marocaines sont coordonnées par IMANOR avec les professionnels du secteur. À l'origine, l'application d'une norme est volontaire… jusqu'à ce qu'un texte réglementaire ou un document de marché (CPC/CPS) la cite — à ce moment-là, elle devient obligatoire pour ce projet. Exemple bien connu chez nous : NM 10.8.913, la référence de l'étanchéité des toitures au Maroc.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "6": {
+  "title": "Le DTU au Maroc — loi obligatoire ou règle professionnelle ? ⚖️",
+  "body": "La réponse précise : le DTU est une référence française, il ne s'impose pas de lui-même au Maroc. Mais s'il est cité dans les documents du marché (CPS/CCAP), il devient un engagement contractuel. La méthode professionnelle : commencer par la norme marocaine NM et par les documents du projet, puis appliquer le DTU comme règle de l'art — comme nous l'avons fait avec le DTU 43.1 et le DTU 20.12 dans les épisodes 1 et 2.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "7": {
+  "title": "Les fondations ne se choisissent pas dans un catalogue — c'est le sol qui décide. 🏗️",
+  "body": "Fondation superficielle, radier ou solutions plus profondes : l'étude géotechnique est celle qui dit ce que le sol peut supporter, et ce qui convient au poids du bâtiment. Le mauvais choix ici se paie plus tard sous forme de tassement différentiel… et de fissures dans les murs. Adapter la fondation au sol coûte bien moins cher que réparer un bâtiment entier.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "8": {
+  "title": "La peinture se décolle après quelques mois ? Le défaut n'est le plus souvent pas en elle — il est en dessous. 🎨",
+  "body": "Humidité piégée, poussière, ou absence de couche d'accrochage (primaire) : la peinture ne fait que révéler la maladie de la surface. La règle : une surface saine, sèche et propre avant toute couche, la première couche n'est pas une économie intelligente, et les temps de séchage entre les couches font partie du système, pas un retard.",
+  "category": "Rénovation",
+  "theme": "Peinture et revêtements"
+ },
+ "9": {
+  "title": "Dans le tableau électrique, chaque appareil a son rôle — et les confondre est dangereux. ⚡",
+  "body": "Le disjoncteur protège les circuits contre les surcharges et les courts-circuits ; l'interrupteur différentiel détecte les fuites de courant et protège les personnes ; et la prise de terre complète le système. Les trois fonctionnent ensemble, et aucun ne remplace l'autre. La sécurité électrique ne se négocie pas.",
+  "category": "Rénovation",
+  "theme": "Électricité"
+ },
+ "10": {
+  "title": "Le prix unitaire ne tombe pas du ciel — il se construit. 🧮",
+  "body": "Derrière chaque ligne du bordereau des prix, il y a un calcul précis : le déboursé réel (main-d'œuvre, matériaux, matériel), plus les frais de chantier et de l'entreprise, plus une marge qui paie le risque et l'organisation. Un prix qui n'a pas cette structure est un prix arbitraire — et il se paiera plus tard sur le chantier, en monnaie forte : retards et litiges.",
+  "category": "Construction",
+  "theme": "Prix et métrés"
+ },
+ "11": {
+  "title": "Une fissure dans un mur n'est pas une maladie — c'est un message. 🧱",
+  "body": "Une fissure qui avance « en escalier » dans la maçonnerie indique le plus souvent un tassement différentiel des fondations : le sol a bougé de façon inégale, et le mur le raconte. La bonne réponse n'est pas de la boucher au plâtre — on traite la cause (le sol et la structure) avant le symptôme (la peinture). Celui qui ne répare que la surface laisse le problème grandir en secret.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "12": {
+  "title": "Sur une toiture isolée thermiquement, l'ordre des couches compte autant que leur qualité. 🏠",
+  "body": "Sans pare-vapeur placé au bon endroit, l'humidité intérieure se condense au cœur de l'isolant et dégrade le système de l'intérieur — et les signes apparaissent plus tard sous forme de cloques et de décollements. Et l'isolation thermique ne remplace pas la pente : l'eau doit toujours trouver son chemin pour sortir (épisode n° 1), et la continuité au niveau des relevés d'étanchéité et des points sensibles est ce qui décide de l'efficacité réelle (épisode n° 2).",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "13": {
+  "title": "L'échafaudage s'inspecte comme une structure — pas comme un meuble. 🦺",
+  "body": "Avant que la moindre équipe ne monte : premièrement la stabilité — l'assise, le contreventement et l'ancrage à la façade. Deuxièmement la protection collective — garde-corps et planchers complets sans vides. Troisièmement l'accès sûr et le respect de la charge des planchers — pas de stockage improvisé en hauteur. Le travail en hauteur est le premier risque de ce métier, et l'inspection en est le prix.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier"
+ },
+ "14": {
+  "title": "Une réception avec réserves n'est pas un échec — c'est une liste de travail. ✅",
+  "body": "Ce qui fait durer une réception des mois, c'est l'absence de méthode : un procès-verbal de réserves daté, signé et classé par corps de métier, chaque réserve avec un responsable et un délai, la correction par familles de défauts et non au hasard, et la deuxième visite préparée comme la première — avec un dossier de photos avant/après. Une réception propre se construit, elle ne s'attend pas.",
+  "category": "Construction",
+  "theme": "Réception et garanties"
+ },
+ "15": {
+  "title": "Une tache d'humidité au plafond n'est pas un diagnostic — ce n'est qu'un symptôme. 🔬",
+  "body": "Trois maladies avec le même signe : une fuite des canalisations d'eau (la tache suit le réseau et apparaît et disparaît), un défaut d'étanchéité de la terrasse (la tache suit la pluie — revenez aux épisodes 1 et 2), ou de la condensation dans des pièces humides mal ventilées. Et repeindre sur une surface humide ne traite aucune des trois. On commence par le diagnostic, puis on répare la cause, et à la fin on peint.",
+  "category": "Rénovation",
+  "theme": "Diagnostic et prévention"
+ },
+ "16": {
+  "title": "Plus le carreau est grand, moins il pardonne à la pose. 🔲",
+  "body": "La pose en double encollage — colle sur le support et au dos du carreau — empêche les vides qui sonnent creux et se cassent ensuite. La planéité du support détermine le résultat avant même le début de la pose, et les joints de dilatation absorbent les mouvements : un sol carrelé n'est pas un bloc rigide unique. La forme suit la technique, pas l'inverse.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages"
+ },
+ "17": {
+  "title": "Connaissez-vous la différence entre la caution provisoire, la caution définitive et la retenue de garantie ? 💰",
+  "body": "Beaucoup d'entreprises les confondent et perdent de la trésorerie sans comprendre pourquoi : la provisoire garantit le sérieux de l'offre et est libérée dès que le projet est attribué à son titulaire ; la définitive garantit la bonne exécution pendant tout le chantier ; et la retenue de garantie est libérée à la réception définitive et à la levée des réserves. Trois mécanismes, trois objectifs — et celui qui les connaît gère son argent sans surprises.\n\n💡 Notre offre : nous vous accompagnons dans la lecture des documents du marché et des garanties avant de vous engager — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "18": {
+  "title": "Le prix le plus bas n'est pas toujours le gagnant d'un marché. 📉",
+  "body": "Le maître d'ouvrage a le droit de demander une justification détaillée d'une offre anormalement basse — et si elle ne convainc pas, l'offre est écartée. Et la raison est simple : un prix en dessous du coût réel menace l'exécution elle-même… et l'entreprise elle-même. Celui qui calcule bien et présente un détail de prix défendable gagne la confiance avant de gagner le marché.\n\n💡 Notre offre : nous calculons nos prix sur la base du coût réel et de l'étude technique — une preuve claire que vous pouvez défendre devant n'importe quelle commission.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "19": {
+  "title": "Un travail fait sans papier est un travail qui risque de ne jamais être payé. 📝",
+  "body": "Tout travail supplémentaire ou modifié doit passer par un ordre de service écrit du maître d'ouvrage ou du maître d'œuvre — et les quantités réelles sont constatées par des procès-verbaux et des constats contradictoires. Et s'il y a une vraie urgence, on exécute puis on confirme par écrit immédiatement. La parole orale sur le chantier s'évapore ; le papier reste.\n\n💡 Notre offre : tous nos travaux supplémentaires font l'objet d'un ordre écrit avant l'exécution, et leurs quantités sont constatées avec vous — sans surprises sur la facture finale.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "20": {
+  "title": "La réception provisoire n'est pas la réception définitive — et la différence change tout. 🔑",
+  "body": "La réception provisoire constate que les travaux sont terminés et fait démarrer le délai de parfait achèvement : pendant cette période, l'entreprise lève les réserves et répare les défauts apparus. La réception définitive clôt cette période et libère les garanties retenues. Celui qui ne connaît pas cette différence livre son chantier sans savoir ce qui lui reste à charge.\n\n💡 Notre offre : nous préparons avec vous la réception provisoire avec une liste de réserves claire, et nous restons à vos côtés jusqu'à la réception définitive — sans laisser une seule réserve en suspens.",
+  "category": "Construction",
+  "theme": "Réception et garanties"
+ },
+ "21": {
+  "title": "Savez-vous qui décide de la quantité d'acier et de béton dont un bâtiment a besoin ? 🧮",
+  "body": "Les Eurocodes sont les règles européennes de calcul des structures — ils définissent comment sont calculées les charges, la résistance et la stabilité. Au Maroc, ce n'est pas une loi en soi, mais le bureau d'études s'y réfère comme à une référence reconnue, et les documents du projet peuvent les invoquer. Un bâtiment bien calculé est un bâtiment qui tient avec confiance.\n\n💡 Notre offre : nous exécutons les plans du bureau d'études avec la précision qu'ils méritent — acier à sa place, béton contrôlé, et conformité totale aux calculs.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "22": {
+  "title": "Le béton se renforce avec l'eau, pas avec le soleil. 💧",
+  "body": "Après le coulage, le béton doit rester humide pour que la réaction chimique se poursuive — s'il sèche trop vite, il s'affaiblit et se fissure. L'arrosage régulier et la protection contre le vent et le soleil ne sont pas un luxe : c'est une opération à part entière, qui décide de la résistance du bâtiment à long terme.\n\n💡 Notre offre : nous traitons votre béton de la bonne manière dès le premier jour — arrosage, protection et contrôle, jusqu'à ce qu'il atteigne la résistance pour laquelle il a été conçu.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "23": {
+  "title": "Un béton mal vibré laisse des vides — et un béton trop vibré sépare ses composants. 🌀",
+  "body": "Une vibration correcte chasse l'air piégé et permet au béton de remplir chaque angle autour de l'acier — sans séparer les granulats de la pâte (ségrégation). Et ajouter de l'eau au mélange n'est pas une solution : cela affaiblit le béton et augmente la fissuration. Le métier se voit exactement à ce moment-là.\n\n💡 Notre offre : un coulage contrôlé de la première toupie au dernier mètre — vibration correcte, sans eau ajoutée, et un béton dense comme il a été conçu.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "24": {
+  "title": "Décoffrer trop tôt, c'est charger un bâtiment qui n'a pas encore atteint sa résistance. ⏳",
+  "body": "Le béton prend son temps pour se renforcer — et celui qui décoffre trop tôt charge la dalle alors qu'elle est encore faible, et provoque des déformations et des fissures qui apparaissent plus tard. La règle : la patience fait partie de la qualité, et le décoffrage se fait selon la référence citée dans les documents du projet, pas selon l'urgence.\n\n💡 Notre offre : nous respectons les délais de décoffrage sur chaque chantier — même sous pression des délais — car la sécurité de votre bâtiment ne se négocie pas.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "25": {
+  "title": "L'acier qui dépasse du béton est un acier qui rouille — et la rouille ronge le bâtiment de l'intérieur. 🛡️",
+  "body": "L'enrobage est la distance entre l'acier et la surface extérieure : il le protège de l'air, de l'eau et de la salinité. Les cales sont ce qui fixe cette distance avant le coulage — sans cales, l'acier descend et colle au coffrage. Un petit détail, et une protection pour des décennies.\n\n💡 Notre offre : nous contrôlons l'enrobage et les cales avant chaque coulage — en photos et en mesures — pour que l'acier de votre bâtiment reste protégé pendant des décennies.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "26": {
+  "body": "Le recouvrement est la longueur sur laquelle deux barres se chevauchent pour que l'effort passe de l'une à l'autre sans interruption : s'il est trop court, la jonction s'affaiblit ; s'il est réalisé sans ordre, les barres s'entassent et le béton ne remplit plus les espaces entre elles. La continuité de l'acier, c'est la continuité du bâtiment.\n\n💡 Notre offre : nous revoyons les plans de ferraillage avec le bureau d'études avant le coulage, et nous documentons les jonctions par des photos — sans aucune jonction faible dans votre bâtiment.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Une seule barre d'acier ne suffit pas pour toute la longueur d'un bâtiment — et la jonction entre les barres a ses propres règles. 🔗"
+ },
+ "27": {
+  "body": "Les joints absorbent les mouvements et la dilatation, et les chaînages en béton relient les murs entre eux comme une ceinture. Sans joints, le bâtiment se fissure ; sans chaînages, chaque mur travaille seul. Un bâtiment solide est un bâtiment dont les éléments sont reliés entre eux.\n\n💡 Notre offre : une construction réalisée dans les règles de l'art — joints et chaînages selon les plans de l'ingénieur — avec un suivi par photos à chaque étape.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Un mur, ce n'est pas seulement des briques sur des briques — c'est un système qui respire et qui bouge. 🧱"
+ },
+ "28": {
+  "body": "La charpente, en bois ou en métal, doit être calculée et solidement fixée, et la couverture doit être posée dans un ordre étanche : l'eau de pluie suit la pente, et le vent ne trouve aucune ouverture pour s'infiltrer. Et ce sont les détails — les raccords, les cheminées, les fenêtres de toit — qui sont le plus souvent à l'origine des infiltrations.\n\n💡 Notre offre : réparation et construction de toits avec un soin particulier pour les points sensibles — et un contrôle avant l'hiver pour que votre toit soit prêt pour la pluie.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Le toit est le chapeau de la maison — s'il fuit, tout ce qui est en dessous en souffre. 🏠"
+ },
+ "29": {
+  "body": "Une menuiserie réussie respecte cette nature : un bois sec et bien stocké avant la pose, des jeux de dilatation respectés, et une finition qui le protège de l'humidité et du soleil. Une porte qui ferme bien en été et qui coince en hiver est une porte posée sans tenir compte du comportement du bois.\n\n💡 Notre offre : portes, fenêtres et placards en bois de cèdre — pose précise, finition soignée, et bois soigneusement sélectionné pour durer.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium",
+  "title": "Le bois est une matière vivante — il respire, se dilate et se rétracte au fil des saisons. 🪵"
+ },
+ "30": {
+  "body": "Chaque pièce est taillée et posée à la main, et sa beauté se révèle dans la régularité : des joints égaux, un seul niveau, et des couleurs harmonieuses. Et le secret invisible : une surface bien préparée et une colle adaptée — sans préparation, même le plus beau zellige finit par se décoller.\n\n💡 Notre offre : zellige traditionnel réalisé par des artisans — pose précise, joints réguliers, et une finition qui fait de votre maison un chef-d'œuvre marocain.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages",
+  "title": "Le zellige marocain n'est pas un simple carrelage — c'est un artisanat à part entière. ✨"
+ },
+ "31": {
+  "body": "Le plâtre bouge avec le bâtiment : si les joints entre les plaques ou entre les couches sont réalisés sans soin, les fissures apparaissent dès la première année. Et l'ossature métallique qui porte le plafond doit être stable et de niveau — un beau plafond commence par une bonne ossature. La beauté du plafond marocain se construit par en dessous.\n\n💡 Notre offre : plafonds en plâtre traditionnels et contemporains — ossature stable, joints soignés, et une finition durable sans fissures.",
+  "category": "Rénovation",
+  "theme": "Plâtre et plafonds",
+  "title": "Votre plafond en plâtre se fissure ? La cause se trouve le plus souvent dans les joints et la structure. ✨"
+ },
+ "32": {
+  "body": "L'isolation thermique conserve la chaleur de la maison : en hiver, elle empêche le froid d'entrer, et en été, elle empêche la chaleur de pénétrer. Et ce qui décide de son efficacité, c'est la continuité — sans interruption dans les murs et le toit — et l'ordre correct des couches (voir l'épisode n° 12). L'isolation est un investissement qui se rembourse chaque mois, en confort et sur la facture.\n\n💡 Notre offre : isolation thermique des murs, des toits et des terrasses — étude écrite et mise en œuvre sans interruption, pour que votre maison reste confortable toute l'année.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Une maison froide en hiver et chaude en été ? Le problème n'est pas le chauffage — c'est l'isolation. 🌡️"
+ },
+ "33": {
+  "body": "L'isolation acoustique se construit dans les murs, les sols et le plafond : des matériaux qui absorbent le son, des couches qui désolidarisent les vibrations, et des ouvertures étanches sans fuite sonore. Et ce qui décide du résultat, ce sont les détails — un petit point resté ouvert laisse passer tout le son. Le calme à la maison n'est pas un luxe, c'est un confort quotidien.\n\n💡 Notre offre : isolation acoustique des chambres et des appartements — murs, sols et ouvertures — pour que votre maison reste calme, même au cœur de la ville.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Vous entendez chaque pas de vos voisins ? Le bruit n'est pas une fatalité — c'est l'absence d'isolation acoustique. 🔇"
+ },
+ "34": {
+  "body": "Un petit climatiseur fonctionne sans arrêt sans refroidir correctement ; un appareil trop grand refroidit vite et s'arrête, sans réduire l'humidité — le résultat : un air froid et humide et une sensation d'inconfort. La règle : la puissance se détermine selon la surface de la pièce, l'isolation et l'exposition au soleil — et non selon le principe « plus grand, c'est mieux ».\n\n💡 Notre offre : installation de climatiseurs avec une étude correcte — la bonne puissance, le bon emplacement et un circuit électrique dédié — pour un confort réel.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Un climatiseur trop grand ou trop petit — dans les deux cas, c'est un problème. ❄️"
+ },
+ "35": {
+  "body": "La ventilation mécanique (VMC) extrait l'air humide de la salle de bain et de la cuisine et fait entrer de l'air neuf : sans ventilation, l'humidité reste piégée et apporte moisissures et odeurs. Et la ventilation n'est pas une simple ouverture dans le mur — c'est un système complet : l'entrée et la sortie de l'air se calculent ensemble.\n\n💡 Notre offre : installation et aménagement de systèmes de ventilation — des salles de bain et des cuisines qui respirent bien — pour que votre maison reste saine, sans humidité et sans odeurs.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Une maison qui ne respire pas tombe malade — et la ventilation est le remède. 🌬️"
+ },
+ "36": {
+  "body": "Un tuyau d'évacuation sans pente suffisante laisse l'eau stagner, les dépôts s'accumulent et le bouchage arrive vite ; une pente trop forte laisse l'eau s'écouler sans entraîner les saletés avec elle. La pente se règle sur le chantier au niveau, et non à l'œil — et ses détails décident si l'évacuation fonctionnera pendant des années ou se bouchera chaque mois.\n\n💡 Notre offre : des réseaux d'évacuation avec une pente réglée avec précision et testés avant d'être recouverts — pour que l'eau s'écoule et ne revienne jamais.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux",
+  "title": "L'eau descend toute seule, sans que vous ayez à la pousser — à condition que la pente soit correcte. 💧"
+ },
+ "37": {
+  "body": "Le siphon (siphon) retient un peu d'eau dans le tuyau — et cette eau est la barrière qui empêche les odeurs d'égout de remonter dans la maison. Si le siphon s'assèche (maison inoccupée pendant un certain temps, ou ventilation de l'évacuation insuffisante), l'odeur remonte. Et la solution est simple : l'eau doit rester dans le siphon, et la ventilation de l'évacuation doit être correcte.\n\n💡 Notre offre : nous contrôlons votre réseau d'évacuation — siphons, ventilation et pente — et nous réparons la source de l'odeur, et pas seulement l'odeur.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux",
+  "title": "Une mauvaise odeur remonte de l'évier ou de la douche ? Le plus souvent, le siphon est en cause. 🚿"
+ },
+ "38": {
+  "body": "L'étanchéité sous le carrelage est ce qui protège le bâtiment : elle s'applique sur le sol et remonte sur les murs, et les angles et les points de passage des tuyaux sont traités avec un soin particulier avant la pose du carrelage. Et le test avant la pose est la preuve — pas les paroles. Une salle de bain sans étanchéité correcte est une bombe à retardement.\n\n💡 Notre offre : des salles de bain avec une étanchéité soignée et testée avant le carrelage — pour que vos voisins du dessous restent tranquilles, et vous aussi.",
+  "category": "Rénovation",
+  "theme": "Étanchéité",
+  "title": "Une fuite de salle de bain ne se voit pas dans la salle de bain — elle se voit au plafond des voisins du dessous. 🚿"
+ },
+ "39": {
+  "body": "Le climatiseur, le four et le chauffe-eau électrique ne partagent pas le même circuit que le reste de la maison : chacun dispose d'un circuit dédié et d'un disjoncteur propre, et le câble est choisi selon la charge qu'il va supporter. Un câble trop faible pour une charge importante chauffe — et la chaleur dans les murs est le début du danger.\n\n💡 Notre offre : un réseau électrique étudié — circuits dédiés pour les gros appareils et câbles à la bonne section — pour que votre maison reste sûre et confortable.",
+  "category": "Rénovation",
+  "theme": "Électricité",
+  "title": "Chaque gros appareil a besoin de son propre circuit — et le câble doit être à la bonne section. ⚡"
+ },
+ "40": {
+  "body": "Chaque circuit doit porter un nom clair : cuisine, salle de bain, climatiseur, éclairage — pour que, si le disjoncteur saute, vous sachiez où se trouve le problème sans fouiller toute la maison. Et le tableau doit être organisé, compréhensible et facilement accessible. L'organisation du tableau, c'est l'organisation de la sécurité de la maison.\n\n💡 Notre offre : des tableaux électriques organisés et étiquetés circuit par circuit — avec un schéma clair qui reste chez vous — pour que vous sachiez comment votre maison fonctionne.",
+  "category": "Rénovation",
+  "theme": "Électricité",
+  "title": "Un tableau électrique sans étiquettes est une énigme — et le jour où un problème survient, l'énigme devient un danger. 🔌"
+ },
+ "41": {
+  "body": "Le sol doit être plan avant la pose (voir l'épisode n° 16), et les joints doivent absorber les mouvements du bâtiment : un sol carrelé n'est pas un bloc rigide unique. Et les joints entre les carreaux protègent aussi contre l'humidité et les saletés — s'ils sont réguliers et étanches, le sol reste beau pendant des années.\n\n💡 Notre offre : pose de carrelage avec une planéité réglée avec précision et des joints réguliers — zellige, marbre ou grès cérame — pour que votre sol reste stable et beau.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages",
+  "title": "Un carrelage qui sonne creux ou qui se casse par la suite — le plus souvent, le problème vient des joints (joints) et de la planéité. 🔲"
+ },
+ "42": {
+  "body": "Une chaux marocaine préparée et polie à la pierre jusqu'à devenir lisse et résistante à l'eau : dans la salle de bain, dans la cuisine et sur les murs — elle donne un éclat chaleureux qu'aucun autre produit ne donne. Et le secret, c'est la préparation : une surface propre, des couches successives et un polissage réalisé avec patience — le tadelakt ne se fait pas dans la précipitation.\n\n💡 Notre offre : tadelakt traditionnel réalisé par des artisans — salles de bain, cuisines et murs — avec un éclat chaleureux et une finition durable.",
+  "category": "Rénovation",
+  "theme": "Peinture et revêtements",
+  "title": "Le tadelakt n'est pas une simple peinture — c'est la peau de la maison marocaine. ✨"
+ },
+ "43": {
+  "body": "Le bref briefing du matin nomme précisément les risques de la journée : qu'allons-nous faire aujourd'hui ? Quel en est le risque ? Et que devons-nous porter et protéger ? Le casque, les gants et le harnais sont vérifiés avant le début du travail, et les zones de levage et de circulation sont définies avant l'arrivée des engins. Cinq minutes chaque matin valent une vie.\n\n💡 Notre offre : des chantiers organisés et sûrs — briefing de sécurité chaque matin et équipements protégés — car aucun délai ne vaut une vie humaine.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier",
+  "title": "La sécurité ne commence pas avec le premier accident — elle commence chaque matin, avant le premier outil. 🦺"
+ },
+ "44": {
+  "body": "Les éprouvettes (éprouvettes) sont prélevées pendant le coulage, sur le béton exactement mis en œuvre — et non après. Et les résultats arrivent dans des délais précis définis dans les documents du projet, et chaque résultat est rattaché à une partie précise du bâtiment : c'est cela, la traçabilité. Un béton sans essai est un béton sans preuve.\n\n💡 Notre offre : un coulage documenté — des éprouvettes prélevées en temps voulu et des résultats de laboratoire rattachés à chaque partie — pour que la résistance de votre bâtiment soit prouvée, et non supposée.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Le béton peut paraître bon de l'extérieur et être faible à l'intérieur — seul le laboratoire dit la vérité. 🔬"
+ },
+ "45": {
+  "body": "Les quantités du bordereau des prix sont la base du paiement : elles sont vérifiées à la fois sur les plans et sur le terrain. Et les écarts sont traités par des attachements contradictoires pendant le chantier — et non à la fin. Et les travaux répétitifs sont contrôlés sur un échantillon avant d'être généralisés. Un métré précis est la première étape du juste prix.\n\n💡 Notre offre : une étude des quantités précise — plans et terrain — et des attachements contradictoires avec vous à chaque étape, pour qu'il n'y ait aucune surprise sur la facture.",
+  "category": "Construction",
+  "theme": "Prix et métrés",
+  "title": "Une petite erreur de mesure, répétée sur tout un bâtiment, devient un grand trou dans le budget. 📏"
+ },
+ "46": {
+  "body": "La garantie de parfait achèvement (garantie de parfait achèvement) couvre la période qui suit la réception provisoire : tout défaut qui apparaît pendant cette période, l'entreprise doit le réparer. La durée et les procédures sont définies par les documents du projet (CCAG/CCAP) — et celui qui connaît son droit le réclame sans hésiter.\n\n💡 Notre offre : nous restons à vos côtés après la réception — les réserves sont levées dans les délais — jusqu'à la réception définitive, sans laisser aucun défaut en suspens.",
+  "category": "Construction",
+  "theme": "Réception et garanties",
+  "title": "Après la réception provisoire, l'entreprise reste responsable — et c'est votre droit, pas un service supplémentaire. ✅"
+ },
+ "47": {
+  "body": "La garantie décennale (garantie décennale) concerne les défauts qui menacent la solidité du bâtiment ou le rendent impropre à l'usage pour lequel il a été conçu — et non tout défaut d'aspect ou d'entretien. Son point de départ est lié à la réception, et ses règles précises sont définies par les textes (DOC) et les documents du projet. Et la différence entre le défaut essentiel et le défaut esthétique est ce qui décide de ce qui est couvert.\n\n💡 Notre offre : des bâtiments que nous construisons pour durer — structure calculée, matériaux documentés et contrôle à chaque étape — car la vraie garantie commence sur le chantier, et non sur le papier.",
+  "category": "Construction",
+  "theme": "Réception et garanties",
+  "title": "Tout le monde parle de la « garantie décennale » — et peu de gens savent exactement ce qu'elle couvre. 🏛️"
+ },
+ "48": {
+  "body": "Avant que le prix final soit calculé, il faut l'examen : des ouvertures ciblées, l'humidité, l'acier rouillé et les anciens réseaux. Et une vieille maison cache toujours des surprises — mieux vaut leur prévoir une réserve dans le budget. Et le plus important : nous traitons la cause (l'eau, la structure) avant les finitions, sinon la rénovation vieillit en quelques mois.\n\n💡 Notre offre : un diagnostic avant la rénovation — un examen complet de votre maison avant le devis final — pour que vous payiez une seule fois, pour un travail correct.",
+  "category": "Rénovation",
+  "theme": "Diagnostic et prévention",
+  "title": "Le devis le plus dangereux en rénovation est celui qui ignore ce qui se cache derrière les finitions. 🔬"
+ },
+ "49": {
+  "body": "La reprise en sous-œuvre (reprise en sous-œuvre) consiste à renforcer les fondations et la structure avant tout changement : on étaye le bâtiment, on renforce la fondation, puis seulement on modifie. Celui qui démolit un mur porteur sans étude et sans étaiement joue avec le feu — tout le bâtiment repose sur ce mur.\n\n💡 Notre offre : chez nous, tout changement de structure commence par une étude du bureau d'études et un étaiement calculé — sans prise de risque et sans surprises.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Vous voulez ouvrir un mur porteur ou agrandir un espace ? Avant de démolir, il faut étayer. 🏗️"
+ },
+ "50": {
+  "title": "L'eau qui reste près des fondations est celle qui les affaiblit avec le temps. 💧",
+  "body": "Le drainage périphérique collecte l'eau qui s'infiltre dans le sol et l'éloigne des murs enterrés et des fondations — avant qu'elle ne les atteigne. Sans drainage, l'eau exerce une pression sur les murs, pénètre par les points sensibles, et l'humidité vient par le bas. La protection des fondations commence de l'extérieur.\n\n💡 Notre offre : protection des fondations et des murs enterrés — drainage périphérique et étanchéité — pour que votre maison reste sèche par le bas, pendant des années.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "51": {
+  "title": "Une dalle en béton sans joints est une dalle qui va se fissurer — ce n'est qu'une question de temps. 🧱",
+  "body": "Le béton se rétracte en séchant (retrait) : les joints (joints) sont ce qui permet à cette rétraction de se produire à des endroits calculés, sans blesser la dalle. Et les joints se découpent au bon moment et à la bonne profondeur — avant que la fissuration ne commence. Une dalle sans joints est une promesse de fissures.\n\n💡 Notre offre : des dalles en béton avec des joints étudiés et découpés à temps — pour que votre sol reste sain, sans fissures.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "52": {
+  "title": "Un toit-terrasse sur lequel vous marchez chaque jour n'est pas un toit technique où seule la maintenance monte. 🏠",
+  "body": "Le toit-terrasse non circulé se contente d'une protection légère ; et le toit-terrasse où vous vivez — chaises, plantes et passage quotidien — a besoin d'une protection lourde ou d'un revêtement adapté à la marche. C'est l'usage qui décide de la protection. Et dans les deux cas, la règle ne change pas : la pente et la double évacuation des eaux sont la base (épisode n° 1).\n\n💡 Notre offre : des terrasses à la mesure de votre usage — étanchéité et protection adaptées — qu'il s'agisse d'un toit technique ou d'un espace de vie au-dessus de la maison.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "53": {
+  "title": "Un ancien toit-terrasse fuit — le recouvre-t-on d'une nouvelle couche, ou enlève-t-on tout pour repartir de zéro ? 🔍",
+  "body": "La réponse dépend de l'état de l'ancienne étanchéité, pas du budget : si elle est saine, sèche et bien adhérente, le recouvrement peut être possible selon le système ; si elle est humide, décollée ou composée de couches dégradées superposées, la dépose complète est la solution. Et dans tous les cas, les relevés et les points sensibles sont refaits à neuf (épisode n° 2 : relevé de 10 cm au minimum).\n\n💡 Notre offre : nous diagnostiquons votre ancien toit-terrasse avant de décider — dépose ou recouvrement — pour que vous payiez une seule fois pour une solution qui dure.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "54": {
+  "title": "Toutes les fissures dans le béton ne sont pas un défaut structurel — beaucoup naissent dans les premières heures. 🧱",
+  "body": "Le retrait plastique frappe le béton frais exposé au vent et à la chaleur : la surface sèche vite et se fissure avant de prendre sa résistance. Et la protection est simple : l'arrosage (la cure) après le coulage, et la protection contre le vent et le soleil — et celui qui néglige cette étape la paie plus tard en réparations.\n\n💡 Notre offre : un coulage protégé dès la première heure — arrosage et protection contre le vent — pour que votre béton commence sa vie sans fissures.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "55": {
+  "title": "La qualité du bâtiment se décide aussi à la porte du chantier — au moment où les matériaux arrivent. 📋",
+  "body": "Chaque matériau de structure arrive avec les documents de conformité du fournisseur : nous comparons le bon de livraison, le produit arrivé et le produit commandé — et si un lot est non conforme ou sans documents, nous le refusons avant qu'il ne soit entièrement déchargé. La porte du chantier est la première ligne de défense de la qualité.\n\n💡 Notre offre : des matériaux documentés et conformes — les certificats de conformité sont vérifiés à chaque livraison — pour que votre bâtiment soit construit avec des matériaux sûrs, et non des matériaux douteux.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "56": {
+  "title": "L'étanchéité des toits-terrasses au Maroc a sa propre norme — NM 10.8.913. 📏",
+  "body": "Beaucoup de chantiers ne jurent que par les référentiels français, mais les documents des marchés marocains invoquent la norme marocaine NM 10.8.913 — le référentiel de l'étanchéité au Maroc, dont le référentiel français correspondant est le DTU 43.1. Les deux énoncent la même exigence : un toit-terrasse étanche commence par la pente et l'évacuation (épisode n° 1) et par les relevés (épisode n° 2).\n\n💡 Notre offre : une étanchéité de toits-terrasses selon la norme marocaine — pente, double évacuation et relevés de 10 cm au minimum — et testée à l'eau pendant 24 heures avant la livraison.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "57": {
+  "title": "Le moment le moins cher pour découvrir une fuite ou un défaut, c'est avant de refermer les saignées — après, chaque réparation en démolit une autre. 🔧",
+  "body": "Les réseaux d'eau sont testés sous pression avant la fermeture, l'évacuation est testée par l'écoulement et l'étanchéité, et la ventilation est vérifiée. Et nous photographions et localisons les réseaux avant qu'ils ne soient refermés — c'est la « carte mémoire » du bâtiment. Celui qui referme sans tester joue aux jeux de hasard avec ses murs.\n\n💡 Notre offre : des réseaux testés et photographiés avant la fermeture — eau, évacuation et électricité — pour qu'il n'y ait aucune surprise après la rénovation.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "58": {
+  "title": "L'évacuation fait un bruit de « glouglou », les odeurs remontent, et le siphon se vide tout seul ? Le problème n'est pas dans le siphon — le problème est dans l'air. 🌬️",
+  "body": "La colonne d'évacuation a besoin d'une ventilation qui équilibre la pression : sans ventilation, les siphons se vident et les odeurs remontent. Et la pente de l'évacuation se règle sur le chantier au niveau (revenez à l'épisode n° 36). Le bruit étrange est un message — et celui qui l'entend répare la cause avant que le problème ne grandisse.\n\n💡 Notre offre : nous examinons votre réseau d'évacuation — ventilation de la colonne, siphons et pente — et nous réparons la source du bruit et de l'odeur, pas seulement les symptômes.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "59": {
+  "title": "Vous avez terminé les travaux, et vous attendez encore le paiement ? Savez-vous que vous avez le droit d'être payé à temps ? 💰",
+  "body": "Dans les marchés publics, le retard de paiement n'est pas une fatalité : l'entrepreneur qui constitue un dossier clair, des factures précises et des procès-verbaux de réception documentés peut réclamer son droit sans perdre la relation avec le maître d'ouvrage. Celui qui travaille sans papiers reste sans arme.\n\n💡 Notre offre : nous vous accompagnons dans le suivi de vos dossiers de paiement et de vos documents de réception — une étude écrite claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "60": {
+  "title": "Les prix des matériaux ont augmenté en plein chantier ? Savez-vous comment se calcule la révision des prix ? 📈",
+  "body": "La révision des prix n'est pas une augmentation arbitraire : c'est un mécanisme écrit dans les documents du marché, qui repose sur des indices officiels et s'applique selon des conditions claires. Celui qui le comprend protège sa marge sans léser le maître d'ouvrage, et celui qui l'ignore perd de sa poche en silence.\n\n💡 Notre offre : nous vous expliquons le mécanisme de révision des prix dans les documents de votre marché avant que vous ne vous engagiez — une étude écrite claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "61": {
+  "title": "Vous voulez changer quelque chose dans le marché pendant son exécution ? L'avenant est la voie correcte — pas l'accord verbal. 📝",
+  "body": "L'avenant est un document écrit qui modifie le marché : travaux nouveaux, quantités supplémentaires ou délai ajusté — tout est documenté et signé par les deux parties avant l'exécution. Celui qui modifie sans avenant crée un litige garanti ; et celui qui documente se protège, lui et le maître d'ouvrage à la fois.\n\n💡 Notre offre : nous vous accompagnons dans la rédaction et la documentation des avenants à votre marché avant tout changement — une étude écrite claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "62": {
+  "title": "Le chantier a pris du retard ? Savez-vous comment se calculent les pénalités de retard ? ⏰",
+  "body": "Les pénalités de retard ne sont pas une punition arbitraire : c'est un mécanisme écrit dans les documents du marché, qui s'applique au retard dont l'entrepreneur est responsable, et qui s'arrête lorsque le projet est réceptionné. Celui qui lit ses documents avant de signer sait ce qui l'attend — et celui qui signe sans lire est surpris après.\n\n💡 Notre offre : nous vous expliquons les clauses de délais et de pénalités dans les documents de votre marché avant que vous ne vous engagiez — une étude écrite claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "63": {
+  "title": "La maison commence sous terre — savez-vous que le remblai et le compactage sont la base de tout ? 🏗️",
+  "body": "La terre qui n'a pas été bien compactée s'affaisse plus tard, et avec elle s'affaissent le sol, les murs et l'ensemble des ouvrages. Le compactage couche par couche, et une terre propre et adaptée, sont la différence entre une maison stable et une maison qui se fissure.\n\n💡 Notre offre : chez nous, les travaux de terrassement, de remblai et de compactage se font couche par couche avec un contrôle rigoureux — une étude écrite claire, et un suivi par photos étape par étape.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "64": {
+  "title": "Le soleil fort vole l'eau du béton avant qu'il ne prenne ? ☀️",
+  "body": "Par forte chaleur, l'eau s'évapore vite du béton frais : la surface se fissure, et la résistance diminue. La solution ? Couler tôt le matin ou en fin de journée, maintenir l'humidité, et protéger la surface immédiatement après le coulage.\n\n💡 Notre offre : nous programmons le coulage de votre béton aux horaires adaptés + protection et suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "65": {
+  "title": "Les poteaux et les poutres sont la structure qui porte toute la maison — savez-vous ce qui les rend solides ? 🏗️",
+  "body": "L'acier correct à l'endroit correct, un béton bien vibré, et un coffrage précis : ce sont ces trois éléments qui font une structure forte. Un seul poteau faible menace toute la maison — et la structure ne tolère pas la négligence.\n\n💡 Notre offre : chez nous, l'exécution des poteaux et des poutres se fait avec un acier et un béton contrôlés + contrôle et suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "66": {
+  "title": "L'escalier est l'élément le plus utilisé de la maison — savez-vous ce qui le rend solide et sans fissures ? 🪜",
+  "body": "L'escalier en béton se construit sur un coffrage précis au millimètre et un acier soigneusement calculé : toute erreur dans le coffrage se voit dans la marche, et tout manque dans l'acier se voit avec le temps. Un bon escalier se fait une seule fois — et il vit avec la maison.\n\n💡 Notre offre : chez nous, l'exécution des escaliers en béton se fait avec un coffrage précis et un acier calculé + contrôle et suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "67": {
+  "title": "Vous avez un terrain en pente ? Le mur de soutènement est celui qui retient la terre et protège votre maison. 🧱",
+  "body": "Un mur de soutènement n'est pas un simple mur : c'est un élément structurel qui résiste à la poussée de la terre et de l'eau — il se construit avec une fondation profonde, un drainage derrière lui, et un acier et un béton contrôlés. Un mur faible penche et tombe, et un bon mur protège la maison pour toute une vie.\n\n💡 Notre offre : chez nous, l'exécution des murs de soutènement se fait avec une fondation profonde et un drainage de l'eau + contrôle et suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "68": {
+  "title": "Le faux plafond se fissure ? Le problème n'est pas dans la plaque — le problème est dans l'ossature en dessous. 🏠",
+  "body": "Un bon faux plafond se construit sur une ossature métallique précise et bien fixée au plafond d'origine, avec des plaques posées avec des joints corrects. Une ossature lâche laisse les plaques bouger — et ensuite viennent les fissures.\n\n💡 Notre offre : chez nous, l'exécution des faux plafonds se fait avec une ossature métallique précise et des plaques posées avec soin + suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Rénovation",
+  "theme": "Plâtre et plafonds"
+ },
+ "69": {
+  "title": "La peinture extérieure s'écaille après un an ? Le problème n'est pas dans la couleur — le problème est dans la préparation avant la couleur. 🎨",
+  "body": "Un mur qui n'a pas été nettoyé, réparé, ni revêtu d'une sous-couche adaptée rejettera la peinture, aussi chère soit-elle. La préparation est ce qui fait vivre la couleur pendant des années — et une peinture sans préparation, c'est de l'argent jeté contre le mur.\n\n💡 Notre offre : chez nous, la peinture extérieure se fait avec une préparation complète — nettoyage, réparation et sous-couche — avant la couleur finale, avec un suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Peinture et revêtements"
+ },
+ "70": {
+  "title": "Le parquet fait du bruit et s'écarte ? Le problème est souvent dans la pose — pas dans le bois. 🪵",
+  "body": "Un bon parquet se pose sur un sol plan et sec, avec des joints de dilatation autour des murs, et une orientation étudiée des lames. Un sol non plan fait bouger le parquet et le fait grincer — et l'humidité le fait gonfler.\n\n💡 Notre offre : chez nous, la pose du parquet se fait sur un sol bien préparé + des conseils d'entretien après la pose — une étude écrite claire, et un suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "71": {
+  "title": "Le froid entre par les fenêtres alors qu'elles sont fermées ? Le problème est dans les joints — pas dans l'aluminium. 🪟",
+  "body": "Une bonne menuiserie aluminium repose sur des joints sains et étanches : un seul joint abîmé laisse entrer l'air froid et la poussière, et fait travailler le chauffage pour rien. Le contrôle périodique des joints est la protection la moins chère pour votre maison.\n\n💡 Notre offre : chez nous, la pose et la réparation des fenêtres en aluminium se font avec des joints étanches et une isolation à l'air soignée + suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "72": {
+  "title": "Le garde-corps protège vos enfants avant de décorer la maison — savez-vous ce qui le rend vraiment sûr ? 🛡️",
+  "body": "Un garde-corps sûr repose sur une fixation solide au sol ou au mur, une hauteur adaptée, et des vides étroits qu'un enfant ne peut pas franchir. La beauté vient après — la sécurité, elle, ne se négocie pas.\n\n💡 Notre offre : chez nous, l'exécution des garde-corps — fer, inox et aluminium — se fait avec une fixation solide et un design raffiné + suivi par photos étape par étape — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier"
+ },
+ "73": {
+  "title": "Ressentez-vous le froid près du mur alors même que le chauffage fonctionne ? ❄️",
+  "body": "C'est le pont thermique : un endroit du bâtiment par où la chaleur s'échappe sans se voir — les angles, les jonctions entre les murs et les plafonds, et autour des fenêtres. Le résultat ? Un mur froid, de l'humidité, et même des moisissures avec le temps. La solution n'est pas d'augmenter le chauffage, la solution est une isolation continue sans interruption et un traitement soigné de chaque point de jonction.\n\n💡 Notre offre : un diagnostic des ponts thermiques dans votre maison + une étude d'isolation claire et écrite — pour que la maison devienne chaude sans gaspillage.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort"
+ },
+ "74": {
+  "body": "L'isolation par l'extérieur, c'est le manteau de la maison : une couche qui couvre toute la façade sans interruption, qui retient la chaleur en hiver et protège du soleil en été, tout en vous laissant l'intégralité de l'espace intérieur. Et en plus : la façade est rénovée et protégée de la pluie et des fissures — un seul chantier, de nombreux bénéfices.\n\n💡 Notre offre : étude d'isolation par l'extérieur pour la façade de votre maison + réalisation par des équipes organisées, avec un suivi par photos, étape par étape.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Vous voulez une maison chaude en hiver et fraîche en été, sans perdre d'espace à l'intérieur ? 🏠"
+ },
+ "75": {
+  "body": "Un balcon sans étanchéité correcte devient une source de problèmes : l'eau s'infiltre en dessous, endommage le plafond du voisin et crée des conflits entre voisins. La règle est connue : les pentes sont réalisées dans le béton, la double évacuation selon le DTU 43.1, et les relevés ne doivent pas être inférieurs à 10 cm selon le DTU 20.12 — et le support doit être propre et sec, avec un test à l'eau de 24 heures avant la rénovation.\n\n💡 Notre offre : diagnostic de l'étanchéité de votre balcon ou de votre loggia + rénovation selon les règles de l'art, avec un suivi par photos.",
+  "category": "Rénovation",
+  "theme": "Étanchéité",
+  "title": "L'eau s'infiltre depuis votre balcon jusque chez le voisin du dessous ? 💧"
+ },
+ "76": {
+  "body": "Un bâtiment bouge : il se dilate avec la chaleur, se contracte avec le froid et se stabilise avec le temps. Les joints de dilatation sont conçus pour absorber ces mouvements — s'ils sont obturés avec des matériaux rigides ou négligés, les fissures et les infiltrations apparaissent. Un bon joint reste souple, étanche et facile à entretenir.\n\n💡 Notre offre : inspection des joints de dilatation de votre bâtiment + rénovation de leur étanchéité selon les règles de l'art.",
+  "category": "Rénovation",
+  "theme": "Étanchéité",
+  "title": "Savez-vous pourquoi il y a des joints dans un bâtiment ? 🧱"
+ },
+ "77": {
+  "body": "La mise à la terre est une protection invisible : en cas de défaut sur un appareil électrique, c'est elle qui évacue le courant vers la terre au lieu de le laisser traverser le corps humain. Sans une mise à la terre correcte, le moindre défaut devient un danger. Et la protection complète associe un disjoncteur différentiel et un réseau de terre en bon état — trois éléments qui fonctionnent ensemble.\n\n💡 Notre offre : contrôle de la mise à la terre et de la protection électrique de votre maison + rapport écrit avec recommandations.",
+  "category": "Rénovation",
+  "theme": "Électricité",
+  "title": "Votre maison est-elle protégée contre les chocs électriques ? ⚡"
+ },
+ "78": {
+  "body": "La cuisine est l'endroit de la maison qui concentre le plus d'appareils puissants — et chaque gros appareil doit avoir sa propre ligne dédiée. S'ils sont tous regroupés sur une seule ligne, vous obtenez des coupures à répétition, des câbles qui surchauffent, et même un risque d'incendie. La règle : chaque gros appareil dispose d'une ligne indépendante et d'une protection qui lui est propre, et la cuisine fonctionne sans interruption.\n\n💡 Notre offre : étude électrique pour votre cuisine + réalisation des circuits spécialisés selon les règles de l'art.",
+  "category": "Rénovation",
+  "theme": "Électricité",
+  "title": "Le réfrigérateur, le four et le micro-ondes sur la même ligne ? ⚡"
+ },
+ "79": {
+  "body": "Une pression d'eau instable abîme tout en silence : avec le temps, les robinets, le chauffe-eau et les tuyaux en souffrent. Le régulateur de pression est le gardien de toute l'installation — il stabilise la pression au bon niveau, protège les appareils et permet à la douche et aux robinets de fonctionner confortablement. Un petit détail, une grande protection.\n\n💡 Notre offre : contrôle de la pression d'eau de votre maison + installation d'un régulateur de pression si nécessaire — étude écrite et suivi par photos.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux",
+  "title": "L'eau arrive avec trop de pression, ou pas assez ? 🚿"
+ },
+ "80": {
+  "body": "Les colonnes de chute sont le cœur silencieux de la plomberie : elles évacuent les eaux usées de tous les étages, sans bruit et sans odeurs. Si les pentes sont incorrectes, si la ventilation est insuffisante ou si les raccords ne sont pas étanches, les bruits, les odeurs et les engorgements apparaissent. Une bonne plomberie est une plomberie que l'on n'entend pas et que l'on ne sent pas.\n\n💡 Notre offre : diagnostic du réseau d'évacuation de votre maison + rénovation selon les règles de l'art, avec un suivi par photos.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux",
+  "title": "Entendez-vous des bruits étranges dans vos tuyaux ? 🔇"
+ },
+ "81": {
+  "body": "La ventilation double flux apporte de l'air neuf et pur et extrait l'air vicié — tout en récupérant la chaleur de l'air sortant pour réchauffer l'air entrant. Résultat : une maison qui respire, sans humidité ni odeurs, et sans perdre la chaleur de l'hiver. De l'air pur, et une chaleur préservée.\n\n💡 Notre offre : étude de ventilation pour votre maison + installation d'un système adapté, avec un suivi par photos.",
+  "category": "Rénovation",
+  "theme": "Isolation et confort",
+  "title": "Vous voulez de l'air pur dans la maison sans perdre de chaleur ? 🌬️"
+ },
+ "82": {
+  "body": "Le bon chauffe-eau n'est ni le plus grand ni le moins cher — c'est celui qui correspond à la taille de votre famille et à votre usage, installé dans un endroit sûr et ventilé, avec une protection contre la surpression et une évacuation correcte. Un bon choix + une bonne installation = de l'eau chaude en permanence, sans surprises et sans danger.\n\n💡 Notre offre : conseils pour choisir le chauffe-eau adapté à votre maison + installation sûre selon les règles de l'art.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux",
+  "title": "L'eau chaude se coupe en hiver ? 🚿"
+ },
+ "83": {
+  "body": "Le devis quantitatif et estimatif est la carte du projet en chiffres : chaque poste a sa quantité et son prix unitaire, et le total se construit ligne par ligne. Celui qui sait le lire voit si les quantités sont correctes, s'il manque un poste, et si le total est cohérent — avant de signer le moindre document.\n\n💡 Notre offre : nous vous accompagnons dans la lecture du devis quantitatif de votre projet, ligne par ligne — une étude écrite et claire avant de vous engager.",
+  "category": "Construction",
+  "theme": "Prix et métrés",
+  "title": "Vous avez lu un DQE sans rien y comprendre ? 📋"
+ },
+ "84": {
+  "body": "Les attachements sont la preuve des travaux réellement réalisés sur le terrain, et les situations sont la facturation selon l'avancement — sans constat écrit et signé, il n'y a aucune base pour le paiement. Celui qui documente chaque étape et fait signer le constat par le maître d'ouvrage est payé à hauteur de ce qu'il a réalisé — sans litige et sans retard.\n\n💡 Notre offre : accompagnement dans le suivi des travaux et la documentation des étapes — étude écrite et suivi transparent, du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats",
+  "title": "Vous avez travaillé et vous n'avez pas été payé ? C'est le papier qui vous fait payer. 📑"
+ },
+ "85": {
+  "body": "Derrière chaque projet, il y a des coûts qui ne se voient pas dans les matériaux : l'installation de chantier, les échafaudages, le gardiennage, le transport, l'évacuation des gravats, ainsi que l'eau et l'électricité du chantier. Ces coûts sont réels — et celui qui ne les compte pas dans le devis les paie de sa poche ensuite. Un devis correct montre tout, sans surprises.\n\n💡 Notre offre : un devis écrit et détaillé, ligne par ligne, avec tous les frais de chantier clairement indiqués — vous pouvez le comparer vous-même à toute autre offre.",
+  "category": "Construction",
+  "theme": "Prix et métrés",
+  "title": "Pourquoi le prix d'un chantier dépasse-t-il les matériaux et la main-d'œuvre ? 🏗️"
+ },
+ "86": {
+  "body": "Le plan d'assurance qualité est le document qui dit — avant même le démarrage du chantier — ce qui sera contrôlé, comment, et qui en est responsable. Sans plan écrit, le contrôle devient aléatoire et les défauts n'apparaissent qu'à la fin. Avec un plan clair, en revanche, chaque étape a son contrôle, et chaque contrôle laisse une trace écrite.\n\n💡 Notre offre : une méthodologie qualité documentée pour votre projet — des contrôles écrits à chaque étape et un suivi par photos jusqu'à la livraison.",
+  "category": "Construction",
+  "theme": "Normes et référentiels",
+  "title": "La qualité ne s'impose pas à la fin… elle s'écrit dès le début. ✅"
+ },
+ "87": {
+  "body": "La traçabilité des coulages est le registre de chaque béton : d'où il vient, quand il a été coulé, dans quelles conditions, et quels ont été les résultats des contrôles. Sans ce registre, si un défaut apparaît plus tard, vous ne savez ni d'où il vient ni qui en est responsable. Avec la traçabilité, en revanche, chaque coulage a sa fiche — et la qualité peut être prouvée.\n\n💡 Notre offre : traçabilité documentée de tous les coulages de votre projet — registre écrit et photos de chaque étape jusqu'à la livraison.",
+  "category": "Construction",
+  "theme": "Gros œuvre",
+  "title": "Chaque coulage de béton a son histoire… en avez-vous la preuve ? 🏗️"
+ },
+ "88": {
+  "body": "Le casque, les gants, les lunettes, les chaussures renforcées, le harnais — ce n'est pas de la décoration, c'est la première ligne de défense de l'ouvrier. Celui qui travaille sans équipement met sa propre vie en danger et expose tout le projet à un arrêt. La sécurité n'est pas un coût, c'est un investissement dans les personnes et dans la bonne marche du chantier.\n\n💡 Notre offre : nos équipes travaillent toujours avec les équipements de protection adaptés à chaque tâche — la sécurité des ouvriers est la première condition avant de commencer tout travail.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier",
+  "title": "Savez-vous que chaque tâche sur le chantier a ses équipements de protection ? 🦺"
+ },
+ "89": {
+  "body": "Une charge suspendue au-dessus des têtes, une zone qui doit rester dégagée, des signaux clairs entre le conducteur et les ouvriers — la moindre petite erreur peut coûter très cher. Un levage réussi repose sur la planification avant l'exécution, et sur une équipe où chacun connaît son rôle.\n\n💡 Notre offre : chez nous, les opérations de levage se déroulent avec une zone protégée, des signaux clairs et une équipe formée — la sécurité de tous avant toute charge.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier",
+  "title": "Savez-vous que le levage à la grue est l'un des moments les plus dangereux du chantier ? 🏗️"
+ },
+ "90": {
+  "body": "Un échafaudage sans protection, une ouverture sans couvercle, un harnais non utilisé — trois erreurs qui se répètent et qui coûtent des vies. La prévention n'est pas un choix : garde-corps, filets, harnais, et une organisation du chantier qui ne laisse aucun vide dangereux. L'ouvrier qui rentre chez lui sain et sauf est la première réussite de tout projet.\n\n💡 Notre offre : nos chantiers travaillent avec une protection complète contre les chutes — garde-corps, harnais et organisation rigoureuse — car la sécurité de l'équipe passe avant toute autre considération.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier",
+  "title": "Savez-vous que la chute de hauteur est le premier danger dans le bâtiment ? ⚠️"
+ },
+ "91": {
+  "body": "Le procès-verbal de réception est le document qui atteste de l'état du projet le jour de la livraison : les observations, les manquements et les délais de correction. Celui qui signe sans lire accepte tout — et celui qui lit et note ses observations protège ses droits. La réception n'est pas une formalité, c'est le moment de vérité.\n\n💡 Notre offre : nous vous accompagnons dans la lecture du procès-verbal de réception, ligne par ligne, avant la signature — et nous corrigeons toutes les observations consignées avant la livraison définitive.",
+  "category": "Construction",
+  "theme": "Réception et garanties",
+  "title": "Vous allez signer le procès-verbal de réception ? Arrêtez-vous et lisez-le attentivement avant de prendre le stylo. 📋"
+ },
+ "92": {
+  "body": "En plus de la garantie décennale, d'autres garanties vous protègent : la garantie de bonne exécution, la garantie des réparations, et les engagements écrits du contractant dans le contrat. Celui qui connaît tous ses droits peut les réclamer — et celui qui ne les connaît pas les perd sans s'en rendre compte. Un contrat correct énonce clairement toutes les garanties.\n\n💡 Notre offre : nos contrats énoncent clairement, par écrit, toutes vos garanties — bonne exécution et réparations — pour que vous connaissiez tous vos droits avant que nous commencions.",
+  "category": "Construction",
+  "theme": "Réception et garanties",
+  "title": "Savez-vous que la garantie décennale n'est pas votre seule garantie ? 🛡️"
+ },
+ "93": {
+  "body": "L'assurance décennale protège le maître d'ouvrage contre les gros défauts qui apparaissent après la livraison — et c'est celui qui signe le contrat qui doit s'assurer que l'assurance existe avant le démarrage du chantier. Sans assurance, le propriétaire reste sans protection face à un problème majeur. Demandez l'assurance avant de signer, pas après.\n\n💡 Notre offre : nous vous clarifions, par écrit, la situation de l'assurance décennale avant le début de tout projet — votre protection commence dès la première page.",
+  "category": "Construction",
+  "theme": "Réception et garanties",
+  "title": "Savez-vous qui doit assurer la garantie décennale, et pourquoi ? 🛡️"
+ },
+ "94": {
+  "body": "Petites fissures, taches d'humidité, peinture qui s'écaille, zellige qui tombe — chaque signe a un sens, et chaque sens a une cause. Celui qui repeint par-dessus le problème sans le comprendre perd son argent deux fois. Un diagnostic correct avant la restauration est ce qui détermine la bonne solution.\n\n💡 Notre offre : nous étudions la façade de votre maison et lisons les signes avant toute restauration — un diagnostic écrit et une solution à la mesure de la cause, pas du symptôme.",
+  "category": "Rénovation",
+  "theme": "Diagnostic et prévention",
+  "title": "La façade de votre maison vous parle — l'écoutez-vous ? 🏠"
+ },
+ "95": {
+  "body": "L'humidité et le sel s'infiltrent dans le béton et attaquent l'acier : l'acier gonfle, le béton se fissure et tombe, et la structure s'affaiblit en silence. La solution n'est pas de recouvrir — la solution est de traiter à la racine : nettoyer l'acier, le protéger, et réparer le béton avec des matériaux adaptés.\n\n💡 Notre offre : nous diagnostiquons la corrosion de l'acier dans votre bâtiment et la traitons à la racine — nettoyage, protection et réparation — pour que la structure redevienne solide et sûre.",
+  "category": "Rénovation",
+  "theme": "Diagnostic et prévention",
+  "title": "L'acier à l'intérieur du béton rouille de l'intérieur — et vous ne voyez rien jusqu'à ce qu'il soit trop tard. 🔩"
+ },
+ "96": {
+  "body": "Les fissures ont des causes : tassement du sol, dilatation thermique, humidité, ou faiblesse de la structure. Celui qui bouche la fissure à l'enduit sans en comprendre la cause la verra revenir. Une réparation correcte commence par le diagnostic : quel type de fissure, quelle en est la cause, et quelle solution empêchera son retour.\n\n💡 Notre offre : nous diagnostiquons les fissures de votre maison et réparons la cause avant le symptôme — une réparation écrite et garantie, pour que la fissure ne revienne pas.",
+  "category": "Rénovation",
+  "theme": "Diagnostic et prévention",
+  "title": "La fissure dans le mur est revenue après votre réparation ? Elle n'a pas été réparée — elle a juste été cachée. 🧱"
+ },
+ "97": {
+  "body": "Un mur sans isolation laisse la chaleur s'échapper, et un toit sans isolation laisse le froid entrer — le résultat : des factures élevées et un confort réduit. Une isolation correcte des murs, du toit et des fenêtres garde la maison chaude en hiver et fraîche en été, et vous fait économiser chaque année.\n\n💡 Notre offre : nous étudions l'isolation de votre maison — murs, toit et fenêtres — et vous proposons la solution qui vous apporte du confort et des économies sur le long terme.",
+  "category": "Rénovation",
+  "theme": "Rénovation et réparation",
+  "title": "Votre maison est froide en hiver et chaude en été ? Le problème n'est pas le chauffage — le problème, c'est l'isolation. 🌡️"
+ },
+ "98": {
+  "title": "Vous avez un espace perdu sous le toit ? C'est une pièce entière qui vous attend. 🏠",
+  "body": "Un toit en pente n'est pas un vide — c'est une opportunité : une chambre, un bureau ou une chambre d'amis. L'essentiel, c'est l'étude avant de commencer : la hauteur, l'isolation, la lumière naturelle et la ventilation. Celui qui aménage les combles sans étude crée une pièce invivable ; celui qui les étudie bien gagne de l'espace sans construire.\n\n💡 Notre offre : nous étudions le toit de votre maison et le transformons en une pièce à vivre — isolation, lumière et réparations haut de gamme — envoyez-nous un message et commençons.",
+  "category": "Rénovation",
+  "theme": "Rénovation et réparation"
+ },
+ "99": {
+  "title": "Un riad n'est pas une maison ordinaire — c'est l'âme de la médina, et sa restauration est une responsabilité. 🏛️",
+  "body": "La cour, le zellige, le bois sculpté, le plâtre — chaque détail a une histoire. Celui qui restaure un riad avec des matériaux modernes sans respecter l'original efface son âme. Une restauration réussie préserve l'original, renforce la structure et ajoute le confort moderne sans changer l'identité.\n\n💡 Notre offre : nous restaurons les riads dans le respect de l'original — zellige, bois et plâtre à la manière traditionnelle, avec renforcement de la structure et confort moderne.",
+  "category": "Rénovation",
+  "theme": "Rénovation et réparation"
+ },
+ "100": {
+  "title": "Un projet trop grand pour une seule entreprise ? La solution, c'est le groupement — mais avec des conditions claires. 🤝",
+  "body": "Le groupement d'entreprises réunit les forces : chaque entreprise apporte sa spécialité, et l'ensemble du groupement peut prendre des projets plus grands. Mais la réussite exige un contrat clair : qui est responsable, qui fait quoi, et comment les responsabilités sont réparties. Un groupement sans clarté devient une source de problèmes.\n\n💡 Notre offre : nous travaillons en groupements avec des partenaires fiables pour les grands projets — des rôles clairs et une responsabilité écrite — pour que votre grand projet réussisse.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "101": {
+  "title": "Vous cherchez des marchés publics et vous ne savez pas par où commencer ? Le marché existe, il faut juste savoir où il est publié. 🔍",
+  "body": "Les marchés publics sont publiés sur le portail officiel marchespublics.gov.ma et au Bulletin officiel : chaque annonce indique les conditions de participation, le délai et les pièces du dossier. Celui qui suit les annonces chaque jour trouve les opportunités avant les autres, et celui qui attend d'entendre la nouvelle trouve le délai déjà passé.\n\n💡 Notre offre : nous vous accompagnons dans la lecture des annonces de marchés et de leurs dossiers avant de participer — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "102": {
+  "title": "L'offre la moins chère est-elle celle qui remporte le marché ? Non — le maître d'ouvrage choisit la meilleure offre, pas la moins chère. ⚖️",
+  "body": "Les critères d'attribution combinent prix et qualité : l'expérience de l'entreprise, la qualité de l'offre technique et les délais. Une offre bon marché sans expérience et sans garanties perd face à une offre équilibrée. Celui qui comprend les critères construit son offre dessus, au lieu d'essayer d'être le moins cher à tout prix.\n\n💡 Notre offre : nous vous aidons à lire les critères d'attribution de votre marché et à construire une offre forte et équilibrée — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "103": {
+  "title": "Vous chiffrez un projet sans voir le site ? Le prix construit sur le papier sans visite change sur le chantier. 🏗️",
+  "body": "La visite du site avant le chiffrage n'est pas un luxe — c'est elle qui révèle la réalité : l'état du terrain, l'accès au chantier et les réseaux existants. Celui qui visite sait ce qui l'attend, et celui qui ignore la visite paie la différence de sa poche.\n\n📸 Les photos :\n\nA — Un ingénieur inspecte le site avant le démarrage.\n\nB — Mesure du terrain et des niveaux sur place.\n\nC — Inspection des réseaux et de l'accès au chantier.\n\nD — Rapport de visite écrit avant le chiffrage.\n\n💡 Notre offre : avant tout chiffrage, nous visitons le site et inspectons tout — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "104": {
+  "title": "Vous avez déposé une offre, et des mois ont passé sans réponse — votre prix est-il encore valable ? ⏳",
+  "body": "Chaque offre a une durée de validité écrite dans les documents du marché : après elle, l'entrepreneur n'est plus lié par son prix, et le maître d'ouvrage ne peut plus l'exiger. Celui qui connaît la durée de validité sait jusqu'à quand il peut réclamer une réponse, et celui qui l'ignore reste suspendu sans protection.\n\n💡 Notre offre : nous lisons avec vous les documents de votre marché avant que vous ne vous engagiez, et nous vous expliquons la durée de validité de l'offre et ses conditions — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "105": {
+  "title": "Vous allez signer un marché sans lire le CCAP ? C'est ce document qui fixe précisément les délais et les pénalités de votre projet. 📄",
+  "body": "Le CCAP est le cahier des clauses administratives particulières du projet : il reprend les règles générales et les adapte à votre projet — délais, pénalités, pourcentages de retenue et modalités de paiement. Celui qui signe sans le lire découvre les conditions au milieu du chantier, et celui qui le lit avant sait ce qui l'attend et calcule son prix en conséquence.\n\n💡 Notre offre : nous lisons avec vous le CCAP de votre marché, ligne par ligne, avant que vous ne signiez — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "106": {
+  "title": "Sur quoi exactement le prix est-il calculé ? La réponse est dans le CPS — la description des travaux que vous allez réaliser. 📐",
+  "body": "Le cahier des prescriptions spéciales décrit chaque ouvrage en détail : les matériaux requis, la méthode d'exécution et les critères de qualité. Celui qui lit le CPS sait ce qu'il doit faire et ce pour quoi il sera payé, et celui qui l'ignore travaille au hasard et découvre les surprises à la réception.\n\n💡 Notre offre : nous lisons avec vous le CPS de votre projet et vous expliquons chaque poste avant que vous ne vous engagiez — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "107": {
+  "title": "Un document dit une chose, un autre dit le contraire — lequel prévaut ? ⚖️",
+  "body": "Dans un marché, les documents sont hiérarchisés : en cas de contradiction, un document prévaut sur l'autre selon un ordre écrit dans le cahier des clauses générales. Celui qui connaît cet ordre sait quoi suivre en cas de litige, et celui qui ne le connaît pas perd du temps à discuter sans référence.\n\n📸 Les photos :\n\nA — Les documents empilés les uns sur les autres : le contrat, le cahier des charges et les plans.\n\nB — Deux clauses contradictoires : l'une prévaut sur l'autre.\n\nC — La signature du bon document après lecture de l'ordre de priorité.\n\n💡 Notre offre : nous vous expliquons l'ordre des documents de votre marché avant de commencer — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "108": {
+  "title": "Quand le délai du chantier a-t-il commencé ? À la signature, ou à l'ordre de démarrage ? Et comment demander une prolongation ? 📅",
+  "body": "Le délai d'exécution ne commence pas à la signature — il commence à l'ordre de démarrage, et il se compte en jours écrits dans le contrat. Et la prolongation n'est pas une demande orale : elle se demande par écrit, pour un motif justifié, avant la fin du délai. Celui qui calcule correctement son délai se protège des pénalités, et celui qui confond paie le retard.\n\n💡 Notre offre : nous vous aidons à calculer le délai de votre projet et à demander la prolongation à temps et de la bonne manière — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "109": {
+  "title": "Vous cherchez la norme marocaine qui s'applique à un matériau précis ? La réponse est dans le catalogue IMANOR. 📚",
+  "body": "L'Institut marocain de normalisation publie le catalogue des normes marocaines par secteur : matériaux, produits et méthodes d'essai. Celui qui sait chercher dans le catalogue sait si son matériau est conforme à la norme avant de l'acheter, et celui qui achète sans référence ne s'en remet qu'à la parole du vendeur.\n\n💡 Notre offre : nous vous aidons à vérifier la conformité des matériaux de votre projet aux normes marocaines avant l'achat — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "110": {
+  "title": "Tous les bétons ne se valent pas — saviez-vous que chaque partie de la maison a besoin de son propre béton ? 🏗️",
+  "body": "Les fondations en contact avec la terre et l'humidité, la dalle qui porte le poids, et les éléments exposés à l'eau — chacun a besoin d'un béton choisi à sa mesure. Un béton faible à un endroit exigeant se fissure et s'aggrave avec le temps, et un béton excessif à un endroit simple gaspille de l'argent sans bénéfice. Le bon choix se fait avec l'ingénieur, selon l'élément et les conditions dans lesquelles il vivra.\n\n💡 Notre offre : avant de construire une villa à Casablanca ou de rénover une villa à Rabat, nous revoyons avec vous le béton choisi pour chaque partie — une étude écrite et claire, et un suivi par photos étape par étape.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "111": {
+  "title": "La norme marocaine est-elle obligatoire ou facultative ? Réponse : elle devient obligatoire lorsqu'un texte ou un cahier des charges la mentionne. 📜",
+  "body": "La norme NM est en principe d'application volontaire — mais lorsqu'une loi, ou le cahier des charges du marché, la mentionne, elle devient obligatoire pour ce projet. Autrement dit, le même matériau peut être facultatif dans un projet et obligatoire dans un autre, selon les documents. Celui qui lit les documents sait s'il est lié et ce qu'il doit appliquer.\n\n💡 Notre offre : nous lisons avec vous les documents de votre projet et déterminons pour vous les normes obligatoires avant de commencer — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "112": {
+  "title": "Que signifie un produit portant la marque NF ? Cela signifie qu'il a passé des tests et qu'il répond à des spécifications reconnues. ✅",
+  "body": "Les normes NF couvrent les produits et les méthodes d'essai : un produit conforme a été testé et ses caractéristiques sont garanties — résistance, durabilité et sécurité. Au Maroc, c'est une référence de bonne pratique reconnue, et elle devient obligatoire lorsque le cahier des charges du projet la mentionne.\n\n💡 Notre offre : nous vous aidons à choisir des produits conformes aux normes pour votre projet, avec leurs documents — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "113": {
+  "title": "L'enduit de façade tombe au bout d'un an ? Le problème n'est souvent pas l'enduit — c'est la préparation du mur avant. 🧱",
+  "body": "Un enduit réussi commence par le mur : propre, légèrement humide et sans poussière — pour que l'enduit adhère bien et dure. Un mur non préparé fait peler et fissurer l'enduit, même avec le meilleur matériau du marché.\n\n💡 Notre offre : nous préparons vos façades de la bonne manière avant l'enduit — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Peinture et revêtements"
+ },
+ "114": {
+  "title": "L'eau rentre par le côté de la fenêtre à chaque hiver ? Le problème n'est pas la fenêtre — c'est sa pose et son étanchéité. 🪟",
+  "body": "Une fenêtre réussie se pose de la bonne manière : fixation solide, étanchéité soignée entre le cadre et le mur, et évacuation de l'eau vers l'extérieur. Une excellente fenêtre mal posée fuit, et une fenêtre ordinaire bien posée protège la maison pendant des années.\n\n💡 Notre offre : nous posons vos fenêtres et votre aluminium de la bonne manière, avec une étanchéité solide — une étude écrite et claire, et un suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "115": {
+  "title": "Saviez-vous qu'une erreur d'un centimètre dans l'implantation peut ruiner une villa entière ? 📐",
+  "body": "Avant que le terrassement ne commence, l'emplacement exact de la maison doit être défini : les limites, les angles et les niveaux. Une implantation erronée signifie des murs inclinés, des portes qui ne ferment pas et des espaces perdus. Celui qui commence sans implantation précise en paie le prix fort plus tard.\n\n💡 Notre offre : nous vous accompagnons de l'implantation jusqu'à la réception — une étude écrite et claire, et un suivi par photos étape par étape, pour que votre projet de construction de villa à Casablanca ou de rénovation de villa à Rabat commence correctement dès le premier jour.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "116": {
+  "title": "Une fine couche de béton sous les fondations… en vaut-elle la peine ? Réponse : c'est elle qui protège l'acier de la terre et de l'humidité. 🧱",
+  "body": "Le béton de propreté isole les fondations du sol et offre une surface propre et plane pour que l'acier soit placé à sa juste place et ne soit pas souillé par la terre. Celui qui le saute commence la construction sur une base sale — et la saleté coûte cher plus tard.\n\n💡 Notre offre : dans les projets de construction de villas à Kénitra et Rabat, nous respectons chaque couche, même celle qui ne se voit pas — une étude écrite, et un suivi par photos étape par étape.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "117": {
+  "title": "Vous n'avez pas pu finir le coulage du béton en un jour ? Le problème n'est pas l'arrêt — c'est l'endroit où vous vous arrêtez. 🛑",
+  "body": "Si vous vous arrêtez au mauvais endroit, vous créez un point faible dans le béton : un joint par lequel l'eau rentre et qui affaiblit la structure. L'arrêt correct se fait à un endroit étudié, avec une surface préparée, pour que le nouveau béton adhère à l'ancien comme il se doit.\n\n💡 Notre offre : dans les projets de construction de villas à Casablanca, nous planifions le coulage avant qu'il ne commence — une étude écrite, et un suivi par photos étape par étape, pour qu'aucun joint de faiblesse ne reste dans votre maison.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "118": {
+  "title": "Une petite fissure au-dessus de la fenêtre ? Le plus souvent, la cause est un linteau faible ou tout simplement absent. 🪟",
+  "body": "Le linteau au-dessus de la porte et de la fenêtre porte le poids du mur au-dessus, et l'appui sous la fenêtre protège de l'entrée d'eau. S'ils sont faibles ou réalisés à la hâte, les fissures apparaissent, l'eau rentre, et la peinture et le plâtre à l'intérieur s'abîment.\n\n💡 Notre offre : dans les projets de rénovation de villas à Kénitra, nous donnons à chaque détail son dû — une étude écrite, et un suivi par photos étape par étape, pour que les fenêtres de votre maison restent saines pendant des années.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "119": {
+  "title": "Un mur construit à la hâte se voit de loin : des joints inclinés, des blocs inégaux et des angles faibles. 🧱",
+  "body": "Une maçonnerie de blocs correcte repose sur trois choses : des joints réguliers et pleins, des rangées de niveau au cordeau et au niveau, et un harpage des angles pour que le mur devienne une seule masse. Un mur construit sans ces règles se fissure dès le premier été.\n\n💡 Notre offre : dans les projets de construction de villas à Salé et Témara, nous construisons les murs comme ils doivent l'être — une étude écrite, et un suivi par photos étape par étape.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "120": {
+  "title": "La dalle se coule en un jour, mais le travail avant elle décide si elle tiendra debout. 🏗️",
+  "body": "Les étais ne sont pas du bois en plus : ce sont eux qui portent le poids du béton jusqu'à ce qu'il prenne. Un étai manquant ou retiré trop tôt — et le résultat est un plafond incliné ou un effondrement. Cinq photos expliquent les étapes :\n\n📷 1 — Les étais avant le coulage : répartition régulière.\n\n📷 2 — Le coffrage sur les étais : des planches de niveau.\n\n📷 3 — L'acier sur le coffrage : le ferraillage à sa place.\n\n📷 4 — Pendant le coulage : surveillance continue.\n\n📷 5 — Après le coulage : les étais restent jusqu'à la prise.\n\n💡 Notre offre : dans la construction de villas à Casablanca, nous respectons chaque étape — une étude écrite, et un suivi par photos.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "121": {
+  "title": "Vous avez oublié une ouverture pour l'escalier ou un passage pour les tuyaux avant le coulage ? Percer après affaiblit la dalle et coûte cher. 🔧",
+  "body": "Chaque ouverture dans la dalle — escalier, tuyaux, ventilation — doit être planifiée avant le coulage, avec un renforcement de l'acier autour. Celui qui perce après coupe l'acier et crée un point faible au cœur de la structure.\n\n💡 Notre offre : dans les projets de construction de villas à Rabat, nous dessinons toutes les ouvertures et passages avant le coulage — une étude écrite, et un suivi par photos étape par étape, pour que rien ne soit percé après.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "122": {
+  "title": "Votre fenêtre sans volet ? Vous perdez trois choses à la fois : le confort, la sécurité et l'isolation. 🪟",
+  "body": "Le volet n'est pas qu'une décoration : le jour, il protège du soleil et du bruit, la nuit il protège la maison et préserve l'intimité, et en hiver comme en été il aide l'isolation thermique de la fenêtre. Et l'important, ce n'est pas seulement le volet — c'est la pose : un caisson bien intégré, des coulisses droites, et un moteur en bon état s'il est électrique. Un volet posé à la hâte tombe en panne, laisse entrer l'air et l'eau, et devient une source de bruit au quotidien.\n\n💡 Notre offre : dans nos projets de rénovation de villas à Témara et Casablanca, nous vous posons des volets sur mesure pour vos fenêtres — étude écrite, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "123": {
+  "title": "Le sol est terminé, mais le bas du mur reste nu ? La plinthe est la touche finale qui fait la différence entre un travail propre et un travail incomplet. ✨",
+  "body": "La plinthe protège le bas du mur contre l'eau et les chocs, et masque la jonction entre le sol et le mur. Une plinthe posée sans soin — joints visibles et angles inégaux — gâche l'aspect d'un sol entier, même coûteux.\n\n💡 Notre offre : dans nos projets de rénovation à Rabat, nous posons les plinthes avec le soin d'une dernière touche — étude écrite, et suivi par photos étape par étape, pour que le sol de votre maison paraisse achevé.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "124": {
+  "title": "Une petite fuite près de la baignoire ou de la fenêtre ? Le plus souvent, c'est un seul joint en silicone qui a lâché. 💧",
+  "body": "Le mastic et le silicone sont la dernière ligne de défense contre l'eau : autour de la baignoire, au pied des fenêtres, et entre le carrelage et la vasque. Un joint réalisé à la hâte, sur une surface sale ou humide, n'adhère pas — et l'eau s'infiltre en silence et abîme de l'intérieur.\n\n💡 Notre offre : dans nos projets de rénovation de salles de bains à Casablanca, nous accordons aux petits joints une grande attention — étude écrite, et suivi par photos étape par étape, pour que l'eau n'entre pas chez vous.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "125": {
+  "title": "Le papier peint s'est décollé au bout d'un mois ? Le problème n'est pas le papier — c'est le mur en dessous. 🖼️",
+  "body": "Tout revêtement mural — papier, tissu ou panneaux — vit ou meurt selon le mur : un mur propre, sec et plan donne un résultat qui dure des années. Un mur poussiéreux ou humide fait tomber le revêtement dès la première saison.\n\n💡 Notre offre : dans nos projets de rénovation haut de gamme à Rabat, nous préparons le mur avant tout revêtement — étude écrite, et suivi par photos étape par étape, pour que les murs de votre maison restent beaux pendant des années.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages"
+ },
+ "126": {
+  "title": "Un escalier en bois qui grince à chaque pas ? Le problème n'est pas le bois — c'est la pose et la fixation. 🪵",
+  "body": "Un escalier en bois réussi repose sur trois choses : des marches planes et stables, une hauteur régulière d'une marche à l'autre, et une main courante solide. Un escalier réalisé à la hâte grince, bouge, et devient un danger pour les personnes âgées comme pour les enfants.\n\n💡 Notre offre : dans nos projets de rénovation de villas à Salé, nous posons les escaliers en bois avec soin — étude écrite, et suivi par photos étape par étape, pour que l'escalier de votre maison reste stable et silencieux pendant des années.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "127": {
+  "title": "Un robinet qui goutte ? Ou des accessoires qui rouillent au bout d'un mois ? La salle de bains se juge aux petits détails que vous utilisez chaque jour. 🚿",
+  "body": "Les robinets et les accessoires ne sont pas que de la décoration : ce sont ceux que vous utilisez chaque matin et chaque soir. Un matériau bon marché rouille, goutte, et abîme le carrelage en dessous. Et c'est la pose correcte — avec des joints étanches — qui les fait durer.\n\n💡 Notre offre : dans nos projets de rénovation de salles de bains à Kénitra, nous choisissons avec vous les robinets et les accessoires selon votre goût, et nous les posons avec soin — étude écrite, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "128": {
+  "title": "Le chantier est terminé, mais la maison est encore pleine de poussière et de taches ? Une réception sans nettoyage n'est pas une réception. ✨",
+  "body": "Le nettoyage de fin de chantier est la dernière étape du travail : enlever la poussière de chaque coin, nettoyer les vitres et le carrelage, et retirer les traces de peinture et de silicone. Une maison livrée propre en dit plus sur l'entreprise que n'importe quel discours.\n\n💡 Notre offre : dans tous nos projets — rénovation d'une villa à Rabat ou construction d'une villa à Casablanca — nous livrons une maison propre, prête à habiter. Étude écrite, et suivi par photos étape par étape, jusqu'à la dernière touche.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier"
+ },
+ "129": {
+  "title": "Votre terrasse à Rabat se soulève par en dessous ? Des bulles sous l'étanchéité signifient que la vapeur est emprisonnée à l'intérieur. 💧",
+  "body": "Sur une terrasse étanchée, l'ordre des couches compte autant que leur qualité : sans pare-vapeur au bon endroit, l'humidité de la maison se condense à l'intérieur de l'isolant et détruit tout le système. Et l'étanchéité ne remplace pas la pente — l'eau doit toujours s'écouler (DTU 43.1 : la pente et la double évacuation).\n\n💡 Notre offre : nous examinons pour vous la composition de votre terrasse couche par couche avant toute réparation — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "130": {
+  "title": "Les fuites commencent toujours aux mêmes endroits ? Les angles, autour de l'évacuation, et les ouvertures qui traversent la terrasse — ce sont les points sensibles. 🔍",
+  "body": "La grande surface de la terrasse est rarement le problème : l'eau s'infiltre par les points particuliers — les relevés, les angles et les sorties de tuyaux. Celui qui maîtrise ces points protège toute la terrasse ; celui qui les néglige refait la réparation chaque hiver.\n\n💡 Notre offre : nous inspectons pour vous tous les points sensibles de votre terrasse à Rabat ou à Casablanca avant l'hiver — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "131": {
+  "title": "Vous voulez un petit jardin sur la terrasse ? Les plantes ont besoin d'eau — votre terrasse, non. 🌱",
+  "body": "Un jardin sur terrasse est un beau projet, mais dangereux s'il n'est pas bien préparé : une terre constamment humide, des racines qui cherchent les fissures, et une évacuation bouchée transforment le jardin en mare au-dessus de votre tête. La solution ? Une étanchéité adaptée aux plantations, une évacuation garantie, et une protection de la couche étanche avant de planter la première plante.\n\n💡 Notre offre : nous préparons pour vous votre terrasse à Salé ou à Témara pour accueillir des plantes sans risque pour l'étanchéité — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "132": {
+  "title": "Savez-vous que le disjoncteur différentiel n'est pas le disjoncteur ordinaire ? L'un protège les câbles, l'autre protège l'être humain. ⚡",
+  "body": "Le disjoncteur ordinaire protège les circuits contre la surcharge et le court-circuit, tandis que le disjoncteur différentiel détecte les fuites de courant et le coupe avant qu'il n'atteigne la personne. Et la mise à la terre complète le système — les trois fonctionnent ensemble. Sans cette protection, le moindre petit contact peut devenir un danger réel.\n\n💡 Notre offre : nous examinons pour vous le tableau électrique de votre maison à Kénitra ou à Rabat et nous vous expliquons ce qui lui manque — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Électricité"
+ },
+ "133": {
+  "title": "Une fuite vient rarement du tuyau — elle vient du raccord. Un petit point aujourd'hui, une tache sur le mur demain. 🔧",
+  "body": "Chaque raccord entre deux tuyaux est un point faible potentiel : une surface mal nettoyée, un serrage trop fort ou trop faible, et un joint qui vieillit avec le temps. Les signes apparaissent avant la catastrophe : traces blanches ou vertes, odeur d'humidité, et pression qui baisse sans raison. Et le raccord caché derrière le mur doit être inspecté avant d'être refermé — après le carrelage, la réparation devient une démolition.\n\n💡 Notre offre : nous inspectons pour vous tous les raccords de plomberie de votre maison à Salé ou à Témara avant que le mur ne soit refermé dessus — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "134": {
+  "title": "Vous voulez de la lumière dans le jardin ? L'électricité à l'extérieur n'est pas comme celle de l'intérieur — l'eau et la poussière jouent contre elle. 💡",
+  "body": "Les prises extérieures et l'éclairage du jardin exigent une protection spéciale : boîtiers étanches, câbles enterrés à la bonne profondeur, et disjoncteurs qui protègent contre les fuites. Une installation improvisée à l'extérieur peut devenir un danger réel dès le premier hiver.\n\n💡 Notre offre : nous installons pour vous l'électricité de votre jardin et de votre terrasse à Kénitra ou à Rabat en toute sécurité — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Électricité"
+ },
+ "135": {
+  "title": "Le devis détaillé a une justification derrière chaque ligne — vous êtes-vous déjà demandé ce qu'il y a derrière le prix ? 📐",
+  "body": "Le prix unitaire n'est pas un chiffre tombé du ciel : derrière lui, il y a un « sous-détail » — un détail qui montre ce qu'il contient : quelle quantité de matériau, combien d'heures, et quel matériel. Sans ce détail, le prix est une promesse sans preuve ; avec lui, vous pouvez comparer et comprendre.\n\n🖼️ Image 1 — Le détail de la ligne : les matériaux par quantité et qualité.\n\n🖼️ Image 2 — La main-d'œuvre et le temps : combien d'heures, combien d'ouvriers.\n\n🖼️ Image 3 — Le devis qui se compare : ligne par ligne, sans ambiguïté.\n\n💡 Notre offre : nous préparons pour vous une étude écrite détaillée pour votre projet à Casablanca ou à Rabat, chaque ligne avec son détail.",
+  "category": "Construction",
+  "theme": "Prix et métrés"
+ },
+ "136": {
+  "title": "Vous avez deux devis pour le même travail ? La bonne comparaison n'est pas dans le chiffre final — elle est ligne par ligne. 🔍",
+  "body": "Un devis moins cher peut omettre des travaux, utiliser des matériaux moins chers, ou ne comporter aucune garantie — et le chiffre final seul ne dit rien. La bonne comparaison : les mêmes travaux, les mêmes matériaux, les mêmes garanties — ligne par ligne, et c'est ainsi qu'apparaît la vraie différence.\n\n💡 Notre offre : nous préparons pour vous une étude écrite détaillée pour la rénovation de votre villa à Casablanca ou à Rabat, sur la même base — pour que vous compariez les offres ligne par ligne et choisissiez en toute connaissance de cause.",
+  "category": "Construction",
+  "theme": "Prix et métrés"
+ },
+ "137": {
+  "title": "Avant que les ouvriers montent sur l'échafaudage, vous êtes-vous assuré qu'il est stable ? La chute de hauteur est l'accident le plus grave dans le bâtiment. 🪜",
+  "body": "L'échafaudage s'inspecte comme un ouvrage, pas comme un meuble : la stabilité d'abord — la base, le contreventement et l'ancrage à la façade ; la protection collective ensuite — garde-corps et planchers complets ; et l'accès en sécurité enfin — sans stockage improvisé en hauteur. Trois contrôles, et zéro prise de risque.\n\n💡 Notre offre : nos échafaudages sont inspectés avant chaque utilisation — la sécurité des ouvriers est la première condition avant de commencer tout travail dans votre villa à Rabat ou à Salé.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier"
+ },
+ "138": {
+  "title": "Qui a dit quoi, quand, et pourquoi ? Si ce n'est pas écrit, c'est oublié — et si c'est oublié, le litige naît. 📓",
+  "body": "Le journal de chantier est la mémoire du projet : chaque visite, chaque décision, chaque modification, chaque réception — écrit, daté et signé. C'est lui qui protège l'entrepreneur et le client à la fois, et qui permet à chacun de savoir où il en est. Un chantier sans journal est un chantier sans mémoire.\n\n💡 Notre offre : chaque chantier chez nous a un journal de suivi écrit — décisions, avancement et photos — et nous le partageons avec vous étape par étape sur WhatsApp.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "139": {
+  "title": "Vous avez réceptionné la maison avec des réserves, et après ? La contre-visite est celle qui confirme que tout a vraiment été corrigé. 🔑",
+  "body": "La réception avec réserves n'est pas la fin du projet — c'est une liste de travaux. Et la contre-visite se prépare comme la première visite : un dossier de photos avant et après, et chaque réserve vérifiée une par une. Celui qui suit cette méthode reçoit sa maison propre ; celui qui la néglige reste avec les réserves pendant des mois.\n\n💡 Notre offre : nous vous accompagnons dans la réception et la contre-visite de votre villa à Rabat ou à Casablanca — dossier de photos avant et après, et suivi transparent jusqu'à la dernière réserve.",
+  "category": "Construction",
+  "theme": "Réception et garanties"
+ },
+ "140": {
+  "title": "Le chauffe-eau ou le climatiseur est tombé en panne après la réception ? Tout dysfonctionnement n'est pas une « mauvaise utilisation » — certains équipements ont leur propre garantie. 🔧",
+  "body": "La garantie de bon fonctionnement des équipements couvre les appareils intégrés au bâtiment — chauffage, climatisation, plomberie et électricité — si la panne vient de la pose ou de l'appareil lui-même. L'essentiel est un procès-verbal de réception précis qui fixe l'état de chaque équipement le jour de la réception, pour que le droit ne se perde pas.\n\n💡 Notre offre : nous documentons pour vous l'état de chaque équipement dans le procès-verbal de réception de votre maison à Kénitra ou à Salé — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Réception et garanties"
+ },
+ "141": {
+  "title": "Une ancienne salle de bains se rénove dans l'ordre, pas au hasard — une étape mal placée vous coûte de refaire le travail. 🚿",
+  "body": "L'ordre correct : d'abord le diagnostic et la démolition ; ensuite les nouveaux réseaux — plomberie et électricité avant de refermer le moindre mur ; troisièmement l'étanchéité — sur un support propre et sec, avec un test à l'eau de 24 heures ; quatrièmement le carrelage ; cinquièmement les équipements sanitaires ; et enfin les retouches. Celui qui carrele avant l'étanchéité refait tout, et celui qui pose les équipements avant le carrelage les abîme de ses propres mains.\n\n💡 Notre offre : nous rénovons pour vous votre ancienne salle de bains à Rabat ou à Kénitra dans le bon ordre — étude écrite claire, et suivi par photos étape par étape, pour que vous n'ayez à refaire aucune étape.",
+  "category": "Rénovation",
+  "theme": "Rénovation et réparation"
+ },
+ "142": {
+  "title": "Vous habitez la maison et vous voulez la rénover ? Rénover en habitant est un art possible — à condition de bien s'organiser. 🏠",
+  "body": "Le secret, c'est la progressivité : pièce par pièce, une zone protégée de la poussière, et une salle de bains et une cuisine qui restent fonctionnelles le plus longtemps possible. Et un programme écrit qui vous dit chaque jour ce qui va se passer, pour que la vie ne s'arrête pas — elle change juste un peu.\n\n💡 Notre offre : nous rénovons pour vous votre appartement à Rabat ou à Salé pendant que vous y habitez — programme écrit pièce par pièce, protection contre la poussière, et suivi par photos à chaque étape sur WhatsApp.",
+  "category": "Rénovation",
+  "theme": "Rénovation et réparation"
+ },
+ "143": {
+  "title": "La pente de la terrasse se forme dans le béton, pas après.",
+  "body": "Votre terrasse à Rabat accumule l'eau après chaque hiver ? Le problème n'est pas l'étanchéité — c'est la pente. 💧\n\nSelon le DTU 43.1, la pente se réalise dans le gros œuvre pour que l'eau s'écoule d'elle-même vers l'évacuation — si vous attendez jusqu'à la fin, vous ajouterez des couches et corrigerez l'erreur au prix de l'erreur.\n\n💡 Notre offre : avant de commencer l'étanchéité d'une terrasse à Rabat, nous contrôlons sa pente et nous vous expliquons ce qui doit être corrigé — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "144": {
+  "title": "Selon le DTU 43.1, la terrasse doit avoir une double évacuation — une sortie principale + une sortie de secours (trop-plein).",
+  "body": "Saviez-vous que la terrasse doit avoir une deuxième sortie pour l'eau si la première se bouche ? C'est la règle qui sauve votre maison. 🌧️\n\nSi la première sortie se bouche avec des feuilles ou de la poussière, l'eau sort par la deuxième et ne remonte pas au-dessus du mur. Une terrasse sans deuxième sortie est une terrasse qui attend l'inondation.\n\n💡 Notre offre : nous contrôlons pour vous l'évacuation de votre terrasse à Kénitra et nous ajoutons la sortie de secours si elle n'existe pas — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "145": {
+  "title": "L'étanchéité ne colle pas sur la poussière et l'humidité.",
+  "body": "Vous voulez une étanchéité de terrasse à Témara qui dure ? Avant de poser l'étanchéité, la surface doit être propre et sèche — c'est la règle. 🧹\n\nLa surface doit être bien nettoyée et parfaitement sèche avant de commencer les travaux — sinon l'étanchéité se décollera dès le début. L'artisan qui commence sans nettoyer la surface construit sur du sable.\n\n💡 Notre offre : avant toute étanchéité de terrasse à Témara, nous préparons bien la surface — nettoyage, séchage et contrôle — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "146": {
+  "title": "Lors d'une réfection d'étanchéité, les relevés sont refaits à neuf sur le mur — au moins 10 cm selon le DTU 20.12 — car c'est le point par lequel l'eau pénètre.",
+  "body": "Vous refaites l'étanchéité d'une terrasse ancienne à Salé ? La nouvelle étanchéité n'est complète que si les relevés sont refaits à neuf. 🛠️\n\nUne étanchéité neuve sur des relevés anciens et fatigués, c'est une étanchéité incomplète dès le départ.\n\n💡 Notre offre : pour la réfection de l'étanchéité de votre terrasse à Salé, nous refaisons les relevés à neuf et contrôlons chaque point sensible — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "147": {
+  "title": "L'eau qui reste stagnante après la pluie vous dit que la pente ne conduit pas l'eau vers l'évacuation — et cela affaiblit l'étanchéité avec le temps.",
+  "body": "Après la pluie, l'eau reste stagnante sur votre terrasse ? Ce n'est pas une simple flaque — c'est un message de votre terrasse. 💧\n\nSelon le DTU 43.1, la pente est formée dans le béton pour que l'eau s'écoule d'elle-même : si vous voyez une flaque qui persiste, vous devez faire inspecter avant que le problème ne s'aggrave.\n\n💡 Notre offre : nous inspectons votre terrasse à Rabat après la pluie et identifions où l'eau stagne — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "148": {
+  "title": "NM 10.8.913 est la norme marocaine d'étanchéité citée dans les cahiers des charges au Maroc — et le DTU 43.1 est la référence française correspondante.",
+  "body": "Votre devis mentionne-t-il une référence pour l'étanchéité ? S'il ne mentionne pas NM 10.8.913, demandez-la — c'est la norme marocaine de l'étanchéité. 📋\n\nUn devis d'étanchéité qui cite la référence précise ce qui sera exécuté, et un devis sans aucune référence laisse tout ouvert à l'interprétation.\n\n💡 Notre offre : pour toute étanchéité de terrasse à Kénitra, notre devis cite la référence, les matériaux et les étapes — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "149": {
+  "title": "L'étanchéité exige une surface sèche et un temps adapté — en été et en automne, la surface sèche bien et les matériaux adhèrent correctement.",
+  "body": "Vous voulez une étanchéité de terrasse à Témara ? Le meilleur moment, c'est avant l'hiver — pas en plein milieu. ☀️\n\nSi vous commencez l'étanchéité en plein hiver, l'humidité rend le travail incomplet dès le départ, et vous le referez ensuite à vos frais.\n\n💡 Notre offre : si vous voulez une étanchéité de terrasse à Témara, envoyez-nous un message dès maintenant et nous programmerons les travaux au moment adapté — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "150": {
+  "title": "Une terrasse bien étanchée est un système complet — quatre règles : la pente dans le béton pour que l'eau s'écoule (DTU 43.1), une évacuation double avec sortie de secours, des relevés de 10 cm au minimum (DTU 20.12), et un test d'eau de 24 heures avant la couverture.",
+  "body": "Votre terrasse fuit ? Le problème n'est pas dans une seule couche — il est dans le système entier. 🏗️\n\nSi un seul élément manque, tout le système s'affaiblit.\n\n📸 Les photos :\n\nA — La pente : l'eau s'écoule d'elle-même vers l'évacuation.\n\nB — L'évacuation double : la principale et celle de secours.\n\nC — Les relevés : 10 cm au minimum.\n\nD — Le test d'eau : la preuve avant la couverture.\n\n💡 Notre offre : nous inspectons le système de votre terrasse à Rabat — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "151": {
+  "title": "Votre toit fuit chaque hiver ? Le problème vient de 4 étapes qui n'ont pas été faites correctement. 💧",
+  "body": "L'étanchéité du toit repose sur 4 règles : une pente dans le béton pour que l'eau s'écoule, une évacuation double pour que l'eau trouve son chemin, un relevé d'étanchéité sur les bords d'au moins 10 cm, et un test à l'eau de 24 heures avant la livraison. Une étape manquante, et tout le toit devient menacé.\n\n📸 Les photos :\n\nA — La pente : l'eau s'écoule vers l'évacuation.\n\nB — L'évacuation double : évacuation + trop-plein pour les urgences.\n\nC — Le relevé d'étanchéité sur le bord : 10 cm au minimum.\n\nD — Le test à l'eau avant la livraison.\n\n💡 Notre offre : nous inspectons votre toit et réparons l'étanchéité selon ces quatre règles — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "152": {
+  "title": "Vous voulez étancher votre toit ? La première étape n'est pas le produit — la première étape, c'est le toit lui-même : propre et sec. 🧹",
+  "body": "L'étanchéité n'adhère ni à la poussière ni à l'humidité : une surface sale ou mouillée fait se décoller la couche au bout de quelques mois, même si le produit est bon. Le nettoyage complet et le séchage avant la pose ne sont pas un détail — c'est la base de tout.\n\n💡 Notre offre : avant toute étanchéité, nous nettoyons la surface et nous assurons qu'elle est parfaitement sèche — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "153": {
+  "title": "Un seul évacuateur bouché = un toit noyé sous l'eau. La solution ? Un deuxième chemin pour l'eau. 🌧️",
+  "body": "Si l'unique évacuateur se bouche avec des feuilles et des saletés, l'eau reste sur le toit et cherche son chemin — le plus souvent à l'intérieur de la maison. L'évacuation double (évacuateur + trop-plein) donne à l'eau une deuxième sortie si la première se bouche : le toit ne reste pas noyé, et la maison reste protégée.\n\n💡 Notre offre : nous examinons l'évacuation de votre toit et ajoutons une deuxième sortie si elle manque — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "154": {
+  "title": "L'eau qui reste stagnante sur le toit finit par trouver son chemin vers l'intérieur — c'est la pente qui l'en empêche. 💧",
+  "body": "La pente du toit ne se réalise pas avec l'étanchéité — elle se réalise dans le béton lui-même, avant l'étanchéité. Si la dalle est parfaitement plate, l'eau stagne en flaques et exerce une pression sur l'étanchéité jusqu'à ce qu'elle fuie. Un toit correct laisse l'eau s'écouler vers l'évacuation dès la première goutte de pluie.\n\n💡 Notre offre : nous inspectons la pente de votre toit et corrigeons son évacuation à la base — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "155": {
+  "title": "Après la pluie, trouvez-vous des flaques d'eau stagnante sur votre toit ? Ce n'est pas normal — c'est un message de votre toit. 💧",
+  "body": "Les flaques qui restent stagnantes signifient que la pente ne conduit pas l'eau vers l'évacuation : avec le soleil et le temps, l'étanchéité se fatigue précisément à ces endroits, et la fuite commence ici. Un toit correct sèche entièrement après la pluie, sans flaques.\n\n💡 Notre offre : nous inspectons votre toit après la pluie et identifions où l'eau stagne — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "156": {
+  "title": "Si l'évacuation de votre toit se bouche en pleine tempête, où ira l'eau ? La réponse : le trop-plein. 🛟",
+  "body": "Le trop-plein est une deuxième sortie placée un peu plus haut que l'évacuation : si l'eau monte au-dessus de la limite, elle sort par le trop-plein avant d'entrer dans la maison. Sans trop-plein, le toit se transforme en mare — et avec un peu de temps, l'eau trouve son chemin par le plafond.\n\n💡 Notre offre : nous vérifions que votre toit dispose d'un trop-plein en état de marche, et nous l'ajoutons s'il manque — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "157": {
+  "title": "L'étanchéité a été bien réalisée, puis quelqu'un est venu marcher dessus avec des chaussures de chantier ? C'est là que commence la fuite. 👷",
+  "body": "La couche d'étanchéité reste sensible jusqu'à ce qu'elle soit couverte : marcher dessus avec des outils lourds, y stocker des matériaux, et la percer sans précaution — tout cela la blesse sans que cela se voie. Protéger l'étanchéité pendant les travaux n'est pas un luxe, c'est une partie du travail lui-même.\n\n💡 Notre offre : nous protégeons votre étanchéité pendant les travaux et contrôlons chaque étape — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "158": {
+  "title": "Les premières pluies d'hiver ? C'est le meilleur moment pour voir si votre étanchéité fonctionne ou non. 🔍",
+  "body": "Après la première forte pluie, montez sur le toit et regardez : l'eau s'écoule-t-elle vers l'évacuation ? Y a-t-il des flaques stagnantes ? Et à l'intérieur, y a-t-il une trace d'humidité au plafond ? L'inspection après la première pluie révèle le problème tant qu'il est petit — avant qu'il ne grandisse et ne coûte cher.\n\n💡 Notre offre : nous inspectons votre toit après la première pluie et réparons ce qui doit l'être — étude écrite claire, et suivi par photos étape par étape.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "159": {
+  "title": "Votre terrasse garde-t-elle de l'eau stagnante après la pluie ? Le problème n'est pas l'étanchéité — ce sont les pentes. 💧",
+  "body": "Si vous cherchez une étanchéité de terrasse à Casablanca, retenez cette règle : les pentes de la terrasse se forment dans le béton, avant la pose de l'étanchéité — c'est la règle du DTU 43.1. L'eau doit aller vers l'évacuation sans s'accumuler. Une terrasse sans pentes, même avec une bonne étanchéité, garde l'eau stagnante, qui cherche le point le plus faible pour pénétrer.\n\n💡 Notre offre : avant d'étancher votre terrasse, nous inspectons les pentes et les corrigeons avant l'étanchéité — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "160": {
+  "title": "La descente de votre terrasse s'est bouchée avec une feuille ou des saletés — l'eau va-t-elle rester stagnante au-dessus de votre tête ? Non, si vous avez une deuxième sortie. 🌧️",
+  "body": "Si vous cherchez une étanchéité de terrasse à Kénitra, retenez cette règle : le DTU 43.1 exige la double évacuation — deux sorties pour l'eau, ou une descente plus un trop-plein. Si l'une se bouche, la deuxième fonctionne. Une terrasse avec une seule sortie est une terrasse qui attend le premier bouchon pour être inondée.\n\n💡 Notre offre : nous inspectons les sorties d'eau de votre terrasse et ajoutons la deuxième sortie si elle manque — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "161": {
+  "title": "Saviez-vous que vous pouvez mesurer la qualité de l'étanchéité avec une règle ? L'étanchéité qui remonte sur le mur doit faire au moins 10 cm. 📏",
+  "body": "Si vous cherchez une étanchéité de terrasse à Marrakech, retenez cette règle : le DTU 20.12 exige que l'étanchéité remonte d'au moins 10 cm au-dessus de la terrasse, sur le mur du toit. En dessous, l'eau pénètre par le côté. Mesurez à l'œil nu avant de payer.\n\n📸 Les photos :\n\nA — L'étanchéité remontant sur le mur du toit.\n\nB — La mesure à la règle : 10 cm au minimum.\n\nC — L'angle et la jonction entre le mur et la terrasse.\n\nD — L'étanchéité protégée et terminée.\n\n💡 Notre offre : nous inspectons avec vous l'étanchéité de votre terrasse à la règle, et nous la corrigeons si elle est insuffisante — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "162": {
+  "title": "L'étanchéité n'adhère ni à la poussière ni à une surface mouillée — elle adhère à une surface propre et sèche. 🧹",
+  "body": "Si vous cherchez une étanchéité de terrasse à Agadir, retenez cette règle : avant l'étanchéité, la surface doit être nettoyée de la poussière et des saletés, et être parfaitement sèche. Une étanchéité posée sur une surface mouillée se décolle ensuite, et le problème apparaît après la première pluie. Le nettoyage et le séchage ne sont pas une perte de temps — c'est la moitié du travail.\n\n💡 Notre offre : la préparation de votre surface avant l'étanchéité — nettoyage, séchage et inspection — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "163": {
+  "title": "Comment savoir si l'étanchéité est bonne avant de la couvrir par la protection ? Par l'eau — 24 heures de test. 💧",
+  "body": "Si vous cherchez une étanchéité de terrasse à Témara, retenez cette règle : nous remplissons la terrasse d'eau, nous la laissons 24 heures, et nous contrôlons par en dessous. Si aucune fuite n'apparaît, alors seulement nous couvrons l'étanchéité par la protection. Celui qui couvre sans tester enterre le problème — et celui qui teste vous donne la preuve avant que vous ne payiez.\n\n💡 Notre offre : un test d'eau de 24 heures avant de couvrir votre étanchéité — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "164": {
+  "title": "La terrasse n'est pas une seule couche — c'est un ordre : les pentes, l'étanchéité, et la protection. Si vous inversez l'ordre, vous referez le travail. 🏗️",
+  "body": "Si vous cherchez une rénovation de terrasse à Casablanca, retenez cette règle : d'abord les pentes pour que l'eau s'écoule, ensuite l'étanchéité selon la norme marocaine NM 10.8.913, et ensuite la protection qui protège l'étanchéité du soleil et du passage. Chaque couche a son rôle — et la couche qui vient avant protège celle qui suit.\n\n💡 Notre offre : nous construisons votre terrasse couche par couche, dans le bon ordre — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "165": {
+  "title": "Plâtre traditionnel ou placo ? La réponse n'est pas dans la mode — elle est dans la pièce. ✨",
+  "body": "Si vous cherchez une rénovation de salon à Rabat, retenez cette règle : le plâtre traditionnel marocain est la signature de la beauté — pour les salons, les pièces sèches et la décoration. Le placo, c'est la rapidité et la précision — pour les plafonds droits et les délais courts. Et les pièces humides ont un autre choix. Dans les deux cas, la qualité du support et de la structure détermine la durée de vie du plafond.\n\n💡 Notre offre : nous vous aidons à choisir le plâtre adapté à chaque pièce de votre maison — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Plâtre et plafonds"
+ },
+ "166": {
+  "title": "Une dalle réussie ne commence pas avec le camion — elle commence avant lui, et se termine après lui. 🏗️",
+  "body": "Si vous cherchez à construire une villa à Kénitra, retenez cette règle : avant le coulage, nous contrôlons l'acier et le coffrage selon les plans du bureau d'études. Pendant le coulage, une vibration correcte sans ajouter d'eau au mélange. Et après le coulage, la cure à l'eau et le décoffrage en temps voulu. Une dalle préparée ainsi dure — et celle qui est coulée au hasard, vous la payez plus tard.\n\n💡 Notre offre : le coulage de vos dalles avec un contrôle avant, pendant et après — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "167": {
+  "title": "Vous avez préparé votre offre complète, et vous êtes arrivé avec une minute de retard ? Dans les marchés publics, le retard vous élimine avant même l'ouverture du pli. ⏰",
+  "body": "Si vous cherchez des marchés publics à Rabat, retenez cette règle : l'offre doit être remise dans le délai fixé dans l'avis, sous la forme exigée — pas de pli incomplet, pas de remise en retard. Celui qui prépare son offre à la dernière minute mise sur la chance — et celui qui la prépare tôt entre dans la compétition sereinement.\n\n💡 Notre offre : nous vous accompagnons dans l'étude des dossiers de marchés publics — lecture complète du dossier avant de calculer le prix — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "168": {
+  "title": "Un imprévu est survenu sur le chantier ? Agissez maintenant — mais écrivez tout immédiatement après. ✍️",
+  "body": "Si vous cherchez des travaux supplémentaires à Marrakech, retenez cette règle : les travaux supplémentaires exigent un ordre écrit du maître d'ouvrage. Et en cas d'urgence réelle, nous exécutons les travaux pour protéger le chantier, puis nous confirmons par écrit immédiatement — avec photos et mesures. Celui qui travaille sur parole risque de ne jamais être payé.\n\n💡 Notre offre : chaque changement sur votre chantier est documenté par écrit et par photos avant d'être exécuté — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "169": {
+  "title": "Saviez-vous que le bon produit arrive avec ses papiers ? Le certificat et le marquage sont la preuve avant l'installation. 📄",
+  "body": "Si vous cherchez à construire une villa à Kénitra, retenez cette règle : chaque matériau qui arrive sur le chantier doit avoir un certificat de conformité et un marquage clair — le ciment, l'acier, et l'étanchéité. Nous comparons le papier avec la marchandise avant le déchargement. Un matériau sans papiers n'entre pas sur le chantier.\n\n📸 Les photos :\n\nA — Les certificats et les documents sur la table du chantier.\n\nB — Le marquage sur le produit.\n\nC — Le bon de livraison face à la marchandise.\n\n💡 Notre offre : nous contrôlons avec vous les matériaux de votre chantier — par les certificats et le marquage — étude écrite claire, et suivi transparent.",
+  "category": "Construction",
+  "theme": "Normes et référentiels"
+ },
+ "170": {
+  "title": "Avant l'arrivée du camion de béton, qui a vérifié le ferraillage ? Un acier non contrôlé se retrouve recouvert de béton — et l'erreur reste à l'intérieur. 🏗️",
+  "body": "Si vous cherchez à construire une villa à Tanger, retenez cette règle : avant le coulage, nous comparons le ferraillage aux plans du bureau d'études — diamètre, nombre et espacements. Le contrôle avant coulage coûte peu, la correction après coulage coûte cher.\n\n💡 Notre offre : nous contrôlons avec vous le ferraillage de votre dalle avant le coulage — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "171": {
+  "title": "La peinture s'écaille au bout de quelques mois ? Le problème n'est pas la couleur — c'est la couche d'apprêt qui n'a pas été appliquée. 🎨",
+  "body": "Si vous cherchez à peindre une villa à Fès, retenez cette règle : avant la couleur, il faut la couche d'apprêt — elle bouche les pores du mur et permet à la peinture d'adhérer correctement. Celui qui saute cette couche pour économiser refait toute la peinture ensuite.\n\n💡 Notre offre : la peinture de votre villa, de l'apprêt à la couleur finale — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Peinture et revêtements"
+ },
+ "172": {
+  "title": "Le mur de clôture de votre villa penche, ou se fissure par le bas ? Une clôture n'est pas qu'un simple mur — c'est une construction comme la maison, et elle a besoin de fondations. 🧱",
+  "body": "Si vous cherchez à construire un mur de clôture de villa à Casablanca, retenez cette règle : une clôture sans fondations penche avec le temps, et la fissure apparaît par le bas. Une clôture correcte se construit sur des fondations, en pierre et béton, avec des joints qui lui permettent de respirer — pas simplement des briques posées sur le sol. Celle qui est bien construite protège la maison pendant des années, celle qui est construite à la hâte devient un danger pour les passants.\n\n💡 Notre offre : construction et rénovation du mur de clôture de votre villa sur les bonnes fondations — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "173": {
+  "title": "Vous avez fermé le mur sur les canalisations et les câbles sans les photographier ? Plus tard, si vous voulez percer pour une vis, vous jouerez à la loterie. 📸",
+  "body": "Si vous cherchez à rénover une salle de bain à Témara, retenez cette règle : avant de refermer, nous photographions l'ensemble du réseau — eau, électricité et évacuation — et nous vous remettons les photos avec le plan. C'est la mémoire de la maison : des années plus tard, vous saurez exactement où passe chaque canalisation.\n\n💡 Notre offre : documentation photographique des réseaux de votre maison avant fermeture — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "174": {
+  "title": "Une petite erreur de mesure se répète à chaque étage et dans chaque pièce — et à la fin, elle devient une grosse erreur. 📏",
+  "body": "Si vous cherchez à construire une villa à Agadir, retenez cette règle : les quantités du devis doivent être vérifiées avec les plans et avec la réalité sur le chantier — avant de commencer, et à chaque étape. La petite différence non corrigée au début grandit à chaque répétition — et la correction à la fin coûte cher.\n\n💡 Notre offre : nous revoyons avec vous les quantités de votre projet avant de commencer — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Prix et métrés"
+ },
+ "175": {
+  "title": "Vous entretenez votre terrasse une fois par an, ou vous attendez qu'elle commence à fuir ? L'étanchéité ne vit pas sans contrôle. 🔍",
+  "body": "Si vous cherchez l'étanchéité d'une terrasse à Casablanca, retenez cette règle : une fois par an, la terrasse a besoin d'une visite complète — sorties d'eau dégagées, relevés d'étanchéité sur le mur en bon état, et angles protégés. Un petit problème se répare facilement aujourd'hui ; laissé de côté, il grandit jusqu'à devenir une fuite.\n\n📸 Photos :\n\nA — Inspection des sorties d'eau.\n\nB — Nettoyage de la terrasse avant l'hiver.\n\nC — Contrôle de l'étanchéité sur le mur.\n\nD — Contrôle après le premier hiver.\n\n💡 Notre offre : visite annuelle de votre terrasse — inspection des sorties, de l'étanchéité et des angles — étude écrite claire, et suivi transparent.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "176": {
+  "title": "Votre salle de bain fuit chez les voisins du dessous ? Le problème n'est pas le zellige — c'est l'étanchéité qui doit être réalisée avant le zellige. 🚿",
+  "body": "Si vous cherchez à rénover une salle de bain à Marrakech, retenez cette règle : avant la pose du zellige, la salle de bain a besoin d'une étanchéité complète — le sol et les murs de la douche. Le zellige n'est pas un isolant, c'est seulement un revêtement décoratif posé sur l'étanchéité. Celui qui pose le zellige sans étanchéité cache le problème — et l'eau ressort par en dessous.\n\n💡 Notre offre : étanchéité de votre salle de bain avant le zellige — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "177": {
+  "title": "Les aciers qui dépassent de la dalle et attendent l'étage suivant — les avez-vous laissés rouiller ? Un acier qui rouille aujourd'hui affaiblit la construction de demain. 🔩",
+  "body": "Si vous cherchez à construire une villa à Kénitra, retenez cette règle : les aciers en attente doivent être protégés de l'eau et de l'air jusqu'au moment de poursuivre la construction — ils doivent être couverts et conservés. Un acier qui rouille perd de sa résistance ; un acier protégé reste prêt pour l'étape suivante.\n\n💡 Notre offre : protection des aciers de votre projet avant de poursuivre la construction — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "178": {
+  "title": "La porte d'entrée ferme-t-elle bien ? Laisse-t-elle passer le froid, la poussière et le bruit ? Une porte n'est pas que du bois — c'est la première barrière de la maison. 🚪",
+  "body": "Si vous cherchez à rénover une villa à Casablanca, retenez cette règle : la porte d'entrée doit être posée sur mesure, sans vides, avec des charnières solides et une bonne serrure. Une porte mal posée laisse entrer le froid en hiver et le bruit chaque jour — une porte bien posée protège la maison et augmente sa valeur.\n\n💡 Notre offre : porte d'entrée sur mesure — pose précise et finitions haut de gamme — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Menuiserie et aluminium"
+ },
+ "179": {
+  "title": "Un chantier où les gravats et la saleté sont partout — est-ce là l'image de l'entreprise ? Un chantier propre est un chantier sûr. 🧹",
+  "body": "Si vous cherchez à rénover une villa à Témara, retenez cette règle : les gravats doivent être regroupés à leur place, les matériaux doivent être rangés, et les passages doivent rester dégagés. Un chantier organisé protège les ouvriers, protège les matériaux et permet au travail d'avancer vite — un chantier sale cache les erreurs et provoque les accidents.\n\n💡 Notre offre : un chantier organisé et propre du début jusqu'à la livraison — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Sécurité et chantier"
+ },
+ "180": {
+  "title": "Un tuyau fuit, et vous n'avez trouvé aucun moyen d'y accéder ? Le problème n'est pas le tuyau — c'est qu'on l'a enfermé dans le mur sans trappe de maintenance. 🔧",
+  "body": "Si vous cherchez à rénover une villa à Agadir, retenez cette règle : les tuyaux et câbles qui passent dans le mur doivent être placés dans une gaine technique dotée d'une trappe de maintenance — pour que, en cas de problème, on puisse réparer sans casser le mur. Celui qui enferme tout sans laisser d'accès vous fait payer deux fois : une fois pour la construction, une fois pour la casse.\n\n💡 Notre offre : gaines techniques avec trappes de maintenance dans votre projet — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Plomberie et réseaux"
+ },
+ "181": {
+  "title": "Un mur en pierre donne à la maison un caractère authentique — mais seulement s'il est bien construit. 🪨",
+  "body": "Si vous cherchez à construire une villa à Marrakech, retenez cette règle : la pierre apparente doit être montée pierre par pierre, avec le mortier adapté et des joints réguliers — pas simplement un décor posé sur le mur. Un mur bien construit vit des générations ; un mur construit à la hâte se fissure et s'effrite.\n\n💡 Notre offre : murs en pierre selon la méthode traditionnelle — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "182": {
+  "title": "Votre zellige sonne creux sous vos pieds ? Le problème n'est pas le zellige — c'est le support en dessous. 🟫",
+  "body": "Si vous cherchez à rénover une villa à Kénitra, retenez cette règle : avant le zellige, la chape doit être plane, sèche et saine. Un zellige posé sur une chape inclinée ou creuse sonne creux et se casse avec le temps. Une chape plane, c'est la moitié du travail du zellige.\n\n💡 Notre offre : préparation de votre chape avant le zellige — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages"
+ },
+ "183": {
+  "title": "Vous avez déposé votre dossier pour un marché public, et votre prix n'a même pas été ouvert ? Le problème n'est pas le prix — c'est une pièce manquante. 📋",
+  "body": "Si vous cherchez les marchés publics à Kénitra, retenez cette règle : la plupart des dossiers sont écartés pour des raisons administratives, pas techniques — un dossier incomplet ne voit pas son prix ouvert. Avant de calculer le prix, lisez le cahier des charges en entier, rassemblez les documents demandés, et vérifiez que la caution est conforme dans sa forme et son montant. Seul le dossier complet accède à l'étape des prix.\n\n💡 Notre offre : si vous êtes entrepreneur et cherchez un partenaire pour les travaux, nous travaillons avec vous avec des dossiers clairs et des documents bien organisés — étude écrite, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Marchés et contrats"
+ },
+ "184": {
+  "title": "Les fondations de votre maison se choisissent-elles dans un catalogue ? Non — c'est le sol qui choisit. 🏗️",
+  "body": "Si vous cherchez à construire une villa à Casablanca, retenez cette règle : le type de fondations se décide selon la nature du sol et la charge de la construction, après une étude géotechnique. Une mauvaise fondation se paie cher : tassement différentiel et fissures dans les murs. Une bonne fondation coûte moins cher que de réparer la maison ensuite.\n\n💡 Notre offre : avant de construire, nous examinons le sol et construisons les fondations qui lui conviennent — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Construction",
+  "theme": "Gros œuvre"
+ },
+ "185": {
+  "title": "Votre sous-sol prend l'eau, et vous avez peint le mur ? La peinture n'arrêtera rien — traitez la source. 💧",
+  "body": "Si vous cherchez un traitement de l'humidité du sous-sol à Casablanca, retenez cette règle : l'eau vient de trois côtés — remontée depuis le sol, infiltration latérale, ou condensation — et chaque cause a son traitement : cuvelage étanche par l'intérieur, drainage qui réduit la pression, et les points sensibles en premier.\n\n📸 Photos :\n\nA — Le diagnostic : mesure de l'humidité.\n\nB — L'étanchéité intérieure qui arrête l'eau.\n\nC — Le drainage : l'eau s'éloigne de la maison.\n\nD — Les points sensibles traités en premier.\n\n💡 Notre offre : diagnostic du sous-sol avant réparation + traitement de la source — étude écrite claire, et suivi transparent.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "186": {
+  "title": "Vous avez trouvé une offre beaucoup moins chère que les autres ? Demandez-vous : où va-t-il rattraper la différence ? 💸",
+  "body": "Si vous cherchez à rénover une villa à Marrakech, retenez cette règle : un prix inférieur au coût réel ne devient pas rentable ensuite — la différence se voit sur le chantier : matériaux moins chers, travail incomplet, ou travaux supplémentaires qui n'étaient pas prévus. Casser les prix pour remporter le marché ne fait que déplacer le problème vers la trésorerie, la qualité, ou le litige. Mieux vaut perdre un marché que gagner un chantier déficitaire.\n\n💡 Notre offre : notre devis est détaillé et clair — chaque poste précise ce qu'il comprend, sans surprises — envoyez-nous un message sur WhatsApp et nous vous expliquerons tout avant de commencer.",
+  "category": "Construction",
+  "theme": "Prix et métrés"
+ },
+ "187": {
+  "title": "Une terrasse au-dessus d'une chambre ? Ici, l'étanchéité n'a pas le droit à l'erreur — pas une goutte n'est permise. 💧",
+  "body": "Si vous cherchez l'étanchéité d'une terrasse à Casablanca, retenez cette règle : si sous la terrasse il y a une pièce habitée, l'étanchéité doit être complète — les pentes pour évacuer l'eau, selon le DTU 43.1, l'étanchéité selon la norme marocaine NM 10.8.913, et la protection qui la protège du soleil et du passage. Une terrasse au-dessus d'un garage n'est pas une terrasse au-dessus de votre chambre — ici, chaque couche doit être correcte.\n\n💡 Notre offre : nous examinons votre terrasse au-dessus des pièces habitées et la réparons couche par couche — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "188": {
+  "title": "Votre terrasse fuit ? Avant de signer la réparation, posez ces 3 questions — leurs réponses vous montreront si l'entrepreneur s'y connaît ou non. 🔍",
+  "body": "Si vous cherchez à réparer une fuite de terrasse à Kénitra, demandez : premièrement — les pentes sont-elles correctes, et l'eau va-t-elle vers l'évacuation ? Selon le DTU 43.1, les pentes se forment dans le béton. Deuxièmement — l'étanchéité remonte-t-elle d'au moins 10 cm sur le mur ? Selon le DTU 20.12. Troisièmement — ferez-vous un test d'eau de 24 heures avant de recouvrir ? Celui qui n'a pas de réponse claire à ces trois questions, ne signez pas avec lui.\n\n💡 Notre offre : diagnostic de votre fuite avec les trois questions + étude écrite claire — envoyez-nous un message sur WhatsApp et commençons.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ },
+ "189": {
+  "title": "Le zellige sur une terrasse étanchée n'est pas qu'un décor — c'est la protection sur laquelle vous marchez chaque jour. 🏗️",
+  "body": "Si vous cherchez le zellige d'une terrasse à Tanger, retenez cette règle : la terrasse se construit couche par couche — les pentes pour évacuer l'eau, l'étanchéité selon la norme marocaine NM 10.8.913, puis la protection qui protège l'étanchéité du soleil et du passage. Un zellige posé sans protection, collé directement sur l'étanchéité, l'expose aux dommages avec le temps. La protection n'est pas une option — c'est elle qui fait durer l'étanchéité.\n\n💡 Notre offre : nous construisons votre terrasse couche par couche, dans le bon ordre — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Zellige et carrelages"
+ },
+ "190": {
+  "title": "La pluie est tombée, le toit est mouillé — faut-il étancher maintenant ou attendre ? Attendre. 💧",
+  "body": "Si vous cherchez l'étanchéité d'une terrasse à Rabat en hiver, retenez cette règle : l'étanchéité n'adhère pas sur une surface mouillée — elle adhère sur une surface propre et sèche. Une étanchéité posée sur une surface mouillée se décolle ensuite, et le problème apparaît après le premier hiver. En hiver, le temps de séchage n'est pas du temps perdu — c'est la moitié du travail. Celui qui se précipite en hiver refait le travail au printemps.\n\n💡 Notre offre : préparation de votre surface avant l'étanchéité — nettoyage, séchage et inspection — étude écrite claire, et suivi transparent du début jusqu'à la réception.",
+  "category": "Rénovation",
+  "theme": "Étanchéité"
+ }
+}
