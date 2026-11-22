@@ -329,8 +329,8 @@
   .journey-3d canvas:active{ cursor:grabbing; }
   .journey-3d-hint{
     position:absolute; left:50%; bottom:12px; transform:translateX(-50%); z-index:2;
-    font-size:.78rem; font-weight:600; color:var(--gold-light);
-    background:rgba(4,21,15,.55); border:1px solid var(--line); border-radius:999px;
+    font-size:.78rem; font-weight:600; color:#f5f0e8;
+    background:rgba(4,21,15,.94); border:1px solid rgba(201,162,39,.55); border-radius:999px;
     padding:.4rem .95rem; backdrop-filter:blur(6px); -webkit-backdrop-filter:blur(6px);
     pointer-events:none; white-space:nowrap;
   }
@@ -2880,15 +2880,23 @@ window.addEventListener("load", function(){
     /* concrete with formwork board marks, tie holes and stains */
     var cConc = cnv(512), x = cConc[1];
     grain(x, "#c6cabe", ["#b7bcb0", "#d2d6cc", "#a9aea2", "#bfc4b9"], 2600, 0.16, 7);
-    x.globalAlpha = 0.35; x.strokeStyle = "#8f948a"; x.lineWidth = 2;
+    x.globalAlpha = 0.5; x.strokeStyle = "#8f948a"; x.lineWidth = 2;
     for (var b = 0; b <= 512; b += 86){ x.beginPath(); x.moveTo(0, b); x.lineTo(512, b); x.stroke(); }
-    x.globalAlpha = 0.5; x.fillStyle = "#83887f";
+    x.globalAlpha = 0.55; x.fillStyle = "#83887f";
     for (var ty = 43; ty < 512; ty += 86) for (var tx = 64; tx < 512; tx += 128){ x.beginPath(); x.arc(tx, ty, 5, 0, 7); x.fill(); }
-    x.globalAlpha = 0.07; x.fillStyle = "#6d7268";
-    for (var st = 0; st < 26; st++){ x.fillRect(rnd() * 512, rnd() * 300, 3 + rnd() * 8, 60 + rnd() * 190); }
+    x.globalAlpha = 0.11; x.fillStyle = "#6d7268";
+    for (var st = 0; st < 34; st++){ x.fillRect(rnd() * 512, rnd() * 300, 3 + rnd() * 8, 60 + rnd() * 190); }
     x.globalAlpha = 1;
-    /* cream render, fine grain */
-    var cCream = cnv(512); grain(cCream[1], "#f0e9da", ["#e6ddc9", "#f7f2e6", "#ded2ba"], 5200, 0.13, 3);
+    /* cream render, fine grain + low-frequency mottling (tonal variation that reads at distance) */
+    var cCream = cnv(512); grain(cCream[1], "#f0e9da", ["#e6ddc9", "#f7f2e6", "#ded2ba"], 5200, 0.16, 3);
+    (function(){ var x = cCream[1];
+      for (var i = 0; i < 46; i++){
+        x.globalAlpha = 0.05 + rnd() * 0.06;
+        x.fillStyle = rnd() > 0.5 ? "#e0d2b4" : "#fbf6ec";
+        x.beginPath(); x.ellipse(rnd() * 512, rnd() * 512, 40 + rnd() * 90, 26 + rnd() * 60, rnd() * 3, 0, 7); x.fill();
+      }
+      x.globalAlpha = 1;
+    })();
     /* travertine: veins + pits */
     var cTrav = cnv(512); x = cTrav[1];
     x.fillStyle = "#d9c6a6"; x.fillRect(0, 0, 512, 512);
@@ -2966,6 +2974,41 @@ window.addEventListener("load", function(){
       x.fillStyle = "rgb(" + (232 + sh * 18) + "," + (216 + sh * 16) + "," + (188 + sh * 14) + ")";
       x.fillRect(cf, 0, 4, 256);
     }
+    /* glass sheen: soft diagonal band (used as roughnessMap -> one sharp reflection streak) */
+    var cSheen = cnv(256); x = cSheen[1];
+    x.fillStyle = "#8c8c8c"; x.fillRect(0, 0, 256, 256);
+    var shg = x.createLinearGradient(0, 256, 256, 0);
+    shg.addColorStop(0.30, "rgba(140,140,140,0)");
+    shg.addColorStop(0.50, "rgba(10,10,10,0.95)");
+    shg.addColorStop(0.70, "rgba(140,140,140,0)");
+    x.fillStyle = shg; x.fillRect(0, 0, 256, 256);
+    /* pool caustics: light web pattern painted on the pool floor */
+    var cCaus = cnv(512); x = cCaus[1];
+    x.fillStyle = "#175d7d"; x.fillRect(0, 0, 512, 512);
+    for (var ci = 0; ci < 260; ci++){
+      x.strokeStyle = "rgba(190,240,255," + (0.05 + rnd() * 0.13) + ")";
+      x.lineWidth = 1 + rnd() * 2.2;
+      x.beginPath(); x.arc(rnd() * 512, rnd() * 512, 6 + rnd() * 30, rnd() * 3, rnd() * 3 + 1.2 + rnd() * 2.4); x.stroke();
+    }
+    for (var cj = 0; cj < 60; cj++){
+      x.strokeStyle = "rgba(235,252,255," + (0.10 + rnd() * 0.16) + ")";
+      x.lineWidth = 1;
+      x.beginPath(); x.arc(rnd() * 512, rnd() * 512, 3 + rnd() * 12, rnd() * 3, rnd() * 3 + 2 + rnd() * 3); x.stroke();
+    }
+    /* AO gradient strips: dark at the wall base fading up / dark under a slab fading down */
+    var cAO = cnv(256); x = cAO[1];
+    var aog = x.createLinearGradient(0, 256, 0, 0);
+    aog.addColorStop(0, "rgba(10,14,10,0.85)"); aog.addColorStop(1, "rgba(10,14,10,0)");
+    x.fillStyle = aog; x.fillRect(0, 0, 256, 256);
+    var cAOt = cnv(256); x = cAOt[1];
+    var aog2 = x.createLinearGradient(0, 0, 0, 256);
+    aog2.addColorStop(0, "rgba(10,14,10,0.7)"); aog2.addColorStop(1, "rgba(10,14,10,0)");
+    x.fillStyle = aog2; x.fillRect(0, 0, 256, 256);
+    /* radial contact shadow (soft dark disc that grounds objects) */
+    var cShad = cnv(256); x = cShad[1];
+    var shd = x.createRadialGradient(128, 128, 10, 128, 128, 128);
+    shd.addColorStop(0, "rgba(8,12,8,0.62)"); shd.addColorStop(0.7, "rgba(8,12,8,0.30)"); shd.addColorStop(1, "rgba(8,12,8,0)");
+    x.fillStyle = shd; x.fillRect(0, 0, 256, 256);
     /* sky gradient (redrawn as the sun travels) */
     var cSky = cnv(512); 
     var skyTex = new THREE.CanvasTexture(cSky[0]);
@@ -3006,9 +3049,9 @@ window.addEventListener("load", function(){
     function std(o){ return new THREE.MeshStandardMaterial(o); }
     var concTex = tex(cConc[0], 1, 1, true), concBmp = tex(cConc[0], 1, 1, false);
     var M = {
-      conc:  std({ map: concTex, bumpMap: concBmp, bumpScale: 0.6, roughness: 0.94 }),
+      conc:  std({ map: concTex, bumpMap: concBmp, bumpScale: 1.0, roughness: 0.94 }),
       concD: std({ map: tex(cConc[0], 2, 1, true), color: 0xb9bcb2, roughness: 0.96 }),
-      cream: std({ map: tex(cCream[0], 3, 1, true), bumpMap: tex(cCream[0], 3, 1, false), bumpScale: 0.25, roughness: 0.92 }),
+      cream: std({ map: tex(cCream[0], 2, 1, true), bumpMap: tex(cCream[0], 2, 1, false), bumpScale: 0.55, roughness: 0.92 }),
       trav:  std({ map: tex(cTrav[0], 2, 1, true), bumpMap: tex(cTrav[0], 2, 1, false), bumpScale: 0.3, roughness: 0.8 }),
       zel:   std({ map: tex(cZel[0], 2, 2, true), roughnessMap: tex(cZelR[0], 2, 2, false), roughness: 1.0, envMapIntensity: 0.9 }),
       wood:  std({ map: tex(cWood[0], 1, 1, true), bumpMap: tex(cWood[0], 1, 1, false), bumpScale: 0.4, roughness: 0.72 }),
@@ -3023,9 +3066,27 @@ window.addEventListener("load", function(){
       leaf:  std({ color: 0x3f7a34, roughness: 0.9 }),
       trunk: std({ map: tex(cWood[0], 2, 3, true), color: 0xb59a78, roughness: 0.95 })
     };
-    var glassMat = std({ color: 0xcfe2ea, roughness: 0.06, metalness: 0.9, envMapIntensity: 1.6, transparent: true, opacity: 0.52, emissive: 0xffb066, emissiveIntensity: 0, side: THREE.DoubleSide });
+    var glassMat = std({ color: 0xd6e6ee, roughness: 0.38, roughnessMap: tex(cSheen[0], 1, 1, false), metalness: 0.85, envMapIntensity: 2.1, transparent: true, opacity: 0.46, emissive: 0xffb066, emissiveIntensity: 0, side: THREE.DoubleSide });
     var waterTex = tex(cWat[0], 3, 3, false);
-    var waterMat = std({ color: 0x2f7292, roughness: 0.08, metalness: 0.1, envMapIntensity: 1.5, bumpMap: waterTex, bumpScale: 1.4, transparent: true, opacity: 0.94 });
+    var waterMat = std({ color: 0x2f7292, roughness: 0.05, metalness: 0.1, envMapIntensity: 2.0, bumpMap: waterTex, bumpScale: 1.4, transparent: true, opacity: 0.85 });
+    /* pool floor (caustics), AO strips and contact-shadow discs */
+    var causTex = tex(cCaus[0], 2, 4, true);
+    var poolFloorMat = std({ map: causTex, roughness: 0.35, metalness: 0.05, envMapIntensity: 0.7 });
+    var aoMat = new THREE.MeshBasicMaterial({ map: tex(cAO[0], 1, 1, false), transparent: true, depthWrite: false });
+    var aoMatT = new THREE.MeshBasicMaterial({ map: tex(cAOt[0], 1, 1, false), transparent: true, depthWrite: false });
+    function aoStrip(w, h, topDark){
+      var g = new THREE.PlaneGeometry(w, h); g.translate(0, topDark ? -h / 2 : h / 2, 0);
+      var m = new THREE.Mesh(g, topDark ? aoMatT : aoMat);
+      m.renderOrder = 2; m.castShadow = false; m.receiveShadow = false;
+      return m;
+    }
+    var shadTex = tex(cShad[0], 1, 1, false);
+    function shadowDisc(w, d, op){
+      var g = new THREE.PlaneGeometry(w, d); g.rotateX(-Math.PI / 2);
+      var m = new THREE.Mesh(g, new THREE.MeshBasicMaterial({ map: shadTex, transparent: true, opacity: op, depthWrite: false }));
+      m.renderOrder = 2; m.castShadow = false; m.receiveShadow = false;
+      return m;
+    }
     var latMat = std({ color: 0x7a5228, roughness: 0.7, alphaMap: tex(cLat[0], 1, 1, false), alphaTest: 0.45, side: THREE.DoubleSide });
     var frondTex = tex(cFrond[0], 1, 1, true);
     var frondMat = std({ map: frondTex, alphaTest: 0.45, side: THREE.DoubleSide, roughness: 0.9 });
@@ -3094,11 +3155,14 @@ window.addEventListener("load", function(){
     }
     var plinth = B(11.4, 0.45, 9.4, M.concD); plinth.position.set(0, 0, 0);
     world.add(reg(g1, plinth, "xz", 0.55));
+    /* soft contact shadow grounding the structure on the bare earth */
+    var vDisc1 = shadowDisc(15.5, 13, 0.5); vDisc1.position.set(0, 0.02, 0);
+    world.add(reg(g1, vDisc1, "xz", 0.1));
 
     /* --- Stage 2: rebar cages -> columns -> beams -> slabs (real proportions) --- */
     var cageGeoV = new THREE.CylinderGeometry(0.021, 0.021, 1, 5); cageGeoV.translate(0, 0.5, 0);
     var cageEdgeMat = new THREE.LineBasicMaterial({ color: 0x5d4033, transparent: true, opacity: 0.85 });
-    function rebarCage(x, z, y0, h, dl){
+    function rebarCage(x, z, y0, h, dl, sp){
       var grp = new THREE.Group(); grp.position.set(x, y0, z);
       var offs = [[-0.1, -0.1], [0.1, -0.1], [-0.1, 0.1], [0.1, 0.1]];
       for (var i = 0; i < 4; i++){
@@ -3109,35 +3173,42 @@ window.addEventListener("load", function(){
       var ring = new THREE.LineSegments(new THREE.EdgesGeometry(new THREE.BoxGeometry(0.24, h, 0.24)), cageEdgeMat);
       ring.geometry.translate(0, h / 2, 0); ring.castShadow = false;
       grp.add(ring);
-      world.add(reg(g2, grp, "y", dl, 0.4));
+      world.add(reg(g2, grp, "y", dl, sp || 0.4));
       return grp;
     }
     var formGroup = new THREE.Group(); world.add(formGroup); /* wooden formwork: stripped late in stage 2 */
     var formMat = std({ map: tex(cWood[0], 1, 2, true), roughness: 0.85, transparent: true });
     for (var f = 0; f < 2; f++){
-      var by = FLOOR[f], dl = f * 0.42;
+      var by = FLOOR[f];
+      /* SEATED growth (live-QA fix): a beam starts only once its columns have grown past
+         the beam's seat (beam bottom = 2.5 m of the 3.0 m column), and the slab starts only
+         once the columns are complete — nothing ever floats above unfinished columns.
+         The upper floor runs on a compressed clock so everything still lands by t = 0.93. */
+      var TM = f === 0
+        ? { cage: 0.00, cageSp: 0.34, col: 0.08, colSp: 0.30, bz: 0.30, bx: 0.33, bSp: 0.32, sl: 0.50, slSp: 0.32, feSp: 0.32 }
+        : { cage: 0.64, cageSp: 0.18, col: 0.63, colSp: 0.17, bz: 0.76, bx: 0.78, bSp: 0.14, sl: 0.85, slSp: 0.13, feSp: 0.11 };
       for (var a2 = 0; a2 < COLX.length; a2++) for (var b2 = 0; b2 < COLZ.length; b2++){
-        rebarCage(COLX[a2], COLZ[b2], by, f === 0 ? 3.55 : 3.3, dl + 0.02 * a2);
+        rebarCage(COLX[a2], COLZ[b2], by, f === 0 ? 3.55 : 3.3, TM.cage + 0.01 * a2, TM.cageSp);
         var col = B(0.3, 3.0, 0.3, M.conc); col.position.set(COLX[a2], by, COLZ[b2]);
-        world.add(reg(g2, col, "y", dl + 0.1 + 0.02 * a2, 0.42));
+        world.add(reg(g2, col, "y", TM.col + 0.012 * a2, TM.colSp));
         var shell = B(0.38, 3.0, 0.38, formMat); shell.position.set(COLX[a2], by, COLZ[b2]); shell.castShadow = true;
-        formGroup.add(reg(g2, shell, "y", dl + 0.1 + 0.02 * a2, 0.42));
+        formGroup.add(reg(g2, shell, "y", TM.col + 0.012 * a2, TM.colSp));
       }
       for (var c2 = 0; c2 < COLZ.length; c2++){
         var bm = B(10.1, 0.5, 0.3, M.conc); bm.position.set(0, by + 2.5, COLZ[c2]);
-        world.add(reg(g2, bm, "x", dl + 0.24, 0.4));
+        world.add(reg(g2, bm, "x", TM.bz, TM.bSp));
       }
       for (var d3 = 0; d3 < COLX.length; d3++){
         var bm2 = B(0.3, 0.5, 7.8, M.conc); bm2.position.set(COLX[d3], by + 2.5, 0);
-        world.add(reg(g2, bm2, "z", dl + 0.28, 0.4));
+        world.add(reg(g2, bm2, "z", TM.bx, TM.bSp));
       }
       var slab = B(11.4, 0.25, 9.4, M.conc); slab.position.set(0, by + 3.0, 0);
-      world.add(reg(g2, slab, "xz", dl + 0.34, 0.4));
+      world.add(reg(g2, slab, "xz", TM.sl, TM.slSp));
       /* slab edge formwork boards */
-      var fe1 = B(11.5, 0.3, 0.06, formMat); fe1.position.set(0, by + 2.98, 4.73); formGroup.add(reg(g2, fe1, "x", dl + 0.34, 0.4));
-      var fe2 = B(11.5, 0.3, 0.06, formMat); fe2.position.set(0, by + 2.98, -4.73); formGroup.add(reg(g2, fe2, "x", dl + 0.36, 0.4));
-      var fe3 = B(0.06, 0.3, 9.5, formMat); fe3.position.set(-5.73, by + 2.98, 0); formGroup.add(reg(g2, fe3, "z", dl + 0.38, 0.4));
-      var fe4 = B(0.06, 0.3, 9.5, formMat); fe4.position.set(5.73, by + 2.98, 0); formGroup.add(reg(g2, fe4, "z", dl + 0.4, 0.4));
+      var fe1 = B(11.5, 0.3, 0.06, formMat); fe1.position.set(0, by + 2.98, 4.73); formGroup.add(reg(g2, fe1, "x", TM.sl, TM.feSp));
+      var fe2 = B(11.5, 0.3, 0.06, formMat); fe2.position.set(0, by + 2.98, -4.73); formGroup.add(reg(g2, fe2, "x", TM.sl + 0.02, TM.feSp));
+      var fe3 = B(0.06, 0.3, 9.5, formMat); fe3.position.set(-5.73, by + 2.98, 0); formGroup.add(reg(g2, fe3, "z", TM.sl + 0.03, TM.feSp));
+      var fe4 = B(0.06, 0.3, 9.5, formMat); fe4.position.set(5.73, by + 2.98, 0); formGroup.add(reg(g2, fe4, "z", TM.sl + 0.04, TM.feSp));
     }
 
     /* --- Stage 3: walls with real-scale openings, parapet --- */
@@ -3225,6 +3296,22 @@ window.addEventListener("load", function(){
         g3.push(wItems[wi]);
       }
     }
+    /* AO strips: gradient shadow at every wall base + a shadow line under each slab,
+       so the flat render reads with depth at distance */
+    for (var af = 0; af < 2; af++){
+      var ay = FLOOR[af], adl = af === 0 ? 0 : 0.3;
+      var adefs = [
+        [10.9, 0, ay, 4.46, 0, false], [10.9, 0, ay, -4.46, Math.PI, false],
+        [8.4, -5.46, ay, 0, -Math.PI / 2, false], [8.4, 5.46, ay, 0, Math.PI / 2, false],
+        [10.9, 0, ay + 3.0, 4.46, 0, true], [10.9, 0, ay + 3.0, -4.46, Math.PI, true]
+      ];
+      for (var adi = 0; adi < adefs.length; adi++){
+        var ad = adefs[adi];
+        var ast = aoStrip(ad[0], ad[5] ? 0.42 : 0.55, ad[5]);
+        ast.position.set(ad[1], ad[2], ad[3]); ast.rotation.y = ad[4];
+        world.add(reg(g3, ast, "y", adl + 0.05 + 0.04 * adi));
+      }
+    }
     for (var gp = 0; gp < glassPanes.length; gp++) reg(g4, glassPanes[gp], "y", 0.04 * (gp % 5));
     for (var cu = 0; cu < curtainPanes.length; cu++) reg(g4, curtainPanes[cu], "y", 0.1 + 0.05 * cu);
     for (var lp2 = 0; lp2 < latPanes.length; lp2++) reg(g4, latPanes[lp2], "y", 0.3 + 0.08 * lp2);
@@ -3285,37 +3372,62 @@ window.addEventListener("load", function(){
     /* --- Garden: lawn, driveway, pool, palms, boundary wall + gate --- */
     var lawn = B(31, 0.06, 23, M.lawn); lawn.position.set(0, -0.02, 0); lawn.castShadow = false;
     world.add(reg(g4, lawn, "xz", 0.02));
+    var vDisc2 = shadowDisc(15.5, 13, 0.42); vDisc2.position.set(0, 0.055, 0);
+    world.add(reg(g4, vDisc2, "xz", 0.03));
     var drive = B(3.4, 0.05, 6.4, M.trav); drive.position.set(0, 0.03, 7.9); drive.castShadow = false;
     world.add(reg(g4, drive, "z", 0.06));
     var poolBase = B(4.1, 0.4, 7.1, M.trav); poolBase.position.set(9.6, 0, 0.5);
     world.add(reg(g4, poolBase, "y", 0.3));
+    var poDisc = shadowDisc(5.6, 8.6, 0.35); poDisc.position.set(9.6, 0.055, 0.5);
+    world.add(reg(g4, poDisc, "xz", 0.32));
+    var poolFloorGeo = new THREE.PlaneGeometry(3.5, 6.5); poolFloorGeo.rotateX(-Math.PI / 2);
+    var poolFloor = new THREE.Mesh(poolFloorGeo, poolFloorMat); poolFloor.position.set(9.6, 0.41, 0.5); poolFloor.receiveShadow = true;
+    world.add(reg(g4, poolFloor, "xz", 0.42));
     var waterGeo = new THREE.PlaneGeometry(3.5, 6.5); waterGeo.rotateX(-Math.PI / 2);
-    var water = new THREE.Mesh(waterGeo, waterMat); water.position.set(9.6, 0.42, 0.5); water.receiveShadow = true;
+    var water = new THREE.Mesh(waterGeo, waterMat); water.position.set(9.6, 0.44, 0.5); water.receiveShadow = true;
     world.add(reg(g4, water, "xz", 0.45));
-    function palm(px, pz, dl){
+    function palm(px, pz, dl, ps){
       var grp = new THREE.Group(); grp.position.set(px, 0, pz);
+      var inner = new THREE.Group(); inner.scale.setScalar(ps || 1); grp.add(inner);
       var segH = 0.95;
       for (var s = 0; s < 5; s++){
-        var tg = new THREE.CylinderGeometry(0.15 - s * 0.012, 0.17 - s * 0.012, segH, 7);
+        var tg = new THREE.CylinderGeometry(0.16 - s * 0.013, 0.19 - s * 0.013, segH, 7);
         tg.translate(0, segH / 2, 0);
         var tm = new THREE.Mesh(tg, M.trunk);
         tm.position.set(s * 0.07, s * segH, s * 0.03); tm.rotation.z = -0.07; tm.castShadow = true;
-        grp.add(tm);
+        inner.add(tm);
       }
-      var topX = 5 * 0.07 + Math.sin(0.07) * 0, topY = 5 * segH;
-      for (var fr = 0; fr < 9; fr++){
-        var fg = new THREE.PlaneGeometry(2.5, 0.85); fg.translate(1.15, 0, 0);
+      var topY = 5 * segH;
+      for (var fr = 0; fr < 16; fr++){
+        var fg = new THREE.PlaneGeometry(2.9, 1.0); fg.translate(1.32, 0, 0);
         var fm = new THREE.Mesh(fg, frondMat);
         fm.position.set(0.3, topY, 0.12);
-        fm.rotation.y = (fr / 9) * Math.PI * 2 + px;
-        fm.rotation.z = -0.35 - (fr % 3) * 0.16;
+        fm.rotation.y = (fr / 16) * Math.PI * 2 + px + (fr % 3) * 0.13;
+        fm.rotation.z = -0.22 - (fr % 4) * 0.17;
+        fm.rotation.x = (fr % 5) * 0.05 - 0.1;
         fm.castShadow = true;
-        grp.add(fm);
+        inner.add(fm);
       }
       world.add(reg(g4, grp, "y", dl, 0.5));
+      var pd = shadowDisc(3.6, 3.6, 0.5); pd.position.set(px, 0.055, pz);
+      world.add(reg(g4, pd, "xz", dl));
       return grp;
     }
-    palm(-8.6, 6.8, 0.5); palm(13.1, 6.4, 0.58); palm(-10.2, -6.4, 0.66);
+    palm(-8.6, 6.8, 0.5); palm(13.1, 6.4, 0.58); palm(-10.2, -6.4, 0.66); palm(7.6, -7.8, 0.72, 0.72);
+    /* shrubs: flat-shaded leaf blobs along the façade and around the garden */
+    var shrubMat = std({ color: 0x39682f, roughness: 0.95, flatShading: true });
+    var shrubMat2 = std({ color: 0x4c7d38, roughness: 0.95, flatShading: true });
+    var shrubSpots = [[-4.4, 5.6], [-2.2, 5.75], [2.4, 5.75], [4.5, 5.6], [-6.8, -5.4], [6.9, -5.5], [12.4, 5.4]];
+    for (var shi = 0; shi < shrubSpots.length; shi++){
+      var shg2 = new THREE.Group(); shg2.position.set(shrubSpots[shi][0], 0.02, shrubSpots[shi][1]);
+      for (var shb = 0; shb < 3; shb++){
+        var sph = new THREE.Mesh(new THREE.SphereGeometry(0.34 + ((shi + shb) % 3) * 0.09, 7, 6), (shb + shi) % 2 ? shrubMat : shrubMat2);
+        sph.position.set((shb - 1) * 0.3, 0.26 + (shb % 2) * 0.12, (shb % 2) * 0.22 - 0.1);
+        sph.scale.y = 0.78; sph.castShadow = true; sph.receiveShadow = true;
+        shg2.add(sph);
+      }
+      world.add(reg(g4, shg2, "xyz", 0.5 + 0.05 * shi));
+    }
     /* boundary wall + pillars + gate */
     var bw = [ [29.5, 0.25, 0, 2.0, 11, "x"], [29.5, 0.25, 0, 2.0, -11, "x"],
                [0.25, 22, -14.6, 2.0, 0, "z"], [0.25, 22, 14.6, 2.0, 0, "z"] ];
@@ -3417,7 +3529,9 @@ window.addEventListener("load", function(){
     var hcage = B(1.15, 0.7, 0.05, tubeMat); hcage.position.set(6.42, 3.64, 5.36);
     scafGroup.add(hcage);
 
-    /* --- Crane: fades IN with stage 1 (never parked), load rests on the ground first --- */
+    /* --- Crane: fades IN with stage 1. NO airborne load (live-QA fix): the cable stays
+       retracted with its hook block parked under the jib, and the concrete panels rest
+       stacked on the ground beside the crane base for the crane's whole presence. --- */
     var craneMat = std({ color: 0xc9a227, roughness: 0.45, metalness: 0.7, transparent: true, opacity: 0 });
     var craneMat2 = std({ color: 0x8a6d1f, roughness: 0.5, metalness: 0.6, transparent: true, opacity: 0 });
     var craneMats = [craneMat, craneMat2];
@@ -3428,8 +3542,11 @@ window.addEventListener("load", function(){
     var cjib = B(2.6, 0.3, 0.3, craneMat2); cjib.position.set(1.5, 11.75, 0); crane.add(cjib);
     var apex = new THREE.Mesh(new THREE.ConeGeometry(0.42, 1.3, 4), craneMat); apex.position.set(0, 12.6, 0); crane.add(apex);
     var cableGeo = new THREE.CylinderGeometry(0.02, 0.02, 1, 5); cableGeo.translate(0, -0.5, 0);
-    var cable = new THREE.Mesh(cableGeo, craneMat2); cable.position.set(-6.2, 11.7, 0); crane.add(cable);
-    var load = B(1.6, 0.26, 1.1, M.conc); load.position.set(-6.95, 0.02, -0.55); load.castShadow = true; crane.add(load);
+    var cable = new THREE.Mesh(cableGeo, craneMat2); cable.position.set(-6.2, 11.7, 0); cable.scale.y = 1.5; crane.add(cable);
+    var hook = B(0.2, 0.34, 0.2, craneMat2); hook.position.set(-6.2, 9.86, 0); crane.add(hook);
+    var loadMat = M.conc.clone(); loadMat.transparent = true; craneMats.push(loadMat);
+    var load = B(1.6, 0.26, 1.1, loadMat); load.position.set(2.3, 0.02, 1.5); load.rotation.y = 0.12; load.castShadow = true; crane.add(load);
+    var load2 = B(1.6, 0.26, 1.1, loadMat); load2.position.set(2.3, 0.30, 1.5); load2.rotation.y = -0.06; load2.castShadow = true; crane.add(load2);
     world.add(crane);
 
     /* ---------------- post: bloom for the dusk glow, capable devices only ---------------- */
@@ -3459,10 +3576,22 @@ window.addEventListener("load", function(){
     var lastTouch = 0, driftDir = 1, introT = 0;
     var pointers = new Map(), pinchD0 = 0, pinchZ0 = 1, lastTap = 0, lastTapX = -999, lastTapY = -999;
     function resetView(){ azT = AZ0; tiltT = 0.35; zoomT = 1; lastTouch = performance.now(); }
-    sticky.addEventListener("pointerdown", function(e){
-      if (e.target && e.target.closest && e.target.closest("a,button,input,textarea,select")) return;
+    /* Orbit input (live-QA fix): the old build listened for pointermove on the sticky
+       container and relied on events bubbling up from whichever overlay child received
+       the pointer — two ample drags produced no visible rotation. Now: pointerdown is
+       taken on the canvas itself (and on the sticky for overlay-originated presses,
+       de-duplicated), the canvas takes pointer capture, and move/up are tracked on
+       window (the pattern that verifiably worked in the r128 scene), so a drag rotates
+       no matter which element the press started on. Azimuth is applied from dx on every
+       move (no dominant-axis gate), and the user's azT persists across stage changes —
+       nothing in the frame loop ever writes azT except the idle drift after 2.6 s. */
+    var cvs = renderer.domElement;
+    function onDown(e){
+      if (pointers.has(e.pointerId)) return;
+      if (e.target && e.target !== cvs && e.target.closest && e.target.closest("a,button,input,textarea,select")) return;
       pointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
       lastTouch = performance.now();
+      try { cvs.setPointerCapture(e.pointerId); } catch (err) {}
       if (pointers.size === 2){
         var pts = Array.from(pointers.values());
         pinchD0 = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y) || 1;
@@ -3472,8 +3601,10 @@ window.addEventListener("load", function(){
         if (nowD - lastTap < 330 && Math.hypot(e.clientX - lastTapX, e.clientY - lastTapY) < 42) resetView();
         lastTap = nowD; lastTapX = e.clientX; lastTapY = e.clientY;
       }
-    });
-    sticky.addEventListener("pointermove", function(e){
+    }
+    cvs.addEventListener("pointerdown", onDown);
+    sticky.addEventListener("pointerdown", function(e){ if (e.target !== cvs) onDown(e); });
+    window.addEventListener("pointermove", function(e){
       if (!pointers.has(e.pointerId)) return;
       var prev = pointers.get(e.pointerId);
       var dx = e.clientX - prev.x, dy = e.clientY - prev.y;
@@ -3484,17 +3615,74 @@ window.addEventListener("load", function(){
         var dNow = Math.hypot(pts[0].x - pts[1].x, pts[0].y - pts[1].y) || 1;
         zoomT = Math.max(0.55, Math.min(1.65, pinchZ0 * pinchD0 / dNow));
       } else if (pointers.size === 1){
-        if (Math.abs(dx) >= Math.abs(dy)) azT -= dx * 0.0052;
+        azT -= dx * 0.0052;
         tiltT = Math.max(0.04, Math.min(1, tiltT - dy * 0.0028));
         azT = Math.max(-2.35, Math.min(2.35, azT));
       }
-    });
-    function endPointer(e){ pointers.delete(e.pointerId); lastTouch = performance.now(); }
-    sticky.addEventListener("pointerup", endPointer);
-    sticky.addEventListener("pointercancel", endPointer);
-    sticky.addEventListener("dblclick", function(){ resetView(); });
+    }, { passive: true });
+    function endPointer(e){ if (pointers.delete(e.pointerId)) lastTouch = performance.now(); }
+    window.addEventListener("pointerup", endPointer);
+    window.addEventListener("pointercancel", endPointer);
+    cvs.addEventListener("dblclick", function(){ resetView(); });
+    /* numeric state hook so a visual QA can verify rotation instead of eyeballing it */
+    window.__J3D_ULT_STATE = function(){ return { az: az, azT: azT, tilt: tilt, tiltT: tiltT, zoom: zoom, fitR: fitR }; };
 
-    /* ---------------- sizing: distance fitted to aspect so the whole villa fits ---------------- */
+    /* ---------------- sizing: distance SOLVED from the villa bounding box ----------------
+       The old fit used a fixed half-span around the target (6.5 m / tan) — but the
+       pergola's near corner is much closer to the camera than the target, so it
+       projected past the top of the frustum and the roof was cut at stages 04-05.
+       solveFitR instead projects every corner of the villa box (ground -> pergola
+       top) over the full orbit/tilt range and bisects the smallest radius that keeps
+       all corners inside with >=15% sky margin above and >=10% ground margin below
+       (pool box also fitted horizontally on wide screens). Pure math between the
+       FITMATH markers so the offline fit-check script can extract and verify it. */
+    /*FITMATH-START*/
+    function solveFitR(aspect){
+      var fovT = Math.tan(38 * Math.PI / 360); /* camera.fov = 38 */
+      var TX = 0, TY = 3.55, TZ = 0;           /* camera target (frame() lookAt) */
+      var boxA = [[-5.75, 0, -4.75], [5.75, 9.55, 4.75]];  /* villa + pergola */
+      var boxB = [[7.5, 0, -3.1], [11.7, 0.9, 4.1]];       /* pool */
+      var azs = [-2.47, -2.16, -1.85, -1.54, -1.23, -0.92, -0.62, -0.31, 0, 0.31, 0.62, 0.93, 1.24, 1.55, 1.86, 2.17, 2.47];
+      var tilts = [0.04, 0.2, 0.35, 0.55, 0.7, 0.85, 1.0]; /* camY = 2.5 + tilt * 6.6 */
+      function corners(b){
+        var cs = [];
+        for (var i = 0; i < 8; i++) cs.push([i & 1 ? b[1][0] : b[0][0], i & 2 ? b[1][1] : b[0][1], i & 4 ? b[1][2] : b[0][2]]);
+        return cs;
+      }
+      var cA = corners(boxA), cB = corners(boxB);
+      function fits(R){
+        for (var a = 0; a < azs.length; a++) for (var t = 0; t < tilts.length; t++){
+          var az = azs[a], camY = 2.5 + tilts[t] * 6.6;
+          var ex = Math.sin(az) * R, ez = Math.cos(az) * R;
+          var fx = TX - ex, fy = TY - camY, fz = TZ - ez;
+          var fl = Math.sqrt(fx * fx + fy * fy + fz * fz); fx /= fl; fy /= fl; fz /= fl;
+          var rx = -fz, rz = fx; var rl = Math.sqrt(rx * rx + rz * rz) || 1; rx /= rl; rz /= rl;
+          var ux = -fy * rz, uy = rz * fx - rx * fz, uz = fy * rx;
+          for (var i = 0; i < cA.length; i++){
+            var dx = cA[i][0] - ex, dy = cA[i][1] - camY, dz = cA[i][2] - ez;
+            var df = dx * fx + dy * fy + dz * fz;
+            if (df < 1) return false;
+            var ny = (dx * ux + dy * uy + dz * uz) / (df * fovT);
+            if (ny > 0.85 || ny < -0.90) return false;
+            var nx = (dx * rx + dz * rz) / (df * fovT * aspect);
+            if (nx > 0.94 || nx < -0.94) return false;
+          }
+          if (aspect >= 4 / 3) for (var j = 0; j < cB.length; j++){
+            var bx = cB[j][0] - ex, by2 = cB[j][1] - camY, bz = cB[j][2] - ez;
+            var bf = bx * fx + by2 * fy + bz * fz;
+            if (bf < 1) return false;
+            var bx2 = (bx * rx + bz * rz) / (bf * fovT * aspect);
+            if (bx2 > 0.97 || bx2 < -0.97) return false;
+          }
+        }
+        return true;
+      }
+      var lo = 10, hi = 80;
+      if (!fits(hi)) return hi;
+      for (var it = 0; it < 24; it++){ var mid = (lo + hi) / 2; if (fits(mid)) hi = mid; else lo = mid; }
+      return hi * 1.01; /* 1% guard band for inter-grid worst cases */
+    }
+    /*FITMATH-END*/
     var fitR = 20;
     function fit(){
       var w = box3d.clientWidth || sceneEl.clientWidth || W;
@@ -3504,11 +3692,7 @@ window.addEventListener("load", function(){
       if (composer) composer.setSize(w, h);
       camera.aspect = w / h;
       camera.updateProjectionMatrix();
-      var tanH = Math.tan(THREE.MathUtils.degToRad(camera.fov / 2));
-      var distV = 6.5 / tanH;                       /* ground -> pergola top span around target */
-      var distH = 11.8 / (tanH * camera.aspect);    /* villa + pool width span */
-      fitR = Math.max(distV, Math.min(distH, 26));  /* portrait keeps the v1 feel (garden may crop) */
-      fitR = Math.max(15, Math.min(30, fitR));
+      fitR = solveFitR(camera.aspect);
     }
     if ("ResizeObserver" in window) new ResizeObserver(fit).observe(box3d);
     window.addEventListener("resize", fit);
@@ -3584,16 +3768,10 @@ window.addEventListener("load", function(){
       if (scafGroup.visible){
         for (var sc = 0; sc < scafMats.length; sc++) scafMats[sc].opacity = scOp * (scafMats[sc] === netMat ? 0.38 : 1);
       }
-      /* crane: fades in with stage 1, load rises only during stage 2, out before stage 5 */
+      /* crane: fades in with stage 1, fully static (no airborne load), out before stage 5 */
       var cOp = winT(pS, 0.005, 0.05) * (1 - winT(pS, 0.58, 0.72));
       crane.visible = cOp > 0.02;
-      if (crane.visible){
-        for (var cm = 0; cm < craneMats.length; cm++) craneMats[cm].opacity = cOp;
-        var lift = winT(pS, 0.16, 0.3) * (1 - winT(pS, 0.42, 0.55));
-        var loadY = 0.02 + lift * (7.35 - 0.02);
-        load.position.y = loadY;
-        cable.scale.y = Math.max(0.1, 11.7 - (loadY + 0.28));
-      }
+      if (crane.visible) for (var cm = 0; cm < craneMats.length; cm++) craneMats[cm].opacity = cOp;
       /* dusk: interior glow, curtains, lamps, pool light, stars, bloom */
       glassMat.emissiveIntensity = dusk * 0.9;
       curtMat.emissiveIntensity = dusk * 0.5;
@@ -3604,6 +3782,7 @@ window.addEventListener("load", function(){
       starMat.opacity = dusk * 0.9;
       if (bloomPass) bloomPass.strength = dusk * 0.55;
       waterTex.offset.x = ts * 0.000008; waterTex.offset.y = Math.sin(ts * 0.00022) * 0.03;
+      causTex.offset.x = Math.sin(ts * 0.00011) * 0.04; causTex.offset.y = Math.cos(ts * 0.00007) * 0.04;
       applySun(pS);
       /* camera: clamped orbit, locked target, idle drift, one soft intro */
       if (introT < 1) introT = Math.min(1, introT + dt / 2.8);
@@ -3616,9 +3795,9 @@ window.addEventListener("load", function(){
       tilt += (tiltT - tilt) * Math.min(1, dt * 8 + 0.05);
       zoom += (zoomT - zoom) * Math.min(1, dt * 7 + 0.05);
       var azUse = az + 0.12 * Math.sin(pS * Math.PI);
-      var radius = Math.max(11, Math.min(36, fitR * zoom * (1.28 - 0.28 * introE)));
+      var radius = Math.max(8, Math.min(90, fitR * zoom * (1.28 - 0.28 * introE)));
       camera.position.set(Math.sin(azUse) * radius, 2.5 + tilt * 6.6, Math.cos(azUse) * radius);
-      camera.lookAt(0, 3.1, 0);
+      camera.lookAt(0, 3.55, 0);
       if (composer) composer.render(); else renderer.render(scene, camera);
     }
     function play(){ if (rafId === null && inView && !document.hidden) rafId = requestAnimationFrame(frame); }
@@ -3648,6 +3827,5 @@ window.addEventListener("load", function(){
     return true;
   }
 })();
-
 </script>
 </body></html>
