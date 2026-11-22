@@ -2749,11 +2749,19 @@ function bibRestore(){
     o.card.querySelector('.bib-body').innerHTML = o.body;
   });
 }
+var BIB_LANG = 'ar';
+function bibChrome(l){
+  var d = SUB[l] || SUB.ar;
+  document.querySelectorAll('.bib-card [data-i18n]').forEach(function(el){
+    var k = el.getAttribute('data-i18n'); if (d[k]) el.innerHTML = d[k];
+  });
+}
 function bibApply(l){
-  if (l === 'ar'){ bibRestore(); return; }
+  BIB_LANG = l;
+  if (l === 'ar'){ bibRestore(); bibChrome('ar'); return; }
   bibCapture();
   var done = function(data){
-    if (!data) return;
+    if (!data || BIB_LANG !== l) return;
     Object.keys(BIB_ORIG).forEach(function(n){
       var e = data[n]; if (!e) return;
       var card = BIB_ORIG[n].card;
@@ -2768,6 +2776,7 @@ function bibApply(l){
       bodyEl.innerHTML = '';
       paras.forEach(function(p){ var el = document.createElement('p'); el.textContent = p; bodyEl.appendChild(el); });
     });
+    bibChrome(l);
   };
   if (BIB_CACHE[l]){ done(BIB_CACHE[l]); return; }
   fetch('bib-' + l + '.json').then(function(r){ return r.json(); }).then(function(data){ BIB_CACHE[l] = data; done(data); }).catch(function(){});
